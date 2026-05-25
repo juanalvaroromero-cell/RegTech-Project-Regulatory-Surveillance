@@ -1,0 +1,216 @@
+TITLE: Certification of medicinal products
+
+=== TEXT CONTENT ===
+This content applies to human and veterinary medicines.
+
+EMA is only issuing certificates for human and veterinary medicines that aresigned and authenticated electronically, as of March 2020. It is not issuing paper certificates.
+
+The format of the certificate is based on an electronically signed PDF document using an electronic signature fully compliant withRegulation (EU) No 910/2014 on the electronic identification and trust services for electronic transactions in the internal market (eIDAS Regulation). This guarantees the unique link to the signatory and the full authenticity and integrity of the document.
+
+For more information, see:
+
+Information note on the format and validity features of electronic certificates for medicines issued by the European Medicines Agency
+
+English (EN)(664.63 KB - PDF)
+
+EMA’s electronic system for issuing certificates permanently replaces the previous paper-based system, as part of EMA’s drive to digitalise procedures.
+
+EMA first introduced the electronic system in March 2020 to ensure that it can continue providing certificates during theCOVID-19 pandemic.
+
+An onlineverification systemis available for health authorities outside the EU and any interested party to check the authenticity of an electronic certificate issued by EMA:
+
+The legal bases are Article 127 of Directive 2001/83/EC (medicinal product for human use) andArticle 98 of the Regulation 2019/6(veterinary medicinal products). As foreseen by the legislation, the Agency's certification scheme is based onWorld Health Organisation recommendations.
+
+EMA issues such certificates on behalf of the European Commission toconfirm the marketing authorisation statusof products either authorised by the European Commission through the centralised procedure or products for which a centralised application has been submitted to the Agency, andproducts for use outside the European Union (EU-M4all). It was previously known as the Article 58 procedure, as the legal basis isArticle 58 of Regulation (EC) No 726/2004.
+
+The certificates also confirm thegood manufacturing practice (GMP) compliance statusof the manufacturing site(s) producing the medicinal product bulk pharmaceutical form. For further information on manufacturing sites certified by the Agency, please see the information package below.
+
+The Agency also certifies products for use outside the European Union. EU-M4all provides that the Agency can give a scientific opinion, in the context of cooperation with the WHO, for the evaluation of certain medicinal products intended exclusively for markets outside the European Community. Such opinions are drawn up by the CHMP, following a review of the quality, safety and efficacy data, analogous to the review undertaken via the centralised procedure, after consultation with the WHO.
+
+EMA can only certify a product if a valid application for marketing authorisation, or for a scientific opinion pursuant to EU-M4all has been submitted to the Agency via the centralised procedure. For products authorised nationally by EU Member State national competent authorities (national authorisations and/or mutual recognition authorisations), the certificates are issued by the national authority granting the marketing authorisation.
+
+The Agency can issue certificates of medicinal products to support the work of health authorities inany country outside the EU. Guidance on countries officially recognised by the EU, their official names and abbreviations used can be found in thelist of countries, territories and currencies, published in the internet site of the EU as part of the Interinstitutional style guide.
+
+EMA issues certificates withinten working days (standard procedure)or withintwo working days (urgent procedure)following receipt of payment in full of relevant fees for a submitted application.
+
+For more information on certificates of medicinal products, please use the information package below.
+
+For more information on medicinal products authorised by the Agency, see:
+
+For more information on EMA's plasma-master-file and vaccine-antigen-master-file certification schemes, see:
+
+For information about certification of suitability for substances, please see theEuropean Directorate for the Quality of Medicines and Healthcare (EDQM)website.
+
+For more information and guidance on certification of medicinal products, see:
+
+Notification on arrangements for requesting EMA certificates through urgent and standard procedure for December 2025
+
+English (EN)(113.89 KB - PDF)
+
+Notification in preparation for the New fee regulation and new prepayment system for certificates of medicinal products, with implementation from January 2025
+
+English (EN)(161.84 KB - PDF)
+
+Implementation of the new WHO certificate template – compilation of changes
+
+English (EN)(674.24 KB - PDF)
+
+Notification on arrangements for requesting EMA certificates through urgent and standard procedure for December 2024
+
+English (EN)(126.47 KB - PDF)
+
+Information note on the format and validity features of electronic certificates for medicines issued by the European Medicines Agency
+
+English (EN)(664.63 KB - PDF)
+
+Information package for certificates of medicinal products issued by the European Medicines Agency
+
+English (EN)(1.17 MB - PDF)
+
+Handling times for requests for EMA certificates through standard procedure
+
+English (EN)(75.41 KB - PDF)
+
+Notification on authenticity of European Medicines Agency certificates
+
+The European Medicines Agency (EMA) has been informed that health authorities in some importing countries require further legalisation or authentication of the EMA certificates. The EMA supports the WHO’s view on the superfluous nature of authentication processes.
+
+English (EN)(80.14 KB - PDF)
+
+Notification on arrangements for requesting EMA certificates through urgent and standard procedure for December 2024
+
+English (EN)(126.47 KB - PDF)
+
+For information on how to request a certificate, see:
+
+Submit requests via theCertificates Processing System
+
+Requests sent tocertificate@ema.europa.eu,certificate_urgent@ema.europa.euor to the e-mail addresses of the Agency's staff members will not be considered.
+
+Send any general queries about certificates tocertificate@ema.europa.eu.
+
+For all technical questions or issues related to the Certificates Processing System (CPS) raise a ticket viaEMA Service Now.
+
+EMA charges an administrative fee for issuing certificates.
+
+For more information, seeFees payable to the European Medicines Agency.
+
+Product emergency hotline
+
+OUTSIDE WORKING HOURS
+
+European Medicines AgencyDomenico Scarlattilaan 61083 HS AmsterdamThe Netherlands
+
+Tel: +31 (0)88 781 6000
+
+How to find usPostal address and deliveriesBusiness hours and holidays
+
+=== ATTACHMENTS AND TRACKED LINKS ===
+LINK_TEXT: Skip to main content | TARGET_URL: #main-content
+LINK_TEXT: Find medicine | TARGET_URL: /en/medicines
+LINK_TEXT: Therapeutic areas: latest updates | TARGET_URL: /en/medicines/therapeutic-areas-latest-updates
+LINK_TEXT: Download medicine data | TARGET_URL: /en/medicines/download-medicine-data
+LINK_TEXT: What we publish on medicines and when | TARGET_URL: /en/medicines/what-we-publish-medicines-when
+LINK_TEXT: Medicines under evaluation | TARGET_URL: /en/medicines/medicines-human-use-under-evaluation
+LINK_TEXT: National registers | TARGET_URL: /en/medicines/national-registers-authorised-medicines
+LINK_TEXT: Human regulatory | TARGET_URL: /en/human-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/human-regulatory-overview/research-development
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/human-regulatory-overview/post-authorisation
+LINK_TEXT: Medical devices | TARGET_URL: /en/human-regulatory-overview/medical-devices
+LINK_TEXT: Herbal products | TARGET_URL: /en/human-regulatory-overview/herbal-medicinal-products
+LINK_TEXT: Veterinary regulatory | TARGET_URL: /en/veterinary-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/veterinary-regulatory-overview/research-development-veterinary-medicines
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines
+LINK_TEXT: How the committees work | TARGET_URL: /en/committees/how-committees-work
+LINK_TEXT: Working parties and other groups | TARGET_URL: /en/committees/working-parties-other-groups
+LINK_TEXT: News & events | TARGET_URL: /en/news-events
+LINK_TEXT: Committee highlights | TARGET_URL: /en/news-events/committee-highlights
+LINK_TEXT: Publications | TARGET_URL: /en/news-and-events/publications
+LINK_TEXT: Press and social media | TARGET_URL: /en/news-events/press-social-media
+LINK_TEXT: Podcast: Inside EMA | TARGET_URL: /en/news-events/podcast-inside-ema
+LINK_TEXT: EMA Campaigns | TARGET_URL: /en/news-events/ema-campaigns
+LINK_TEXT: Open consultations | TARGET_URL: /en/news-events/open-consultations
+LINK_TEXT: Partners & networks | TARGET_URL: /en/partners-networks
+LINK_TEXT: EU partners | TARGET_URL: /en/partners-networks/eu-partners
+LINK_TEXT: International activities | TARGET_URL: /en/partners-networks/international-activities
+LINK_TEXT: Patients and consumers | TARGET_URL: /en/partners-networks/patients-consumers
+LINK_TEXT: Healthcare professionals | TARGET_URL: /en/partners-networks/healthcare-professionals
+LINK_TEXT: Pharmaceutical industry | TARGET_URL: /en/partners-networks/pharmaceutical-industry
+LINK_TEXT: Health technology assessment bodies | TARGET_URL: /en/partners-networks/health-technology-assessment-bodies
+LINK_TEXT: One Health approach | TARGET_URL: /en/partners-networks/one-health-approach
+LINK_TEXT: Animal health practitioners | TARGET_URL: /en/partners-networks/animal-health-practitioners
+LINK_TEXT: One substance - one assessment | TARGET_URL: /en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data
+LINK_TEXT: How we work | TARGET_URL: /en/about-us/how-we-work
+LINK_TEXT: Support to SMEs | TARGET_URL: /en/about-us/support-smes
+LINK_TEXT: Annual reports and work programmes | TARGET_URL: /en/about-us/annual-reports-work-programmes
+LINK_TEXT: History of EMA | TARGET_URL: /en/about-us/history-ema
+LINK_TEXT: Procurement | TARGET_URL: /en/about-us/procurement-grants
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Data protection and privacy | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Human regulatory: overview | TARGET_URL: https://www.ema.europa.eu/en/human-regulatory-overview
+LINK_TEXT: Post-authorisation | TARGET_URL: https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation
+LINK_TEXT: Also on this topic | TARGET_URL: #also-on-this-topic-63092
+LINK_TEXT: Electronic certificates | TARGET_URL: #electronic-certificates-12706
+LINK_TEXT: Authenticity verification for electronic certificates | TARGET_URL: #authenticity-verification-for-electronic-certificates-12708
+LINK_TEXT: Certification of medicines | TARGET_URL: #certification-of-medicines-12709
+LINK_TEXT: Requesting a certificate | TARGET_URL: #requesting-a-certificate-12712
+LINK_TEXT: Authenticity verification for electronic certificates | TARGET_URL: /en/human-regulatory-overview/post-authorisation/certification-medicinal-products/authenticity-verification-electronic-certificates
+LINK_TEXT: Requesting certificates | TARGET_URL: /en/human-regulatory-overview/post-authorisation/certification-medicinal-products/requesting-certificates
+LINK_TEXT: Regulation (EU) No 910/2014 on the electronic identification and trust services for electronic transactions in the internal market (eIDAS Regulation) | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.257.01.0073.01.ENG
+LINK_TEXT: View | TARGET_URL: /en/documents/regulatory-procedural-guideline/information-note-format-and-validity-features-electronic-certificates-medicines-issued-european-medicines-agency_en.pdf
+LINK_TEXT: COVID-19 pandemic | TARGET_URL: /en/human-regulatory-overview/public-health-threats/coronavirus-disease-covid-19
+LINK_TEXT: Verifying the authenticity of electronic certificates | TARGET_URL: /en/human-regulatory-overview/post-authorisation/certification-medicinal-products/authenticity-verification-electronic-certificates
+LINK_TEXT: Article 98 of the Regulation 2019/6 | TARGET_URL: https://eur-lex.europa.eu/eli/reg/2019/6/oj
+LINK_TEXT: World Health Organisation recommendations | TARGET_URL: https://apps.who.int/iris/bitstream/handle/10665/340323/9789240020900-eng.pdf?sequence=1&isAllowed=y
+LINK_TEXT: products for use outside the European Union (EU-M4all) | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/medicines-use-outside-european-union
+LINK_TEXT: Article 58 of Regulation (EC) No 726/2004 | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32004R0726
+LINK_TEXT: list of countries, territories and currencies | TARGET_URL: http://publications.europa.eu/code/en/en-5000500.htm#fntB20
+LINK_TEXT: Medicines: European public assessment reports | TARGET_URL: /en/medicines/download-medicine-data
+LINK_TEXT: Authorisation of medicines | TARGET_URL: /en/about-us/what-we-do/authorisation-medicines
+LINK_TEXT: plasma master file (PMF) certification | TARGET_URL: /en/human-regulatory/research-development/non-pharmaceutical-products/plasma-master-files
+LINK_TEXT: Guideline on requirements for Vaccine Antigen Mater File (VAMF) certification | TARGET_URL: https://data.ec.europa.eu/ewp/media/6c39ba7e-a248-4877-aecf-2016da9bb257
+LINK_TEXT: Guideline on requirements for Vaccine Antigen Mater File (VAMF) certification | TARGET_URL: /en/documents/regulatory-procedural-guideline/guideline-requirements-vaccine-antigen-mater-file-vamf-certification_en.pdf
+LINK_TEXT: European Directorate for the Quality of Medicines and Healthcare (EDQM) | TARGET_URL: https://www.edqm.eu/en/certification
+LINK_TEXT: View | TARGET_URL: /en/documents/other/notification-arrangements-requesting-ema-certificates-through-urgent-standard-procedure-december-2025_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/notification-preparation-new-fee-regulation-new-prepayment-system-certificates-medicinal-products-implementation-january-2025_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/implementation-new-who-certificate-template-compilation-changes_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/notification-arrangements-requesting-ema-certificates-through-urgent-standard-procedure-december-2024_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/regulatory-procedural-guideline/information-note-format-and-validity-features-electronic-certificates-medicines-issued-european-medicines-agency_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/information-package-certificates-medicinal-products-issued-european-medicines-agency_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/handling-times-requests-ema-certificates-through-standard-procedure_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/notification-authenticity-european-medicines-agency-certificates_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/notification-arrangements-requesting-ema-certificates-through-urgent-standard-procedure-december-2024_en.pdf
+LINK_TEXT: Requesting a certificate | TARGET_URL: /en/human-regulatory/post-authorisation/post-authorisation-procedural-qa/certificates-products/requesting-certificates
+LINK_TEXT: Certificates Processing System | TARGET_URL: https://analytics.ema.europa.eu/certificates/
+LINK_TEXT: certificate@ema.europa.eu | TARGET_URL: mailto:certificate@ema.europa.eu
+LINK_TEXT: certificate_urgent@ema.europa.eu | TARGET_URL: mailto:certificate_urgent@ema.europa.eu
+LINK_TEXT: certificate@ema.europa.eu | TARGET_URL: mailto:certificate@ema.europa.eu
+LINK_TEXT: EMA Service Now | TARGET_URL: https://support.ema.europa.eu/esc.
+LINK_TEXT: Fees payable to the European Medicines Agency | TARGET_URL: /en/about-us/fees-payable-european-medicines-agency
+LINK_TEXT: Quality of medicines | TARGET_URL: https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A70
+LINK_TEXT: Back to top | TARGET_URL: #main-content
+LINK_TEXT: Product emergency hotlineOUTSIDE WORKING HOURS | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Committees & working parties | TARGET_URL: /en/committees
+LINK_TEXT: Regulatory network | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network
+LINK_TEXT: European experts | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network/european-experts
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Accessibility | TARGET_URL: /en/about-us/about-website/accessibility
+LINK_TEXT: Website data protection notice | TARGET_URL: /en/about-us/about-website/website-data-protection-notice
+LINK_TEXT: Data protection at EMA | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Frequently asked questions | TARGET_URL: /en/about-us/frequently-asked-questions
+LINK_TEXT: Search tips | TARGET_URL: /en/about-us/about-website/search-tips
+LINK_TEXT: Access to documents | TARGET_URL: /en/about-us/how-we-work/access-documents
+LINK_TEXT: Send a question | TARGET_URL: /en/about-us/contacts-european-medicines-agency/send-question-european-medicines-agency
+LINK_TEXT: EMA Service Desk (system support) | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Services and databases | TARGET_URL: /en/about-us/how-we-work/services-databases
+LINK_TEXT: How to find us | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us
+LINK_TEXT: Postal address and deliveries | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us#addresses-6923
+LINK_TEXT: Business hours and holidays | TARGET_URL: /about-us/contacts-european-medicines-agency/business-hours-holidays
+LINK_TEXT: BlueskyFollow EMA on Bluesky. Opens in a new window. | TARGET_URL: https://bsky.app/profile/ema.europa.eu
+LINK_TEXT: YouTubeFollow EMA on YouTube. Opens in a new window. | TARGET_URL: https://www.youtube.com/user/emainfo
+LINK_TEXT: LinkedInFollow EMA on LinkedIn. Opens in a new window. | TARGET_URL: https://www.linkedin.com/company/european-medicines-agency/
+LINK_TEXT: © 1995 - 2026 European Medicines Agency | TARGET_URL: https://www.ema.europa.eu/en/about-us/about-website/legal-notice
+LINK_TEXT: European Union agencies network | TARGET_URL: https://agencies-network.europa.eu/index_en
+LINK_TEXT: An agency of the European Union | TARGET_URL: https://european-union.europa.eu/

@@ -1,0 +1,55 @@
+TITLE: EudraLex - EU Legislation
+
+=== TEXT CONTENT ===
+The body of European Union legislation in the pharmaceutical sector is compiled in Volume 1 and Volume 5 of the publication "The rules governing medicinal products in the European Union":
+
+The basic legislation is supported by a series of guidelines that are also published in the following volumes of "The rules governing medicinal products in the European Union".
+
+Please note that Volume 4 applies to veterinary medicinal products only until 15 July 2026, and Volumes 7, 8 and 9 no longer apply. More detailed explanations on the current status are provided on the respective pages for each volume.
+
+Medicinal products for paediatric use,orphan medicinal products,herbal medicinal productsandadvanced therapiesare governed by specific rules.
+
+Follow the European Commission
+
+=== ATTACHMENTS AND TRACKED LINKS ===
+LINK_TEXT: Skip to main content | TARGET_URL: #main-content
+LINK_TEXT: bgбългарски | TARGET_URL: https://health.ec.europa.eu/medicinal-products/eudralex_bg
+LINK_TEXT: nlNederlands | TARGET_URL: https://health.ec.europa.eu/medicinal-products/eudralex_nl
+LINK_TEXT: ptportuguês | TARGET_URL: https://health.ec.europa.eu/medicinal-products/eudralex_pt
+LINK_TEXT: skslovenčina | TARGET_URL: https://health.ec.europa.eu/medicinal-products/eudralex_sk
+LINK_TEXT: slslovenščina | TARGET_URL: https://health.ec.europa.eu/medicinal-products/eudralex_sl
+LINK_TEXT: Medicinal products | TARGET_URL: /medicinal-products_en
+LINK_TEXT: Volume 1 - EU pharmaceutical legislation for medicinal products for human use | TARGET_URL: /medicinal-products/eudralex/eudralex-volume-1_en
+LINK_TEXT: Volume 5 - EU pharmaceutical legislation for veterinary medicinal products | TARGET_URL: /medicinal-products/eudralex/eudralex-volume-5_en
+LINK_TEXT: Volume 2 - Notice to applicants and regulatory guidelines for medicinal products for human use | TARGET_URL: /medicinal-products/eudralex/eudralex-volume-2_en
+LINK_TEXT: Volume 3 - Scientific guidelines for medicinal products for human use | TARGET_URL: /medicinal-products/eudralex/eudralex-volume-3_en
+LINK_TEXT: Volume 4 - Guidelines for good manufacturing practices for medicinal products for human use and veterinary medicinal products | TARGET_URL: /medicinal-products/eudralex/eudralex-volume-4_en
+LINK_TEXT: Volume 6 - Guidance to applicants for veterinary medicinal products | TARGET_URL: /medicinal-products/eudralex/eudralex-volume-6_en
+LINK_TEXT: Volume 7 - Scientific guidelines for veterinary medicinal products | TARGET_URL: /medicinal-products/eudralex/eudralex-volume-7_en
+LINK_TEXT: Volume 8 - Maximum residue limits | TARGET_URL: /medicinal-products/eudralex/eudralex-volume-8_en
+LINK_TEXT: Volume 9 - Guidelines for pharmacovigilance for medicinal products for human use and veterinary medicinal products | TARGET_URL: /medicinal-products/eudralex/eudralex-volume-9_en
+LINK_TEXT: Volume 10 - Guidelines for clinical trials for medicinal products for human use | TARGET_URL: /medicinal-products/eudralex/eudralex-volume-10_en
+LINK_TEXT: Medicinal products for paediatric use | TARGET_URL: /medicinal-products/product-types/medicines-children_en
+LINK_TEXT: orphan medicinal products | TARGET_URL: /medicinal-products/product-types/orphan-medicinal-products_en
+LINK_TEXT: herbal medicinal products | TARGET_URL: /medicinal-products/product-types/herbal-medicinal-products_en
+LINK_TEXT: advanced therapies | TARGET_URL: /medicinal-products/product-types/advanced-therapies_en
+LINK_TEXT: Video message of Commissioner Olivér Várhelyi on the occasion of the Clinical Trials Day 2026 | TARGET_URL: https://www.linkedin.com/posts/oliv%C3%A9r-v%C3%A1rhelyi_clinicaltrialsday-biotechact-internationalclinicaltrialsday-ugcPost-7462572962374934529-RXFk/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEE8LAkBwPXEApZedCscc3Djwk19oPyDvE0
+LINK_TEXT: Commission welcomes political agreement on Critical Medicines Act | TARGET_URL: https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1017
+LINK_TEXT: Summary record - 103rd meeting of the Pharmaceutical Committee (27 March 2026) | TARGET_URL: /latest-updates/summary-record-103rd-meeting-pharmaceutical-committee-27-march-2026-2026-05-05_en
+LINK_TEXT: Commission authorises first combined COVID-19 and influenza vaccine for people 50 years and older | TARGET_URL: https://ec.europa.eu/newsroom/sante/newsletter-archives/74434
+LINK_TEXT: Consultations | TARGET_URL: /medicinal-products/consultations_en
+LINK_TEXT: Publications | TARGET_URL: https://health.ec.europa.eu/medicinal-products/publications_en?f%5B0%5D=oe_publication_type%3Ahttp%3A//publications.europa.eu/resource/authority/resource-type/FACTSHEET&f%5B1%5D=oe_publication_type%3Ahttp%3A//publications.europa.eu/resource/authority/resource-type/PUB_GEN
+LINK_TEXT: Eurobarometers | TARGET_URL: https://ec.europa.eu/health/medicinal-products/publications_en?f%5B0%5D=oe_publication_type%3Ahttp%3A//publications.europa.eu/resource/authority/resource-type/QUESTIONNAIRE
+LINK_TEXT: Public Health | TARGET_URL: https://health.ec.europa.eu/index_en
+LINK_TEXT: EU One Health | TARGET_URL: https://x.com/EU_Health
+LINK_TEXT: Latest updates | TARGET_URL: /latest-updates_en
+LINK_TEXT: Health & Food Safety Newsletters | TARGET_URL: https://ec.europa.eu/health/electronic-publications_en
+LINK_TEXT: EU public health – databases and other online services | TARGET_URL: https://health.ec.europa.eu/eu-public-health-databases-and-other-online-services_en
+LINK_TEXT: Directorate-General for Health and Food Safety | TARGET_URL: https://commission.europa.eu/about/departments-and-executive-agencies/health-and-food-safety_en
+LINK_TEXT: EU Health Policy Platform | TARGET_URL: https://webgate.ec.europa.eu/hpf/
+LINK_TEXT: Food Safety | TARGET_URL: https://food.ec.europa.eu/index_en
+LINK_TEXT: Report an IT vulnerability | TARGET_URL: https://commission.europa.eu/legal-notice/vulnerability-disclosure-policy_en
+LINK_TEXT: Languages on our websites | TARGET_URL: https://commission.europa.eu/languages-our-websites_en
+LINK_TEXT: Privacy policy | TARGET_URL: https://commission.europa.eu/privacy-policy-websites-managed-european-commission_en
+LINK_TEXT: Legal notice | TARGET_URL: https://commission.europa.eu/legal-notice_en
+LINK_TEXT: Accessibility | TARGET_URL: /accessibility-statement_en

@@ -1,0 +1,453 @@
+TITLE: Clinical trials in human medicines
+
+=== TEXT CONTENT ===
+Clinical trials are studies intended to discover or verify the effects of one or moreinvestigational medicines.
+
+TheClinical Trials Regulationaims to ensure that the rights, safety and well-being oftrial participantsare protected and the results of clinical trials are credible.
+
+Regardless of where they are conducted, all clinical trials included in applications for marketing authorisation for human medicines in the European Union (EU) / European Economic Area (EEA) must have been carried out in accordance with the requirements set out in Annex 1 ofDirective 2001/83/EC. This means that:
+
+The video below explains the role of clinical trials in the development and approval of medicines:
+
+For more information on EMA's guidance and support for medicine developers, see:
+
+EMA's Committee for Medicinal Products for Human Use (CHMP) assesses marketing authorisation applications for human medicines designed to be marketed in the EU. CHMP reviews theclinical trial dataincluded in the application.
+
+CHMP assessments are based solely onscientific criteria. They determine if a medicine meets the EU legislation requirements for quality, safety and efficacy.
+
+Clinical trial data is included inclinical study reportsthat form a large part of application dossiers. Applicants for marketing authorisation include pharmaceutical companies and small and medium enterprises.
+
+EMA collaborates with Member States to uphold the principles ofgood clinical practice.
+
+It provides scientific advice and protocol assistance to medicine developers upon request.
+
+EMA has a policy for publishing clinical reports that pharmaceutical companies submit to support their regulatory applications.
+
+EU Member States and EEA countries assess applications for clinical trial authorisations at national level.
+
+EMA supports this process by managing the Clinical Trial Information System, where sponsors submit their clinical trial information for authorisation.
+
+During a clinical trial, sponsors must report any safety information.
+
+EMA also maintains the EudraCT database.
+
+Furthermore, EMA co-leads the Accelerating Clinical Trials in the EU (ACT EU) initiative together with the Heads of Medicines Agencies (HMA) and the European Commission. ACT EU aims to create a favourable environment forclinical researchin the EU / EEA.
+
+For more information, see:
+
+Sponsors can adjust the way they runclinical trialsthat have been affected by thewar in Ukraineusing the experience gained during the COVID-19 pandemic. They can also apply the approaches andflexibilitiesagreed in the context of the pandemic.
+
+The European Commission, EMA and the Heads of Medicines Agencies (HMA) issued this initial advice for sponsors on 30 March 2022.
+
+Additional recommendations for sponsors are available from theClinical Trials Coordination Group(an HMA group uniting clinical trials experts).
+
+Guidance is also available from EMA's Biostatistics Working Party on actions sponsors of affected clinical trials can take to help ensure the integrity of their studies and the interpretation of thestudy resultswhile safeguarding the safety of trial participants as a first priority:
+
+EMA strongly encourages sponsors to capture data affected and unaffected by the war, and to use the 'estimated framework' described in the ICH E9 (R1) guideline for dealing with events impacting the trial.
+
+Guidance on clinical trial management during the COVID-19 pandemic is available below.
+
+EMA advises sponsors to also check anyguidanceavailable atnational level.
+
+Sponsors with specific questions relating to EU guidance can contact EMA using theSend a question form. Questions relating to national guidance should be addressed to the relevant national authority.
+
+Sponsors can also contact either EMA or the national competent authorities for scientific advice on:
+
+For more information, see:
+
+EMA invitedsponsors and other stakeholders involved in running clinical trials in the EU to comment on adraft guidance.
+
+This guidance offers an harmonised approach to conduct clinical trials in a safe and efficient manner duringpublic health emergencies. It includes:
+
+The document was open for consultation from 4 March to 30 April 2026.
+
+Draft guidance on the conduct of clinical trials during public health emergencies
+
+Comments should be provided using thistemplate. The completed comments form should be sent toacteu@ema.europa.eu
+
+English (EN)(473.42 KB - PDF)
+
+EMA'sEmergency Task Force (ETF)can providesupport toclinical trial sponsorsfor all medicines intended to target a potential or declaredpublic health emergency.This is in linetheRegulation on EMA's Reinforced Role (Regulation (EU) 2022/123).
+
+This support is intended for developers or investigators who are:
+
+Interestedclinical trial sponsorsshould send their proposals tophesupportct@ema.europa.eu.
+
+They should include thestudy protocoland specify in which Member State(s) they intend to run clinical trials, if already known.
+
+The ETF works closely with EMA’s partner organisations in the EU to support study sponsors and the conduct oflarger multinational trials.
+
+These partner organisations include:
+
+A report is available recommending EU-level actions to improve the set-up and conduct of clinical trialsduringpublic health emergencies.
+
+The recommendations seek to address issues seen in the COVID-19 pandemic and outbreak of mpox disease with setting up large enough clinical trials across multiple EU Member States. These are needed to rapidly gather sufficient high-quality evidence to support decision-making by health authorities.
+
+The report results from a lessons-learned workshop on clinical trials in emergencies held by EMA's ETF and the European Commission with national competent authorities, ethics committees and academic experts.
+
+For more information, see:
+
+Report of the EMA/ETF workshop on Lessons Learned on Clinical  Trials in Public Health Emergencies
+
+English (EN)(334.09 KB - PDF)
+
+For more information, see:
+
+Guidance has been available for clinical-trial sponsors on managing clinical trials and participants during theCOVID-19pandemic:
+
+This covered how to deal with theextraordinary situationsthat the pandemic presented and specific advice on clinical trials for potentialCOVID-19 treatments.
+
+Guidance has also been available forsponsorsof affected clinical trials to help ensure the integrity of their studies and the interpretation of thestudy resultswhile ensuring the safety oftrial participants:
+
+In line with this guidance, EMA has been flexible and pragmatic during the assessment of affected clinical trial data submitted as part of marketing authorisation applications.
+
+EMA'sEmergency Task Force (ETF)providesscientific adviceon aspects related toclinical trialapplications for medicines used in declared and potentialpublic health emergenciesandthreats.
+
+Related medicines include those:
+
+The ETF provides this type of scientific advice in collaboration with clinical trial and ethics experts from EU / EEA countries. Accordingly, it also touches on on ethical aspects of clinical trials.
+
+The aim is to facilitate development of medicines for targeting declared and potential public health emergencies and threats.
+
+Developers of related medicines interested in applying for this type of ETF scientific advice should consult the guidance document below:
+
+Guidance for applicants: the ETF scientific advice that facilitates clinical trial authorisations (SA-CTA)
+
+English (EN)(338.39 KB - PDF)
+
+This is part of the ETF's broader scientific advice to developers of medicines targeting a declared or potential public health emergency and threat.
+
+It is in line with Regulation (EU) 2022/123 on EMA's Reinforced Role.
+
+For more information, see:
+
+TheAccelerating Clinical Trials in the EU (ACT EU)initiative aims to develop the EU further as a competitive centre forinnovative clinical research.
+
+The initiative builds on the Clinical Trials Regulation (CTR) and Clinical Trials Information System's (CTIS) launch on 31 January 2022. It aims to deliver on the clinical trial innovation recommendations of the European medicines agencies network strategy and the European Commission’s Pharmaceutical strategy for Europe.
+
+For more information, see:
+
+Decentralised clinical trials aim to facilitate participation inclinical trialsby offering maximum flexibility and convenience.
+
+For instance, they can enable participants to:
+
+•    have health visits at home;•    receive study medicine shipments at home;•    provide their consent electronically
+
+The Clinical Trials Coordination Group (CTCG) is overseeing a project on decentralised clinical trials called the EU Decentralised Clinical Trials project (EU DCT project).
+
+The project aims to identify:
+
+•    innovative designs and methodologies for clinical trials;•    opportunities provided by decentralised clinical trials in Europe;•    the challenges that decentralised clinical trials provide.
+
+The project began in March 2022.
+
+The project delivered arecommendation paperon the use ofdecentralisedelements inclinical trialsin December 2022, linked below.
+
+The development of this paper took account of the perspectives of all areas of the research community on decentralised clinical trials, including at a multi-stakeholder workshop hosted by ACT EU in October 2022.
+
+For more information:
+
+Guidance is available for clinical trial sponsors, clinicians engaged in clinical trials and marketing authorisation applicants on planning and conducting complex clinical trials:
+
+The guidance covers the following topics:
+
+EMA, the European Commission and the Heads of Medicines Agencies (HMA) published this guidance under the ACT EU initiative.
+
+It aims to strengthen the link between scientific advice offered by regulators and innovative clinical research.
+
+They published the guidance in May 2022.
+
+For more information, see:
+
+TheClinical Trials Regulation (Regulation (EU) No 536/2014)entered into application on 31 January 2022, repealing the Clinical Trials Directive (EC) No. 2001/20/EC.
+
+The Regulation is part of a broad initiative to transform the EU / EEAclinical trials environmentin support of large clinical trials in multiple European countries, to the benefit of medical innovation and patients.
+
+As of 31 January 2025, any ongoing trials approved under the Clinical Trials Directive fall under the Clinical Trials Regulation.
+
+For more information, see:
+
+The Clinical Trials Information System (CTIS) supports interactions between clinical trial sponsors (researchers or companies that run clinical trials and collect and analyse the data) and regulatory authorities in the EU Member States and EEA countries, throughout the lifecycle of a clinical trial.
+
+CTIS went live with a searchable public website on 31 January 2022:Searching for clinical trials.
+
+It serves to implement EU pharmaceutical law in the Clinical Trials Regulation - Regulation (EU) No 536/2014.
+
+For more information, see:
+
+EMA is responsible for the development, maintenance and coordination of the European Union Drug Regulating Authorities Clinical Trials (EudraCT) database and its interface, the European Union Clinical Trials Register.
+
+The EudraCTdatabaseincludes data on:
+
+As of 31 January 2023, all initialclinical trial applicationsin the EU / EEA must be submitted through the Clinical Trials Information System.
+
+The EudraCT database remains available for uploading the following:
+
+As of 31 January 2025, any ongoing trial in the EU / EEA falls under the Clinical Trials Regulation.
+
+A subset of this data is available through the European Union Clinical Trials Register, which EMA manages on behalf of EU and EEA Member States. Users are able to view protocol and result information regarding:
+
+Information about the results of public clinical trials is shown in the European Union Clinical Trials Register - if posted by the relevant sponsor on the EudraCT database.
+
+For more information, see:
+
+In line with European Commissionguideline 2012/C 302/03, sponsors are required to post results of all clinical trials in EudraCT that are completed globally.
+
+They need to post results within 12 months of completing the trial for clinical trials conducted in adults, and within six months for clinical trials in children.
+
+In July 2019, EMA published a letter co-signed by the European Commission and the Heads of Medicines Agencies (HMA) reminding all sponsors of their obligation to post on EudraCT the results of completed trials:
+
+Joint letter by the European Commission, EMA and HMA to stakeholders regarding the requirements to provide results for authorised clinical trials in EudraCT
+
+English (EN)(391.25 KB - PDF)
+
+As of June 2022, 81% of clinical trials are compliant with this requirement in EudraCT.
+
+Between April 2019 and June 2022, the compliance rate rose:
+
+EMA and national competent authorities enabled these compliance rates through reminders sent to clinical trials sponsors. A full list of clinical trials for which sponsors did not follow up on these reminders is available on the European Clinical Trials Register.
+
+From October 2020, sponsors can also post results of clinical trials that ended prematurely, whether they were approved but never started or started but terminated early. Sponsors should provide the reasons for the premature end and any partial results, if available.
+
+For more information, see the EudraCT and European Union Clinical Trials Register websites.
+
+Clinical trials conducted outside the EU but submitted in an application for marketing authorisation in the EU have to follow the principles which are equivalent to the provisions of the relevant EU legislation.
+
+In 2012, the Agency published the final version of this paper:
+
+Reflection paper on ethical and good-clinical-practice aspects of clinical trials of medicinal products for human use conducted outside of the European Union (EU) / European Economic Area and submitted in marketing-autho...
+
+English (EN)(558.2 KB - PDF)
+
+This paper aims to strengthen existing processes to provide assurance that clinical trials meet the requiredethicalandGCP standards, no matter where in the world they have been conducted.
+
+The number of clinical trials and clinical trial subjects outside Western Europe and North America has been increasing for a number of years. More information is available in this document:
+
+Clinical trials submitted in marketing-authorisation applications to the European Medicines Agency: Overview of patient recruitment and the geographical location of investigator sites
+
+English (EN)(675.3 KB - PDF)
+
+Requirements for sponsors on reporting of trials conducted outside of the EU/EEASponsors are required to submit information in EudraCT on clinical trials conducted exclusively outside of the EU / EEA, if they are:•    part of an agreed paediatric investigation plan (PIP);•    in scope of Article 46 of the Paediatric Regulation (Regulation (EC) No 1901/2006).For more information, see:
+
+The Clinical Trials Coordination Group (CTCG) is a working group of the Heads of Medicines Agencies.
+
+The CTCG aims to help make the EU / EEA more attractive for clinical trials activities.
+
+It is responsible for harmonising and optimising the regulatory environment while assuring the protection of rights, safety and wellbeing of clinical trial participants and ensuring the generation of robust data.
+
+The group is composed of experts in the classification, assessment and oversight of clinical trials from national agencies.
+
+The Clinical Trials Coordination Group replaced the Clinical Trials Facilitation and Coordination Group.
+
+TheClinical Trials Highlightsnewsletter covers topics such asAccelerating Clinical Trials in the EU (ACT EU)and thedevelopment of CTIS.
+
+Issues from July 2023 (Issue 15) onwards are available at the link below:
+
+Previous issues are available on EMA's website in PDF format:
+
+Use the link below to receive Clinical Trials Highlights by email:
+
+An update log is available to show the date and summary of changes to this webpage. It does not include updates to linked documents or minor edits like typos or broken link fixes.
+
+The tracking of updates begins in March 2026.
+
+Reflection paper on ethical and good-clinical-practice aspects of clinical trials of medicinal products for human use conducted outside of the European Union (EU) / European Economic Area and submitted in marketing-autho...
+
+English (EN)(558.2 KB - PDF)
+
+Product emergency hotline
+
+OUTSIDE WORKING HOURS
+
+European Medicines AgencyDomenico Scarlattilaan 61083 HS AmsterdamThe Netherlands
+
+Tel: +31 (0)88 781 6000
+
+How to find usPostal address and deliveriesBusiness hours and holidays
+
+=== ATTACHMENTS AND TRACKED LINKS ===
+LINK_TEXT: Skip to main content | TARGET_URL: #main-content
+LINK_TEXT: Find medicine | TARGET_URL: /en/medicines
+LINK_TEXT: Therapeutic areas: latest updates | TARGET_URL: /en/medicines/therapeutic-areas-latest-updates
+LINK_TEXT: Download medicine data | TARGET_URL: /en/medicines/download-medicine-data
+LINK_TEXT: What we publish on medicines and when | TARGET_URL: /en/medicines/what-we-publish-medicines-when
+LINK_TEXT: Medicines under evaluation | TARGET_URL: /en/medicines/medicines-human-use-under-evaluation
+LINK_TEXT: National registers | TARGET_URL: /en/medicines/national-registers-authorised-medicines
+LINK_TEXT: Human regulatory | TARGET_URL: /en/human-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/human-regulatory-overview/research-development
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/human-regulatory-overview/post-authorisation
+LINK_TEXT: Medical devices | TARGET_URL: /en/human-regulatory-overview/medical-devices
+LINK_TEXT: Herbal products | TARGET_URL: /en/human-regulatory-overview/herbal-medicinal-products
+LINK_TEXT: Veterinary regulatory | TARGET_URL: /en/veterinary-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/veterinary-regulatory-overview/research-development-veterinary-medicines
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines
+LINK_TEXT: How the committees work | TARGET_URL: /en/committees/how-committees-work
+LINK_TEXT: Working parties and other groups | TARGET_URL: /en/committees/working-parties-other-groups
+LINK_TEXT: News & events | TARGET_URL: /en/news-events
+LINK_TEXT: Committee highlights | TARGET_URL: /en/news-events/committee-highlights
+LINK_TEXT: Publications | TARGET_URL: /en/news-and-events/publications
+LINK_TEXT: Press and social media | TARGET_URL: /en/news-events/press-social-media
+LINK_TEXT: Podcast: Inside EMA | TARGET_URL: /en/news-events/podcast-inside-ema
+LINK_TEXT: EMA Campaigns | TARGET_URL: /en/news-events/ema-campaigns
+LINK_TEXT: Open consultations | TARGET_URL: /en/news-events/open-consultations
+LINK_TEXT: Partners & networks | TARGET_URL: /en/partners-networks
+LINK_TEXT: EU partners | TARGET_URL: /en/partners-networks/eu-partners
+LINK_TEXT: International activities | TARGET_URL: /en/partners-networks/international-activities
+LINK_TEXT: Patients and consumers | TARGET_URL: /en/partners-networks/patients-consumers
+LINK_TEXT: Healthcare professionals | TARGET_URL: /en/partners-networks/healthcare-professionals
+LINK_TEXT: Pharmaceutical industry | TARGET_URL: /en/partners-networks/pharmaceutical-industry
+LINK_TEXT: Health technology assessment bodies | TARGET_URL: /en/partners-networks/health-technology-assessment-bodies
+LINK_TEXT: One Health approach | TARGET_URL: /en/partners-networks/one-health-approach
+LINK_TEXT: Animal health practitioners | TARGET_URL: /en/partners-networks/animal-health-practitioners
+LINK_TEXT: One substance - one assessment | TARGET_URL: /en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data
+LINK_TEXT: How we work | TARGET_URL: /en/about-us/how-we-work
+LINK_TEXT: Support to SMEs | TARGET_URL: /en/about-us/support-smes
+LINK_TEXT: Annual reports and work programmes | TARGET_URL: /en/about-us/annual-reports-work-programmes
+LINK_TEXT: History of EMA | TARGET_URL: /en/about-us/history-ema
+LINK_TEXT: Procurement | TARGET_URL: /en/about-us/procurement-grants
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Data protection and privacy | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Human regulatory: overview | TARGET_URL: https://www.ema.europa.eu/en/human-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: https://www.ema.europa.eu/en/human-regulatory-overview/research-development
+LINK_TEXT: Also on this topic | TARGET_URL: #also-on-this-topic-62992
+LINK_TEXT: Management of clinical trials impacted by the war in Ukraine | TARGET_URL: #management-of-clinical-trials-impacted-by-the-war-in-ukraine-62993
+LINK_TEXT: Clinical trial management for public health emergencies | TARGET_URL: #clinical-trial-management-for-public-health-emergencies-10679
+LINK_TEXT: Scientific advice for public health emergencies and threats | TARGET_URL: #scientific-advice-for-public-health-emergencies-and-threats-80410
+LINK_TEXT: Accelerating Clinical Trials in the EU (ACT EU) | TARGET_URL: #accelerating-clinical-trials-in-the-eu-act-eu-10681
+LINK_TEXT: Decentralised clinical trials | TARGET_URL: #decentralised-clinical-trials-10682
+LINK_TEXT: Guidance on complex clinical trials | TARGET_URL: #guidance-on-complex-clinical-trials-10683
+LINK_TEXT: Clinical Trials Regulation and the Clinical Trials Information System | TARGET_URL: #clinical-trials-regulation-and-the-clinical-trials-information-system-10684
+LINK_TEXT: EudraCT database and the EU Clinical Trials Register | TARGET_URL: #eudract-database-and-the-eu-clinical-trials-register-10685
+LINK_TEXT: Clinical trials conducted in countries outside the EU | TARGET_URL: #clinical-trials-conducted-in-countries-outside-the-eu-10686
+LINK_TEXT: Clinical Trials Coordination Group | TARGET_URL: #clinical-trials-coordination-group-10687
+LINK_TEXT: Clinical Trials Highlights | TARGET_URL: #clinical-trials-highlights-10688
+LINK_TEXT: Page update history | TARGET_URL: #page-update-history-83994
+LINK_TEXT: Related documents | TARGET_URL: #related-documents-17564
+LINK_TEXT: Related content | TARGET_URL: #related-content-73244
+LINK_TEXT: Related services and databases | TARGET_URL: #related-services-and-databases-73253
+LINK_TEXT: Related EU legislation | TARGET_URL: #related-eu-legislation-73247
+LINK_TEXT: External links | TARGET_URL: #external-links-73250
+LINK_TEXT: Clinical Trials Regulation | TARGET_URL: https://www.ema.europa.eu/en/human-regulatory-overview/research-development/clinical-trials-human-medicines/clinical-trials-regulation
+LINK_TEXT: Directive 2001/83/EC | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02001L0083-20220101
+LINK_TEXT: Research and development | TARGET_URL: /en/human-regulatory-overview/research-development
+LINK_TEXT: Accelerating Clinical Trials in the EU (ACT EU) | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/accelerating-clinical-trials-eu-act-eu
+LINK_TEXT: Data submission on investigational medicines: guidance for clinical trial sponsors | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/data-submission-investigational-medicines-guidance-clinical-trial-sponsors
+LINK_TEXT: Reporting safety information on clinical trials | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/reporting-safety-information-clinical-trials
+LINK_TEXT: Clinical Trials Regulation | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/clinical-trials-regulation
+LINK_TEXT: Clinical Trials Information System | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/clinical-trials-information-system
+LINK_TEXT: Clinical Trials Information System: training and support | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/clinical-trials-information-system-ctis-training-support
+LINK_TEXT: Committee for Medicinal Products for Human Use (CHMP) | TARGET_URL: /en/committees/committee-medicinal-products-human-use-chmp
+LINK_TEXT: Clinical data publication | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/clinical-data-publication
+LINK_TEXT: European Union Drug Regulating Authorities Clinical Trials Database (EudraCT) database | TARGET_URL: https://eudract.ema.europa.eu/
+LINK_TEXT: Reporting safety information on clinical trials | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/reporting-safety-information-clinical-trials
+LINK_TEXT: Accelerating Clinical Trials in the EU (ACT EU) | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/accelerating-clinical-trials-eu-act-eu
+LINK_TEXT: Clinical Trials Regulation | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines
+LINK_TEXT: Clinical Trials Coordination Group | TARGET_URL: https://www.hma.eu/about-hma/working-groups/clinical-trials-coordination-group.html
+LINK_TEXT: Send a question form | TARGET_URL: https://www.ema.europa.eu/node/2
+LINK_TEXT: Advice to sponsors on managing the impact of the war in Ukraine on clinical trials | TARGET_URL: /en/news/advice-sponsors-managing-impact-war-ukraine-clinical-trials
+LINK_TEXT: Heads of Medicines Agencies - Recommendation to sponsors on managing the impact of the war in Ukraine on clinical trials | TARGET_URL: https://www.hma.eu/fileadmin/dateien/HMA_joint/00-_About_HMA/03-Working_Groups/CTCG/2022_04_CTCG_recommendation_to_sponsors_on_managing_the_impact_of_the_war_in_Ukraine_on_clinical_trials.pdf
+LINK_TEXT: Points to consider on the impact of the war in Ukraine on methodological aspects of ongoing clinical trials | TARGET_URL: /en/impact-war-ukraine-methodological-aspects-ongoing-clinical-trials-scientific-guideline
+LINK_TEXT: ICH E9 statistical principles for clinical trials | TARGET_URL: /en/ich-e9-statistical-principles-clinical-trials-scientific-guideline
+LINK_TEXT: Guidance on clinical trial management during the COVID-19 pandemic | TARGET_URL: /en/human-regulatory-overview/research-development/compliance-research-development/good-clinical-practice
+LINK_TEXT: Implications of Coronavirus disease (COVID-19) on methodological aspects of ongoing clinical trials | TARGET_URL: /en/implications-coronavirus-disease-covid-19-methodological-aspects-ongoing-clinical-trials-scientific-guideline
+LINK_TEXT: template | TARGET_URL: https://www.ema.europa.eu/en/documents/template-form/template-submission-comments-draft-guidance-conduct-clinical-trials-during-public-health-emergencies_en.xlsx
+LINK_TEXT: acteu@ema.europa.eu | TARGET_URL: mailto:acteu@ema.europa.eu
+LINK_TEXT: View | TARGET_URL: /en/documents/scientific-guideline/draft-guidance-conduct-clinical-trials-during-public-health-emergencies_en.pdf
+LINK_TEXT: Emergency Task Force (ETF) | TARGET_URL: /en/committees/working-parties-other-groups/emergency-task-force-etf
+LINK_TEXT: Regulation on EMA's Reinforced Role (Regulation (EU) 2022/123) | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0123
+LINK_TEXT: phesupportct@ema.europa.eu | TARGET_URL: mailto:phesupportct@ema.europa.eu
+LINK_TEXT: Heads of Medicines Agencies' (HMA) Clinical Trials Coordination Group (CTCG) | TARGET_URL: https://www.hma.eu/about-hma/working-groups/clinical-trials-coordination-group.html
+LINK_TEXT: European Health Emergency Preparedness and Response Authority (HERA) | TARGET_URL: https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12870-European-Health-Emergency-Preparedness-and-Response-Authority-HERA-_en
+LINK_TEXT: COVID-19 pandemic | TARGET_URL: /en/human-regulatory-overview/public-health-threats/coronavirus-disease-covid-19/covid-19-public-health-emergency-international-concern-2020-23/emas-governance-during-covid-19-public-health-emergency
+LINK_TEXT: European Medicines Agency / Emergency Task Force and European Commission workshop on lessons learned on clinical trials in public health emergencies (09/06/2023) | TARGET_URL: /en/events/european-medicines-agency-emergency-task-force-and-european-commission-workshop-lessons-learned-clinical-trials-public-health-emergencies
+LINK_TEXT: View | TARGET_URL: /en/documents/report/report-emaetf-workshop-lessons-learned-clinical-trials-public-health-emergencies_en.pdf
+LINK_TEXT: European Medicines Agency / Emergency Task Force and European Commission workshop on lessons learned on clinical trials in public health emergencies | TARGET_URL: /en/events/european-medicines-agency-emergency-task-force-and-european-commission-workshop-lessons-learned-clinical-trials-public-health-emergencies
+LINK_TEXT: Scientific advice and protocol assistance: Medicines intended for a disease causing public health emergency | TARGET_URL: /en/human-regulatory-overview/research-development/scientific-advice-protocol-assistance
+LINK_TEXT: Public health threats | TARGET_URL: /en/human-regulatory-overview/public-health-threats
+LINK_TEXT: Good clinical practice: Guidance on clinical trial management during the COVID-19 pandemic | TARGET_URL: /en/human-regulatory-overview/research-development/compliance-research-development/good-clinical-practice
+LINK_TEXT: Implications of Coronavirus disease (COVID-19) on methodological aspects of ongoing clinical trials | TARGET_URL: /en/implications-coronavirus-disease-covid-19-methodological-aspects-ongoing-clinical-trials-scientific-guideline
+LINK_TEXT: Emergency Task Force (ETF) | TARGET_URL: /en/committees/working-parties-other-groups/emergency-task-force-etf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/guidance-applicants-etf-scientific-advice-facilitates-clinical-trial-authorisations-sa-cta_en.pdf
+LINK_TEXT: Scientific advice for public health emergencies and threats | TARGET_URL: /en/committees/working-parties-other-groups/emergency-task-force-etf/scientific-advice-public-health-emergencies-threats
+LINK_TEXT: Accelerating Clinical Trials in the EU (ACT EU) | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/accelerating-clinical-trials-eu-act-eu
+LINK_TEXT: Clinical Trials Regulation (CTR) | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/clinical-trials-regulation
+LINK_TEXT: Clinical Trials Information System (CTIS) | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/clinical-trials-information-system
+LINK_TEXT: European medicines agencies network strategy | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network/european-medicines-agencies-network-strategy
+LINK_TEXT: Pharmaceutical strategy for Europe | TARGET_URL: https://ec.europa.eu/health/human-use/strategy_en
+LINK_TEXT: Clinical Trials Coordination Group (CTCG) | TARGET_URL: https://www.hma.eu/about-hma/working-groups/clinical-trials-coordination-group.html
+LINK_TEXT: HMA: EU Decentralised Clinical Trials project (EU DCT project) | TARGET_URL: https://www.hma.eu/fileadmin/dateien/HMA_joint/00-_About_HMA/03-Working_Groups/CTCG/2022_08_CTCG_EU_DCT_project.pdf
+LINK_TEXT: Recommendation paper on decentralised elements in clinical trials | TARGET_URL: https://health.ec.europa.eu/document/download/2ccc46bf-2739-4b9a-ab6b-6f425db78c61_en?filename=mp_decentralised-elements_clinical-trials_rec_en.pdf
+LINK_TEXT: ACT EU multi-stakeholder meeting on decentralised clinical trials (04/10/2022) | TARGET_URL: /en/events/act-eu-multi-stakeholder-meeting-decentralised-clinical-trials
+LINK_TEXT: Accelerating Clinical Trials in the EU (ACT EU) | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/accelerating-clinical-trials-eu-act-eu
+LINK_TEXT: Complex clinical trials – questions and answers | TARGET_URL: https://ec.europa.eu/health/system/files/2022-06/medicinal_qa_complex_clinical-trials_en.pdf
+LINK_TEXT: Accelerating Clinical Trials in the EU (ACT EU) | TARGET_URL: https://www.ema.europa.eu/en/node/6579/draft#accelerating-clinical-trials-in-the-eu-(act-eu)-section
+LINK_TEXT: EudraLex - clinical trial guidelines | TARGET_URL: https://ec.europa.eu/health/medicinal-products/eudralex/eudralex-volume-10_en#set-of-documents-applicable-to-clinical-trials-that-will-be-authorised-under-regulation-eu-no-5362014-once-it-becomes-applicable
+LINK_TEXT: Clinical Trials Regulation (Regulation (EU) No 536/2014) | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32014R0536
+LINK_TEXT: Clinical Trials Regulation | TARGET_URL: /en/human-regulatory/research-development/clinical-trials/clinical-trial-regulation
+LINK_TEXT: Clinical Trials Regulation: Transition period for clinical trial sponsors | TARGET_URL: /node70021#transition-period-for-clinical-trial-sponsors-12919
+LINK_TEXT: Searching for clinical trials | TARGET_URL: https://euclinicaltrials.eu/
+LINK_TEXT: Clinical Trials Information System | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/clinical-trials-information-system
+LINK_TEXT: Clinical Trials Information System (CTIS): training and support | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/clinical-trials-information-system-ctis-training-support
+LINK_TEXT: Directive 2001/20/EC | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:02001L0020-20090807
+LINK_TEXT: Paediatric Regulation (Regulation (EC) No 1901/2006) | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32006R1901
+LINK_TEXT: European Union Drug Regulating Authorities Clinical Trials (EudraCT) database | TARGET_URL: https://eudract.ema.europa.eu/
+LINK_TEXT: European Union Clinical Trials Register | TARGET_URL: https://www.clinicaltrialsregister.eu/ctr-search/search
+LINK_TEXT: Clinical Trials Information System | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/clinical-trials-information-system
+LINK_TEXT: Clinical Trials Regulation: Transition period for clinical trial sponsors | TARGET_URL: /node70021#transition-period-for-clinical-trial-sponsors-12919
+LINK_TEXT: guideline 2012/C 302/03 | TARGET_URL: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52012XC1006%2801%29
+LINK_TEXT: View | TARGET_URL: /en/documents/other/joint-letter-european-commission-ema-and-hma-stakeholders-regarding-requirements-provide-results-authorised-clinical-trials-eudract_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/regulatory-procedural-guideline/reflection-paper-ethical-and-good-clinical-practice-aspects-clinical-trials-medicinal-products-human-use-conducted-outside-european-union-eu-european-economic-area-and-submitted-marketing-autho_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/clinical-trials-submitted-marketing-authorisation-applications-european-medicines-agency-overview-patient-recruitment-and-geographical-location-investigator-sites_en.pdf
+LINK_TEXT: EudraCT Frequently Asked Questions | TARGET_URL: https://eudract.ema.europa.eu/docs/guidance/EudraCT FAQ_for publication.pdf
+LINK_TEXT: Accelerating Clinical Trials in the EU (ACT EU) | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/accelerating-clinical-trials-eu-act-eu
+LINK_TEXT: development of CTIS | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/clinical-trials-information-system/development-clinical-trials-information-system
+LINK_TEXT: Clinical Trials Highlights: Issue 15 onwards | TARGET_URL: https://ec.europa.eu/newsroom/ema/newsletter-archives/view/service/3201
+LINK_TEXT: Clinical Trials Highlights: Issues 1 - 14 | TARGET_URL: https://www.ema.europa.eu/en/news-and-events/publications/newsletters#ema-inpage-item-12425
+LINK_TEXT: Subscribe to Clinical Trials Highlights | TARGET_URL: https://ec.europa.eu/newsroom/ema/user-subscriptions/3201/create
+LINK_TEXT: View | TARGET_URL: /en/documents/regulatory-procedural-guideline/reflection-paper-ethical-and-good-clinical-practice-aspects-clinical-trials-medicinal-products-human-use-conducted-outside-european-union-eu-european-economic-area-and-submitted-marketing-autho_en.pdf
+LINK_TEXT: Good clinical practice | TARGET_URL: /en/human-regulatory-overview/research-development/compliance-research-development/good-clinical-practice
+LINK_TEXT: Clinical data publication | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/clinical-data-publication
+LINK_TEXT: Strategies to identify and mitigate risks for first-in-human and early clinical trials with investigational medicinal products - Scientific guideline | TARGET_URL: /en/strategies-identify-mitigate-risks-first-human-early-clinical-trials-investigational-medicinal-products-scientific-guideline
+LINK_TEXT: Emergency Task Force (ETF) | TARGET_URL: /en/committees/working-parties-other-groups/emergency-task-force-etf
+LINK_TEXT: EU tracks progress towards 2030 clinical trial targets (20/05/2026) | TARGET_URL: /en/news/eu-tracks-progress-towards-2030-clinical-trial-targets
+LINK_TEXT: Clinical Trials Information System | TARGET_URL: https://euclinicaltrials.eu/
+LINK_TEXT: EudraVigilance | TARGET_URL: https://www.adrreports.eu/en/index.html
+LINK_TEXT: European Union Drug Regulating Authorities Clinical Trials (EudraCT) database | TARGET_URL: https://eudract.ema.europa.eu/
+LINK_TEXT: EU Clinical Trials Register | TARGET_URL: https://www.clinicaltrialsregister.eu/
+LINK_TEXT: Clinical Trials Regulation (Regulation (EU) No 536/2014) | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32014R0536
+LINK_TEXT: Eudralex - Volume 10 – clinical trials guidelines | TARGET_URL: https://health.ec.europa.eu/medicinal-products/eudralex/eudralex-volume-10_en#set-of-documents-applicable-to-clinical-trials-that-will-be-authorised-under-regulation-eu-no-5362014-once-it-becomes-applicable
+LINK_TEXT: Questions and answers document on the Clinical Trials Regulation | TARGET_URL: https://health.ec.europa.eu/latest-updates/questions-and-answers-document-regulation-eu-5362014-version-69-july-2024-2024-08-28_en
+LINK_TEXT: Directive 2001/83/EC | TARGET_URL: https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2001:311:0067:0128:en:PDF
+LINK_TEXT: Directive 2001/20/EC (repealed by the Clinical Trials Regulation on 31 January 2022) | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:02001L0020-20090807
+LINK_TEXT: Paediatric Regulation | TARGET_URL: /en/human-regulatory-overview/paediatric-medicines-overview/paediatric-regulation
+LINK_TEXT: Clinical Trials Coordination Group | TARGET_URL: https://www.hma.eu/about-hma/working-groups/clinical-trials-coordination-group.html
+LINK_TEXT: Randomised controlled trials versus real world evidence: neither magic nor myth | TARGET_URL: https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.2083
+LINK_TEXT: International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) | TARGET_URL: https://www.ich.org/
+LINK_TEXT: Declaration of Helsinki Medical - Research Involving Human Participants | TARGET_URL: https://www.wma.net/what-we-do/medical-ethics/declaration-of-helsinki/
+LINK_TEXT: ICH harmonised guideline for good clinical practice - E6(R3) | TARGET_URL: https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106_ErrorCorrections_2025_1024.pdf
+LINK_TEXT: Back to top | TARGET_URL: #main-content
+LINK_TEXT: Product emergency hotlineOUTSIDE WORKING HOURS | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Committees & working parties | TARGET_URL: /en/committees
+LINK_TEXT: Regulatory network | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network
+LINK_TEXT: European experts | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network/european-experts
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Accessibility | TARGET_URL: /en/about-us/about-website/accessibility
+LINK_TEXT: Website data protection notice | TARGET_URL: /en/about-us/about-website/website-data-protection-notice
+LINK_TEXT: Data protection at EMA | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Frequently asked questions | TARGET_URL: /en/about-us/frequently-asked-questions
+LINK_TEXT: Search tips | TARGET_URL: /en/about-us/about-website/search-tips
+LINK_TEXT: Access to documents | TARGET_URL: /en/about-us/how-we-work/access-documents
+LINK_TEXT: Send a question | TARGET_URL: /en/about-us/contacts-european-medicines-agency/send-question-european-medicines-agency
+LINK_TEXT: EMA Service Desk (system support) | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Services and databases | TARGET_URL: /en/about-us/how-we-work/services-databases
+LINK_TEXT: How to find us | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us
+LINK_TEXT: Postal address and deliveries | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us#addresses-6923
+LINK_TEXT: Business hours and holidays | TARGET_URL: /about-us/contacts-european-medicines-agency/business-hours-holidays
+LINK_TEXT: BlueskyFollow EMA on Bluesky. Opens in a new window. | TARGET_URL: https://bsky.app/profile/ema.europa.eu
+LINK_TEXT: YouTubeFollow EMA on YouTube. Opens in a new window. | TARGET_URL: https://www.youtube.com/user/emainfo
+LINK_TEXT: LinkedInFollow EMA on LinkedIn. Opens in a new window. | TARGET_URL: https://www.linkedin.com/company/european-medicines-agency/
+LINK_TEXT: © 1995 - 2026 European Medicines Agency | TARGET_URL: https://www.ema.europa.eu/en/about-us/about-website/legal-notice
+LINK_TEXT: European Union agencies network | TARGET_URL: https://agencies-network.europa.eu/index_en
+LINK_TEXT: An agency of the European Union | TARGET_URL: https://european-union.europa.eu/

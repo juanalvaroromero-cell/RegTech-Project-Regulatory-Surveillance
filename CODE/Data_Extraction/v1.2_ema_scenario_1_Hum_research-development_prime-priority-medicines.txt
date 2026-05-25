@@ -1,0 +1,349 @@
+TITLE: PRIME: priority medicines
+
+=== TEXT CONTENT ===
+PRIME enables EMA to offer early and proactive support to medicine developers. This helps optimise thegenerationofrobust dataon a medicine's benefits and risks, and enable accelerated assessment of medicines applications.
+
+Ultimately, PRIME will helppatientsto benefit as early as possible from therapies that may significantly improve theirquality of life.
+
+This scheme builds on an existing regulatory framework and tools already available, such as scientific advice and accelerated assessment. Developers of a medicine that benefited from PRIME can expect to be eligible for accelerated assessment at the time of application for a marketing authorisation.
+
+PRIME also aims to improve scientificevidence-generation, so the data generated are suitable for evaluating a marketing-authorisation application. The scheme does so by engaging with medicine developers early on.
+
+Early dialogueand scientific advice also ensure that patients only participate in necessary trials designed to generate the necessary data. This makes the best use of limited resources.
+
+For more information on EMA's role in medicine research and development, see:
+
+EMA has boosted PRIME's ability to accelerate medicine development via three features:
+
+A report is available with findings from a two-year EMA pilot which tested these features.
+
+The report also contains recommendations for further refinement, such as:
+
+PRIME products benefit fromenhanced supportfrom EMA, tailored to the relevant stages of development.
+
+Information is available in the table below and in the documents listed at the end of this section.
+
+All developers of products accepted onto the PRIME scheme benefit from the following:
+
+Small and medium-sized enterprises (SMEs)and applicants from theacademic sectormay be grantedEarly Entry PRIME statusif they demonstrate proof of principle. EMA will offer them the benefits below:
+
+Further information on key steps and support features following entry to PRIME is available in the documents below.
+
+Progressing EMA’s PRIority Medicines scheme through new pilot features
+
+English (EN)(1.48 MB - PDF)
+
+European Medicines Agency Guidance for applicants seeking access to PRIME scheme
+
+English (EN)(415.4 KB - PDF)
+
+European Medicines Agency guidance to support the preparation of PRIME meetings
+
+English (EN)(274.53 KB - PDF)
+
+PRIME regulatory roadmap and product development tracker
+
+English (EN)(46.18 KB - DOCX)
+
+Presentation - PRIME Implementation of recommendations based on first 5 years’ experience with the scheme (Kevin Cunningham)
+
+English (EN)(437.03 KB - PDF)
+
+The PRIME scheme focuses on medicines under development that are not yet authorised in the EU. They target conditions with anunmet medical need- for which no treatment option exists, or where they can offer a major therapeutic advantage over existing treatments.
+
+To be accepted for PRIME, a medicine must demonstrate the potential to address an unmet medical need to a significant extent. This could mean, for example, introducing new methods of therapy or improving existing ones.
+
+To justify such potential, applicants must provide any available data showing a meaningfulimprovement of clinical outcomes, such as:
+
+Any sponsor engaged in theexploratory clinical trial phaseof development can submit a request to enter the PRIME scheme.
+
+This is based on the availability ofpreliminary clinical evidenceto demonstrate the promising activity of the medicine and its potential to address to a significant extent an unmet medical need, orproof of concept.
+
+Applicants from academia and SMEs, who generally have less experience of the regulatory landscape, may submit an eligibility request forEarly Entry PRIME statusif:
+
+PRIME is not the right support vehicle for products that are already:
+
+Medicine developers should use EMA's secure online IRIS platform to submit a PRIME eligibility request:
+
+IRIS: A secure online platform for handling product-related scientific and regulatory procedures with EMA
+
+The platform provides a single space for applicants and EMA to submit requests, communicate, share information and deliver documents concerning a PRIME eligibility procedure.
+
+Before using IRIS to apply for PRIME, medicine developers need to complete theregistration stepsset out in the guidance document below.
+
+Quick interactive guide to IRIS registration process
+
+Quick interactive guide to IRIS registration process: This presentation is interactive. Please follow the instructions and click on the appropriate icon to be directed to the relevant section.
+
+English (EN)(971 KB - PDF)
+
+For information and guidance on using IRIS, see theIRIS homepage.
+
+Templates and application deadlines are available below.
+
+EMA offerspre-submission supportto any applicant planning a PRIME application, including a virtual pre-submission meeting to discuss PRIME eligibility. Applicants can submit these requests via IRIS.
+
+The following PRIME procedures are also available in IRIS:
+
+PRIME eligibility request: applicant’s justification template
+
+English (EN)(74.5 KB - DOC)
+
+PRIME eligibility requests: 2025 deadlines for submission and timetable for assessment
+
+English (EN)(106.79 KB - PDF)
+
+PRIME eligibility requests: 2026 deadlines for submission and timetable for assessment
+
+English (EN)(105.66 KB - PDF)
+
+EMA usesresearch product identifiers (RPIs)to track medicines throughpre-authorisationprocedures.
+
+The RPI replaces the previously used unique product identifiers (UPIs). EMA has converted previously assigned UPIs into RPIs.
+
+Companies and individuals that approach EMA for the first time with anew medicinal productand do not have a previously assigned UPI / RPI, will need to request a new RPI via theIRIS platform.
+
+Applicants receive theevaluation outcomes, via letter, following their adoption by CHMP.
+
+CHMP also adopts an overview of outcomes, which is then published in the CHMP meeting highlights. It contains limited information on the type of product, intended indication, level of data supporting the request, and type of applicant (SME, academia or other).
+
+For products deemed eligible to PRIME, which is a positive outcome, CHMP makes public the name of the active substance / international non-proprietary name (INN). This is not the case for negative outcomes.
+
+EMA updates the list of all products granted access to the PRIME scheme below on amonthly basis. EMA removes products from the list if they receive a marketing authorisation application for them, if they are withdrawn from the scheme or no longer meet the eligibility criteria.
+
+The information is also contained in the annexes of themonthly CHMP highlights.
+
+List of medicines currently in PRIME scheme
+
+English (EN)(126.64 KB - XLSX)
+
+Recommendations on eligibility to PRIME scheme - Adopted at the CHMP meeting of 20-23 April 2026
+
+English (EN)(212.61 KB - PDF)
+
+Guidance is available for developers of medicines supported by EMA'sPRIMEscheme on the tools they can use to generate robustquality datapackages for their marketing authorisation applications in the EU:
+
+This guidance summarises scientific and regulatory approaches that medicine developers can use in their applications targeting unmet medical needs. This is meant to allow patients to benefit from the resulting therapies as early as possible.
+
+This document aims to address common challenges with meetingqualityandmanufacturing development datarequirements during development and at the time of marketing authorisation application.
+
+It covers medicines containingchemical,biologicalorbiotechnologically derived substancesandadvanced therapy medicinal products (ATMPs).
+
+EMA published this guidance in April 2022, following a public consultation.
+
+A jointquestion-and-answer (Q&A) guidance documentis available from EMA and the United StatesFood and Drug Administration (FDA)for medicine developers on how to addressquality developmentandgood manufacturing practice (GMP)challenges when developing medicines under early access schemes, such as EMA's PRIME or FDA's Breakthrough Therapies.
+
+It covers the following:
+
+The Q&As are a result of follow-up discussions to a2018 stakeholder workshopon these topics.
+
+EMA–FDA joint Q&As on Quality and GMP aspects of  PRIME/Breakthrough therapy applications
+
+English (EN)(387.24 KB - PDF)
+
+EMA's 5-year report on thePRIME schemeprovides a detailed analysis and review of the Agency's experience with the scheme in its first five years of application.
+
+It looks at how the scheme helped developers prepare formarketing authorisation assessments, comparing PRIME products to equivalent non-PRIME products.
+
+The report shows that the PRIME scheme can help speed up patient access to new medicines that target an unmet medical need. Applicants supported by PRIME, particularly SMEs, were able to answer questions from EMA's scientific committees in shorter timelines.
+
+It also calls for further improvements, including consideration of the best timepoint for applicants to enter the PRIME scheme, increasing the flexibility of scientific advice provision, and helping applicants better prepare for the marketing authorisation assessment phase.
+
+The report covers data collected between March 2016 and June 2021.
+
+For more information, seeKey benefits for applicants.
+
+The charts below provide key figures on PRIME eligibility requests.
+
+They show the cumulative recommendations up to the latest CHMP meeting.
+
+Recommendations adopted by April 2026.
+
+* Out of scope applications are not included in the breakdown by type of applicants or therapeutic areas
+
+Eligibility of PRIME requests
+
+PRIME was developed in consultation with the EMA's scientific committees, the European Commission and its expert group onSafe and Timely Access to Medicines for Patients (STAMP)as well as the European medicines regulatory network. The draft reflection paper, overview and summary of comments, final document and list of stakeholders are available below.
+
+The final documentwas adopted by theCHMPduring its February 2016 meeting.
+
+Draft reflection paper on a proposal to enhance early dialogue to facilitate accelerated assessment of priority medicines (PRIME)
+
+The reflection paper has been developed to provide an overview of the accelerated assessment of priority medicines (PRIME) scheme proposed to reinforce early dialogue and regulatory support to stimulate innovation, optimise development and enable accelerated assessment of new medicines addressing major public health needs within the current regulatory framework. It includes details on eligibility criteria and procedural aspects to enter the scheme as well as incentives offered to eligible products throughout the development.
+
+English (EN)(196 KB - PDF)
+
+Overview of comments received on 'Reflection paper on a proposal to enhance early dialogue to facilitate accelerated assessment of priority medicines (PRIME)'
+
+English (EN)(976.76 KB - PDF)
+
+Outcome of the public consultation on the Reflection paper on PRIME
+
+Summary of the comments received during the public consultation and the EMA / CHMP responses
+
+English (EN)(152.3 KB - PDF)
+
+Enhanced early dialogue to facilitate accelerated assessment of PRIority MEdicines (PRIME)
+
+English (EN)(143.57 KB - PDF)
+
+Overview of comments received on 'Reflection paper on a proposal to enhance early dialogue to facilitate accelerated assessment of priority medicines (PRIME)' - List of stakeholders
+
+English (EN)(76.67 KB - PDF)
+
+An update log is available to show the date and summary of changes to this webpage. It does not include updates to linked documents or minor edits like typos or broken link fixes.
+
+The tracking of updates begins in March 2026.
+
+'Outcome of eligibility requests' and 'Key figures' sections updated
+
+'PRIME features accelerating medicine development: Pilot report' section added
+
+Product emergency hotline
+
+OUTSIDE WORKING HOURS
+
+European Medicines AgencyDomenico Scarlattilaan 61083 HS AmsterdamThe Netherlands
+
+Tel: +31 (0)88 781 6000
+
+How to find usPostal address and deliveriesBusiness hours and holidays
+
+=== ATTACHMENTS AND TRACKED LINKS ===
+LINK_TEXT: Skip to main content | TARGET_URL: #main-content
+LINK_TEXT: Find medicine | TARGET_URL: /en/medicines
+LINK_TEXT: Therapeutic areas: latest updates | TARGET_URL: /en/medicines/therapeutic-areas-latest-updates
+LINK_TEXT: Download medicine data | TARGET_URL: /en/medicines/download-medicine-data
+LINK_TEXT: What we publish on medicines and when | TARGET_URL: /en/medicines/what-we-publish-medicines-when
+LINK_TEXT: Medicines under evaluation | TARGET_URL: /en/medicines/medicines-human-use-under-evaluation
+LINK_TEXT: National registers | TARGET_URL: /en/medicines/national-registers-authorised-medicines
+LINK_TEXT: Human regulatory | TARGET_URL: /en/human-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/human-regulatory-overview/research-development
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/human-regulatory-overview/post-authorisation
+LINK_TEXT: Medical devices | TARGET_URL: /en/human-regulatory-overview/medical-devices
+LINK_TEXT: Herbal products | TARGET_URL: /en/human-regulatory-overview/herbal-medicinal-products
+LINK_TEXT: Veterinary regulatory | TARGET_URL: /en/veterinary-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/veterinary-regulatory-overview/research-development-veterinary-medicines
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines
+LINK_TEXT: How the committees work | TARGET_URL: /en/committees/how-committees-work
+LINK_TEXT: Working parties and other groups | TARGET_URL: /en/committees/working-parties-other-groups
+LINK_TEXT: News & events | TARGET_URL: /en/news-events
+LINK_TEXT: Committee highlights | TARGET_URL: /en/news-events/committee-highlights
+LINK_TEXT: Publications | TARGET_URL: /en/news-and-events/publications
+LINK_TEXT: Press and social media | TARGET_URL: /en/news-events/press-social-media
+LINK_TEXT: Podcast: Inside EMA | TARGET_URL: /en/news-events/podcast-inside-ema
+LINK_TEXT: EMA Campaigns | TARGET_URL: /en/news-events/ema-campaigns
+LINK_TEXT: Open consultations | TARGET_URL: /en/news-events/open-consultations
+LINK_TEXT: Partners & networks | TARGET_URL: /en/partners-networks
+LINK_TEXT: EU partners | TARGET_URL: /en/partners-networks/eu-partners
+LINK_TEXT: International activities | TARGET_URL: /en/partners-networks/international-activities
+LINK_TEXT: Patients and consumers | TARGET_URL: /en/partners-networks/patients-consumers
+LINK_TEXT: Healthcare professionals | TARGET_URL: /en/partners-networks/healthcare-professionals
+LINK_TEXT: Pharmaceutical industry | TARGET_URL: /en/partners-networks/pharmaceutical-industry
+LINK_TEXT: Health technology assessment bodies | TARGET_URL: /en/partners-networks/health-technology-assessment-bodies
+LINK_TEXT: One Health approach | TARGET_URL: /en/partners-networks/one-health-approach
+LINK_TEXT: Animal health practitioners | TARGET_URL: /en/partners-networks/animal-health-practitioners
+LINK_TEXT: One substance - one assessment | TARGET_URL: /en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data
+LINK_TEXT: How we work | TARGET_URL: /en/about-us/how-we-work
+LINK_TEXT: Support to SMEs | TARGET_URL: /en/about-us/support-smes
+LINK_TEXT: Annual reports and work programmes | TARGET_URL: /en/about-us/annual-reports-work-programmes
+LINK_TEXT: History of EMA | TARGET_URL: /en/about-us/history-ema
+LINK_TEXT: Procurement | TARGET_URL: /en/about-us/procurement-grants
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Data protection and privacy | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Human regulatory: overview | TARGET_URL: https://www.ema.europa.eu/en/human-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: https://www.ema.europa.eu/en/human-regulatory-overview/research-development
+LINK_TEXT: PRIME features accelerating medicine development: Pilot report | TARGET_URL: #prime-features-accelerating-medicine-development-pilot-report-84270
+LINK_TEXT: Key benefits for applicants | TARGET_URL: #key-benefits-for-applicants-12631
+LINK_TEXT: Eligibility criteria | TARGET_URL: #eligibility-criteria-12632
+LINK_TEXT: When to apply | TARGET_URL: #when-to-apply-12633
+LINK_TEXT: How to apply | TARGET_URL: #how-to-apply-12634
+LINK_TEXT: Research product identifier | TARGET_URL: #research-product-identifier-12636
+LINK_TEXT: Outcome of eligibility requests | TARGET_URL: #outcome-of-eligibility-requests-12637
+LINK_TEXT: Toolbox guidance on developing robust PRIME quality data packages | TARGET_URL: #toolbox-guidance-on-developing-robust-prime-quality-data-packages-12638
+LINK_TEXT: Joint guidance with US FDA on quality and manufacturing aspects of PRIME and Breakthrough schemes | TARGET_URL: #joint-guidance-with-us-fda-on-quality-and-manufacturing-aspects-of-prime-and-breakthrough-schemes-64259
+LINK_TEXT: 5 year review (2016-2021) | TARGET_URL: #section-5-year-review-2016-2021-65413
+LINK_TEXT: Key figures | TARGET_URL: #key-figures-12641
+LINK_TEXT: Background information | TARGET_URL: #background-information-12642
+LINK_TEXT: Page update history | TARGET_URL: #page-update-history-84299
+LINK_TEXT: Related publications | TARGET_URL: #related-publications-65421
+LINK_TEXT: Related content | TARGET_URL: #related-content-18937
+LINK_TEXT: External links | TARGET_URL: #external-links-18938
+LINK_TEXT: External publications | TARGET_URL: #external-publications-18940
+LINK_TEXT: Contact point | TARGET_URL: #contact-point-18939
+LINK_TEXT: Research and development | TARGET_URL: /en/human-regulatory-overview/research-development
+LINK_TEXT: Read the report | TARGET_URL: https://www.ema.europa.eu/en/documents/report/progressing-emas-priority-medicines-scheme-through-new-pilot-features_en.pdf
+LINK_TEXT: US Food and Drug Administration (FDA) | TARGET_URL: https://www.fda.gov/
+LINK_TEXT: View | TARGET_URL: /en/documents/report/progressing-emas-priority-medicines-scheme-through-new-pilot-features_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/european-medicines-agency-guidance-applicants-seeking-access-prime-scheme_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/european-medicines-agency-guidance-support-preparation-prime-meetings_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/template-form/prime-regulatory-roadmap-and-product-development-tracker_en.docx
+LINK_TEXT: View | TARGET_URL: /en/documents/presentation/presentation-prime-implementation-recommendations-based-first-5-years-experience-scheme-kevin-cunningham_en.pdf
+LINK_TEXT: IRIS: A secure online platform for handling product-related scientific and regulatory procedures with EMA | TARGET_URL: https://iris.ema.europa.eu/
+LINK_TEXT: View | TARGET_URL: /en/documents/other/quick-interactive-guide-iris-registration-process_en.pdf
+LINK_TEXT: IRIS homepage | TARGET_URL: http://iris.ema.europa.eu/
+LINK_TEXT: View | TARGET_URL: /en/documents/template-form/prime-eligibility-request-applicants-justification-template_en.doc
+LINK_TEXT: View | TARGET_URL: /en/documents/regulatory-procedural-guideline/prime-eligibility-requests-2025-deadlines-submission-timetable-assessment_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/regulatory-procedural-guideline/prime-eligibility-requests-2026-deadlines-submission-timetable-assessment_en.pdf
+LINK_TEXT: IRIS platform | TARGET_URL: https://iris.ema.europa.eu/
+LINK_TEXT: monthly CHMP highlights | TARGET_URL: /en/committees/committee-medicinal-products-human-use-chmp
+LINK_TEXT: View | TARGET_URL: /en/documents/other/list-medicines-currently-prime-scheme_en.xlsx
+LINK_TEXT: View | TARGET_URL: /en/documents/chmp-annex/recommendations-eligibility-prime-scheme-adopted-chmp-meeting-20-23-april-2026_en.pdf
+LINK_TEXT: Toolbox guidance on scientific elements and regulatory tools to support quality data packages for PRIME and certain marketing authorisation applications targeting an unmet medical need | TARGET_URL: /en/toolbox-guidance-scientific-elements-and-regulatory-tools-support-quality-data-packages-prime-and-certain-marketing-authorisation-applications-targeting-unmet-medical-need-scientific-guideline
+LINK_TEXT: advanced therapy medicinal products (ATMPs) | TARGET_URL: /en/human-regulatory-overview/advanced-therapy-medicinal-products-overview
+LINK_TEXT: Food and Drug Administration (FDA) | TARGET_URL: https://www.fda.gov/drugs
+LINK_TEXT: good manufacturing practice (GMP) | TARGET_URL: /en/human-regulatory-overview/research-development/compliance-research-development/good-manufacturing-practice
+LINK_TEXT: 2018 stakeholder workshop | TARGET_URL: /en/events/stakeholder-workshop-support-quality-development-early-access-approaches-such-prime-breakthrough-therapies
+LINK_TEXT: View | TARGET_URL: /en/documents/other/ema-fda-joint-qas-quality-and-gmp-aspects-prime-breakthrough-therapy-applications_en.pdf
+LINK_TEXT: Read EMA's 5-year report on the PRIME scheme | TARGET_URL: https://www.ema.europa.eu/system/files/documents/report/2022-03_prime_5_years_report_updated_2022-04-05-en.pdf
+LINK_TEXT: Key benefits for applicants | TARGET_URL: /en/human-regulatory-overview/research-development/prime-priority-medicines
+LINK_TEXT: Infographic - PRIME 5-year report highlights | TARGET_URL: https://www.ema.europa.eu/en/documents/report/prime-5-years-experience_en.pdf
+LINK_TEXT: Safe and Timely Access to Medicines for Patients (STAMP) | TARGET_URL: https://health.ec.europa.eu/medicinal-products/pharmaceutical-committee-veterinary-pharmaceutical-committee-and-expert-groups/commission-expert-group-safe-and-timely-access-medicines-patients-stamp_en
+LINK_TEXT: View | TARGET_URL: /en/documents/regulatory-procedural-guideline/draft-reflection-paper-proposal-enhance-early-dialogue-facilitate-accelerated-assessment-priority-medicines-prime_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/comments/overview-comments-received-reflection-paper-proposal-enhance-early-dialogue-facilitate-accelerated-assessment-priority-medicines-prime_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/outcome-public-consultation-reflection-paper-prime_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/regulatory-procedural-guideline/enhanced-early-dialogue-facilitate-accelerated-assessment-priority-medicines-prime_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/comments/overview-comments-received-reflection-paper-proposal-enhance-early-dialogue-facilitate-accelerated-assessment-priority-medicines-prime-list-stakeholders_en.pdf
+LINK_TEXT: Factsheet - PRIME at a glance: Paving the way for promising  medicines for patients | TARGET_URL: https://www.ema.europa.eu/en/documents/leaflet/prime-paving-way-promising-medicines-patients-factsheet_en.pdf
+LINK_TEXT: Report - PRIME: a two-year overview | TARGET_URL: https://www.ema.europa.eu/system/files/documents/report/wc500248828_en.pdf
+LINK_TEXT: Report - Workshop with stakeholders on support to quality development in early access approaches | TARGET_URL: https://www.ema.europa.eu/system/files/documents/report/prime_meeting_report_en.pdf
+LINK_TEXT: New PRIME tools to accelerate development of medicines in the EU | TARGET_URL: /en/news/new-prime-tools-accelerate-development-medicines-eu
+LINK_TEXT: Support for early access | TARGET_URL: /en/human-regulatory/overview/support-early-access
+LINK_TEXT: Toolbox guidance on scientific elements and regulatory tools to support quality data packages for PRIME and certain marketing authorisation applications targeting an unmet medical need - Scientific guideline | TARGET_URL: /en/toolbox-guidance-scientific-elements-and-regulatory-tools-support-quality-data-packages-prime-and-certain-marketing-authorisation-applications-targeting-unmet-medical-need-scientific-guideline
+LINK_TEXT: Stakeholder workshop on support to quality development in early access approaches, such as PRIME and Breakthrough Therapies | TARGET_URL: /en/events/stakeholder-workshop-support-quality-development-early-access-approaches-such-prime-breakthrough-therapies
+LINK_TEXT: Two years of PRIME | TARGET_URL: /en/news/two-years-prime
+LINK_TEXT: First anniversary of PRIME: experience so far | TARGET_URL: /en/events/first-anniversary-prime-experience-so-far
+LINK_TEXT: Launch of PRIME – Paving the way for promising medicines for patients | TARGET_URL: /en/news/launch-prime-paving-way-promising-medicines-patients
+LINK_TEXT: European Commission expert group on Safe and Timely Access to Medicines for Patients (“STAMP”) | TARGET_URL: https://health.ec.europa.eu/medicinal-products/pharmaceutical-committee-veterinary-pharmaceutical-committee-and-expert-groups/commission-expert-group-safe-and-timely-access-medicines-patients-stamp_en
+LINK_TEXT: IRIS platform | TARGET_URL: https://iris.ema.europa.eu/
+LINK_TEXT: Considering Global Development? Insights from Applications for FDABreakthrough Therapy and EMA PRIME Designations | TARGET_URL: https://pubmed.ncbi.nlm.nih.gov/36307671/
+LINK_TEXT: prime@ema.europa.eu | TARGET_URL: mailto:prime@ema.europa.eu
+LINK_TEXT: Early access | TARGET_URL: https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A52
+LINK_TEXT: Regulatory and procedural guidance | TARGET_URL: https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A56
+LINK_TEXT: Research and development | TARGET_URL: https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A72
+LINK_TEXT: Back to top | TARGET_URL: #main-content
+LINK_TEXT: Product emergency hotlineOUTSIDE WORKING HOURS | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Committees & working parties | TARGET_URL: /en/committees
+LINK_TEXT: Regulatory network | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network
+LINK_TEXT: European experts | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network/european-experts
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Accessibility | TARGET_URL: /en/about-us/about-website/accessibility
+LINK_TEXT: Website data protection notice | TARGET_URL: /en/about-us/about-website/website-data-protection-notice
+LINK_TEXT: Data protection at EMA | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Frequently asked questions | TARGET_URL: /en/about-us/frequently-asked-questions
+LINK_TEXT: Search tips | TARGET_URL: /en/about-us/about-website/search-tips
+LINK_TEXT: Access to documents | TARGET_URL: /en/about-us/how-we-work/access-documents
+LINK_TEXT: Send a question | TARGET_URL: /en/about-us/contacts-european-medicines-agency/send-question-european-medicines-agency
+LINK_TEXT: EMA Service Desk (system support) | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Services and databases | TARGET_URL: /en/about-us/how-we-work/services-databases
+LINK_TEXT: How to find us | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us
+LINK_TEXT: Postal address and deliveries | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us#addresses-6923
+LINK_TEXT: Business hours and holidays | TARGET_URL: /about-us/contacts-european-medicines-agency/business-hours-holidays
+LINK_TEXT: BlueskyFollow EMA on Bluesky. Opens in a new window. | TARGET_URL: https://bsky.app/profile/ema.europa.eu
+LINK_TEXT: YouTubeFollow EMA on YouTube. Opens in a new window. | TARGET_URL: https://www.youtube.com/user/emainfo
+LINK_TEXT: LinkedInFollow EMA on LinkedIn. Opens in a new window. | TARGET_URL: https://www.linkedin.com/company/european-medicines-agency/
+LINK_TEXT: © 1995 - 2026 European Medicines Agency | TARGET_URL: https://www.ema.europa.eu/en/about-us/about-website/legal-notice
+LINK_TEXT: European Union agencies network | TARGET_URL: https://agencies-network.europa.eu/index_en
+LINK_TEXT: An agency of the European Union | TARGET_URL: https://european-union.europa.eu/

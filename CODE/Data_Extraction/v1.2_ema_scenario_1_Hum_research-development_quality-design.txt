@@ -1,0 +1,251 @@
+TITLE: Quality by design
+
+=== TEXT CONTENT ===
+This content applies to human and veterinary medicines.
+
+The European Medicines Agency (EMA) welcomes applications that include quality by design. Quality by design is an approach that aims to ensure the quality of medicines by employing statistical, analytical and risk-management methodology in the design, development and manufacturing of medicines.
+
+One of the goals of quality by design is to ensure that all sources of variability affecting a process are identified, explained and managed by appropriate measures. This enables the finished medicine to consistently meet itspredefined characteristicsfrom the start - so that it is 'right first time'.
+
+Quality by design centres on the use ofmultivariate analysis, often in combination with modern process-analytical chemistry methods and knowledge-management tools to enhance the identification and understanding of critical attributes of materials and critical parameters of the manufacturing process. This enhanced understanding of product and process is used to build quality into manufacturing and provide the basis for continuous improvement of products and processes.
+
+The concepts behind quality by design were introduced ininternational guidelinesintended for the pharmaceutical industry between 2009 and 2012.
+
+The Agency welcomes applications that include quality-by-design aspects. These can include applications formarketing authorisation,variations to existing marketing authorisationsandscientific advice.
+
+Applicants wishing to make use quality by design should read theguidance documentsbelow. These include guidelines Q8, Q9, Q10 and Q11 from theInternational Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use(ICH). They explain how aspects related to quality by design should be presented and explained in application dossiers.
+
+Further guidance for applicants is available inquality by design: questions and answers.
+
+The Agency set up aprocess analytical technology (PAT) teamin November 2003 to support PAT and quality-by-design activities in the EU.
+
+PAT is a system of controlling manufacturing through timely measurements of critical quality attributes of raw and in-process materials. It is often used as part of a quality-by-design approach.
+
+The PAT team reviews the implications of quality by design and ensures that the European regulatory network is prepared for the evaluations of submissions including quality by design.
+
+The team acts as a forum for dialogue between theQuality Working Party, theBiologics Working Partyand theGood Manufacturing Practice / Good Distribution Practice Inspectors' Working Group.
+
+EMA published thefinal reportof its join pilot programme with the United States (US)Food and Drug Administration(FDA) for the parallel assessment of sections of applications relevant to quality by design in April 2017:
+
+Based on the experience of conducting joint assessments, EMA and FDA have publishedthree questions-and-answers documentson lessons learnt and to clarify a number of details concerning regulatory submissions. These also addressed comments from the JapanesePharmaceuticals and Medical Devices Agency(PMDA), which participated as an observer.
+
+The report concludes that the both Agencies are strongly aligned on the implementation of quality by design concepts included in the ICH Q8, Q9 and Q10 guidelines.
+
+It also foreseescontinued cooperationandsupport to innovationand global development of medicines of high quality for the benefit of patients.
+
+The agencies are exploring potential joint activities with a focus on continuous manufacturing, additional emerging technologies, and expedited/accelerated assessments. EMA and FDA also host experts from each other's agencies.
+
+The pilot was initially launched for three years in 2011 and extended until April 2016.
+
+The Agency hostsworkshopsto explain the quality-by-design process and how to integrate this into applications:
+
+Send a question to EMA
+
+Questions and answers: improving the understanding of normal operating range (NOR), proven acceptable range (PAR), design space (DSp) and normal variability of process parameters
+
+Questions and answers: improving the understanding of NORs, PARs, DSp and normal variability of process parameters
+
+English (EN)(114.49 KB - PDF)
+
+International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use considerations (ICH) guideline Q8 (R2) on pharmaceutical development - Step 5
+
+English (EN)(593.48 KB - PDF)
+
+International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use (ICH) guideline Q9 on quality risk management - Step 5 - First version
+
+English (EN)(330.64 KB - PDF)
+
+International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human guideline Q10 on pharmaceutical quality system - Step 5
+
+English (EN)(361.39 KB - PDF)
+
+ICH guideline Q11 on development and manufacture of drug substances (chemical entities and biotechnological/biological entities)
+
+English (EN)(408.32 KB - PDF)
+
+Reflection paper: Chemical, pharmaceutical and biological information to be included in dossiers when process analytical technology is employed
+
+English (EN)(69.73 KB - PDF)
+
+Superseded annex to note for guidance on development pharmaceutics: Decision trees for the selection of sterilisation methods
+
+English (EN)(43.3 KB - PDF)
+
+Note for guidance on parametric release
+
+English (EN)(58.89 KB - PDF)
+
+Questions and answers on level of detail in the regulatory submissions
+
+English (EN)(69.93 KB - PDF)
+
+Questions and answers on design-space verification
+
+English (EN)(94.12 KB - PDF)
+
+European Medicines Agency-Food and Drug Administration pilot programme for parallel assessment of quality-by-design applications: lessons learnt and questions and answers resulting from the first parallel assessment
+
+English (EN)(85.77 KB - PDF)
+
+European Medicines Agency-Food and Drug Administration pilot programme for parallel assessment of quality-by-design applications
+
+English (EN)(93.76 KB - PDF)
+
+Mandate for process-analytical-technology team
+
+English (EN)(28.92 KB - PDF)
+
+Presentation - Quality by design: A global implementation perspective. The European Union perspective (Riccardo Luigetti)
+
+English (EN)(51.09 KB - PDF)
+
+Presentation - Process analytical technology European Union regulatory update: The inspector's view (Claus Mortensen)
+
+English (EN)(63.85 KB - PDF)
+
+Notes on a seminar involving the European Federation of Pharmaceutical Industries and Associations and the European Medicines Agency process-analytical-technology team in Ireland, 31 March - 2 April 2008
+
+English (EN)(28.35 KB - PDF)
+
+Presentation - The European Union process-analytical-technology team and its activities (Christina Graffner)
+
+English (EN)(276.84 KB - PDF)
+
+Report: Biologics Working Party, Process Analytical Technologies Group and industry
+
+English (EN)(40.37 KB - PDF)
+
+Presentation - European Medicines Agency progress and status - what is needed to document scientific understanding in a process-analytical-technology application (Claus Mortensen)
+
+English (EN)(147.94 KB - PDF)
+
+Presentation - Regulatory milestones in European Union with respect to process analytical technology (Christina Graffner)
+
+English (EN)(121.15 KB - PDF)
+
+Presentation - Process analytical technologies: view point of the regulators (Jean-Louis Robert)
+
+English (EN)(164.92 KB - PDF)
+
+Product emergency hotline
+
+OUTSIDE WORKING HOURS
+
+European Medicines AgencyDomenico Scarlattilaan 61083 HS AmsterdamThe Netherlands
+
+Tel: +31 (0)88 781 6000
+
+How to find usPostal address and deliveriesBusiness hours and holidays
+
+=== ATTACHMENTS AND TRACKED LINKS ===
+LINK_TEXT: Skip to main content | TARGET_URL: #main-content
+LINK_TEXT: Find medicine | TARGET_URL: /en/medicines
+LINK_TEXT: Therapeutic areas: latest updates | TARGET_URL: /en/medicines/therapeutic-areas-latest-updates
+LINK_TEXT: Download medicine data | TARGET_URL: /en/medicines/download-medicine-data
+LINK_TEXT: What we publish on medicines and when | TARGET_URL: /en/medicines/what-we-publish-medicines-when
+LINK_TEXT: Medicines under evaluation | TARGET_URL: /en/medicines/medicines-human-use-under-evaluation
+LINK_TEXT: National registers | TARGET_URL: /en/medicines/national-registers-authorised-medicines
+LINK_TEXT: Human regulatory | TARGET_URL: /en/human-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/human-regulatory-overview/research-development
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/human-regulatory-overview/post-authorisation
+LINK_TEXT: Medical devices | TARGET_URL: /en/human-regulatory-overview/medical-devices
+LINK_TEXT: Herbal products | TARGET_URL: /en/human-regulatory-overview/herbal-medicinal-products
+LINK_TEXT: Veterinary regulatory | TARGET_URL: /en/veterinary-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/veterinary-regulatory-overview/research-development-veterinary-medicines
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines
+LINK_TEXT: How the committees work | TARGET_URL: /en/committees/how-committees-work
+LINK_TEXT: Working parties and other groups | TARGET_URL: /en/committees/working-parties-other-groups
+LINK_TEXT: News & events | TARGET_URL: /en/news-events
+LINK_TEXT: Committee highlights | TARGET_URL: /en/news-events/committee-highlights
+LINK_TEXT: Publications | TARGET_URL: /en/news-and-events/publications
+LINK_TEXT: Press and social media | TARGET_URL: /en/news-events/press-social-media
+LINK_TEXT: Podcast: Inside EMA | TARGET_URL: /en/news-events/podcast-inside-ema
+LINK_TEXT: EMA Campaigns | TARGET_URL: /en/news-events/ema-campaigns
+LINK_TEXT: Open consultations | TARGET_URL: /en/news-events/open-consultations
+LINK_TEXT: Partners & networks | TARGET_URL: /en/partners-networks
+LINK_TEXT: EU partners | TARGET_URL: /en/partners-networks/eu-partners
+LINK_TEXT: International activities | TARGET_URL: /en/partners-networks/international-activities
+LINK_TEXT: Patients and consumers | TARGET_URL: /en/partners-networks/patients-consumers
+LINK_TEXT: Healthcare professionals | TARGET_URL: /en/partners-networks/healthcare-professionals
+LINK_TEXT: Pharmaceutical industry | TARGET_URL: /en/partners-networks/pharmaceutical-industry
+LINK_TEXT: Health technology assessment bodies | TARGET_URL: /en/partners-networks/health-technology-assessment-bodies
+LINK_TEXT: One Health approach | TARGET_URL: /en/partners-networks/one-health-approach
+LINK_TEXT: Animal health practitioners | TARGET_URL: /en/partners-networks/animal-health-practitioners
+LINK_TEXT: One substance - one assessment | TARGET_URL: /en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data
+LINK_TEXT: How we work | TARGET_URL: /en/about-us/how-we-work
+LINK_TEXT: Support to SMEs | TARGET_URL: /en/about-us/support-smes
+LINK_TEXT: Annual reports and work programmes | TARGET_URL: /en/about-us/annual-reports-work-programmes
+LINK_TEXT: History of EMA | TARGET_URL: /en/about-us/history-ema
+LINK_TEXT: Procurement | TARGET_URL: /en/about-us/procurement-grants
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Data protection and privacy | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Human regulatory: overview | TARGET_URL: https://www.ema.europa.eu/en/human-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: https://www.ema.europa.eu/en/human-regulatory-overview/research-development
+LINK_TEXT: Also on this topic | TARGET_URL: #also-on-this-topic-62970
+LINK_TEXT: Guidance documents | TARGET_URL: #guidance-documents-7409
+LINK_TEXT: Parallel assessment with the United States | TARGET_URL: #parallel-assessment-with-the-united-states-7410
+LINK_TEXT: PAT team mandate | TARGET_URL: #pat-team-mandate-7411
+LINK_TEXT: Presentations and conference documents | TARGET_URL: #presentations-and-conference-documents-7412
+LINK_TEXT: International Conference on Harmonisation of Technical Requirements for Registration of Pharmaceuticals for Human Use | TARGET_URL: http://www.ich.org/
+LINK_TEXT: quality by design: questions and answers | TARGET_URL: /en/human-regulatory/research-development/quality-design/quality-design-questions-answers
+LINK_TEXT: Quality Working Party | TARGET_URL: /committees/working-parties-other-groups/chmp/quality-working-party
+LINK_TEXT: Biologics Working Party | TARGET_URL: /committees/working-parties-other-groups/chmp/biologics-working-party
+LINK_TEXT: Good Manufacturing Practice / Good Distribution Practice Inspectors' Working Group | TARGET_URL: /en/human-regulatory/research-development/compliance/good-manufacturing-practice/gmpgdp-inspectors-working-group
+LINK_TEXT: Food and Drug Administration | TARGET_URL: http://www.fda.gov/
+LINK_TEXT: Report from the EMA-FDA QbD pilot program | TARGET_URL: /en/documents/other/report-ema-fda-qbd-pilot-program_en.pdf
+LINK_TEXT: three questions-and-answers documents | TARGET_URL: #section2
+LINK_TEXT: Pharmaceuticals and Medical Devices Agency | TARGET_URL: http://www.pmda.go.jp/english/
+LINK_TEXT: Joint European Medicines Agency/Parenteral Drug Association quality-by-design workshop | TARGET_URL: /en/events/joint-european-medicines-agencyparenteral-drug-association-quality-design-workshop
+LINK_TEXT: European Medicines Agency - European Federation of Pharmaceutical Industries and Associations 'quality by design' application workshop | TARGET_URL: /en/events/emea-efpia-quality-design-application-workshop
+LINK_TEXT: Send a question to EMA | TARGET_URL: /en/send-question-european-medicines-agency
+LINK_TEXT: Quality by design: questions and answers | TARGET_URL: /en/human-regulatory-overview/research-development/quality-design/quality-design-questions-answers
+LINK_TEXT: View | TARGET_URL: /en/documents/scientific-guideline/questions-and-answers-improving-understanding-normal-operating-range-nor-proven-acceptable-range-par-design-space-dsp-and-normal-variability-process-parameters_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/scientific-guideline/international-conference-harmonisation-technical-requirements-registration-pharmaceuticals-human-use-considerations-ich-guideline-q8-r2-pharmaceutical-development-step-5_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/scientific-guideline/international-conference-harmonisation-technical-requirements-registration-pharmaceuticals-human-use-ich-guideline-q9-quality-risk-management-step-5-first-version_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/scientific-guideline/international-conference-harmonisation-technical-requirements-registration-pharmaceuticals-human-guideline-q10-pharmaceutical-quality-system-step-5_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/scientific-guideline/ich-guideline-q11-development-and-manufacture-drug-substances-chemical-entities-and-biotechnologicalbiological-entities_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/reflection-paper-chemical-pharmaceutical-and-biological-information-be-included-dossiers-when-process-analytical-technology-employed_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/scientific-guideline/superseded-annex-note-guidance-development-pharmaceutics-decision-trees-selection-sterilisation-methods_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/scientific-guideline/note-guidance-parametric-release_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/questions-and-answers-level-detail-regulatory-submissions_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/questions-and-answers-design-space-verification_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/european-medicines-agency-food-and-drug-administration-pilot-programme-parallel-assessment-quality-design-applications-lessons-learnt-and-questions-and-answers-resulting-first-parallel-assessment_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/european-medicines-agency-food-and-drug-administration-pilot-programme-parallel-assessment-quality-design-applications_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/mandate-process-analytical-technology-team_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/presentation/presentation-quality-design-global-implementation-perspective-european-union-perspective-riccardo-luigetti_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/presentation/presentation-process-analytical-technology-european-union-regulatory-update-inspectors-view-claus-mortensen_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/notes-seminar-involving-european-federation-pharmaceutical-industries-and-associations-and-european-medicines-agency-process-analytical-technology-team-ireland-31-march-2-april-2008_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/presentation/presentation-european-union-process-analytical-technology-team-and-its-activities-christina-graffner_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/report/report-biologics-working-party-process-analytical-technologies-group-and-industry_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/presentation/presentation-european-medicines-agency-progress-and-status-what-needed-document-scientific-understanding-process-analytical-technology-application-claus-mortensen_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/presentation/presentation-regulatory-milestones-european-union-respect-process-analytical-technology-christina-graffner_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/presentation/presentation-process-analytical-technologies-view-point-regulators-jean-louis-robert_en.pdf
+LINK_TEXT: Regulatory and procedural guidance | TARGET_URL: https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A56
+LINK_TEXT: Quality of medicines | TARGET_URL: https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A70
+LINK_TEXT: Research and development | TARGET_URL: https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A72
+LINK_TEXT: Back to top | TARGET_URL: #main-content
+LINK_TEXT: Product emergency hotlineOUTSIDE WORKING HOURS | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Committees & working parties | TARGET_URL: /en/committees
+LINK_TEXT: Regulatory network | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network
+LINK_TEXT: European experts | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network/european-experts
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Accessibility | TARGET_URL: /en/about-us/about-website/accessibility
+LINK_TEXT: Website data protection notice | TARGET_URL: /en/about-us/about-website/website-data-protection-notice
+LINK_TEXT: Data protection at EMA | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Frequently asked questions | TARGET_URL: /en/about-us/frequently-asked-questions
+LINK_TEXT: Search tips | TARGET_URL: /en/about-us/about-website/search-tips
+LINK_TEXT: Access to documents | TARGET_URL: /en/about-us/how-we-work/access-documents
+LINK_TEXT: Send a question | TARGET_URL: /en/about-us/contacts-european-medicines-agency/send-question-european-medicines-agency
+LINK_TEXT: EMA Service Desk (system support) | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Services and databases | TARGET_URL: /en/about-us/how-we-work/services-databases
+LINK_TEXT: How to find us | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us
+LINK_TEXT: Postal address and deliveries | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us#addresses-6923
+LINK_TEXT: Business hours and holidays | TARGET_URL: /about-us/contacts-european-medicines-agency/business-hours-holidays
+LINK_TEXT: BlueskyFollow EMA on Bluesky. Opens in a new window. | TARGET_URL: https://bsky.app/profile/ema.europa.eu
+LINK_TEXT: YouTubeFollow EMA on YouTube. Opens in a new window. | TARGET_URL: https://www.youtube.com/user/emainfo
+LINK_TEXT: LinkedInFollow EMA on LinkedIn. Opens in a new window. | TARGET_URL: https://www.linkedin.com/company/european-medicines-agency/
+LINK_TEXT: © 1995 - 2026 European Medicines Agency | TARGET_URL: https://www.ema.europa.eu/en/about-us/about-website/legal-notice
+LINK_TEXT: European Union agencies network | TARGET_URL: https://agencies-network.europa.eu/index_en
+LINK_TEXT: An agency of the European Union | TARGET_URL: https://european-union.europa.eu/

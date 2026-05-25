@@ -1,0 +1,240 @@
+TITLE: No Title Found
+
+=== TEXT CONTENT ===
+We are currently carrying out work to improve the usability of our search function. This may cause search results to be incomplete. We anticipate this issue will be resolved in the coming hours.
+
+We improved how this search looks for keywords. We also adjusted search filters. For details, seeWebsite outages and upgrades. You can alsodownload medicine dataas published on this website in table format or check oursearch tipsfor help.
+
+To fetch data from this website via automated systems, please use ourJSON data files
+
+The European Medicines Agency (EMA) is preparing scientific and technical recommendations to feed into delegated and implementing acts as part of the implementation of the Veterinary Medicines Regulation (Regulation (EU) 2019/6). EMA is providing these recommendations at the request of the European Commission.
+
+This section includes the European Medicines Agency's (EMA) product-specific bioequivalence guidance, which summarises in a standardised format the relevant study design principles for demonstration of bioequivalence.
+
+The European Medicines Agency (EMA) contributes to the global response to Ebola outbreaks by supporting the development and approval of vaccines and treatments for Ebola.
+
+The European Medicines Agency (EMA) carries out scientific advice in cooperation with other decision-making bodies in the European Union (EU) and beyond. Some of these processes have distinct purposes and refer to specific product types. For instance, EMA can participate in parallel joint scientific consultations with the Member State Coordination...
+
+Guidance in a question-and-answer format on the European Medicines Agency’s fees for inspections, transfers, pre-submission requests, re-examinations, certificates, parallel distribution notices, other scientific services, and medical devicess, in line with Regulation (EU) 2024/568 (the New Fee Regulation)
+
+PRIME is a scheme run by the European Medicines Agency (EMA) to enhance support for the development of medicines targeting unmet medical needs. It is based on early dialogue with companies to optimise development plans and speed up evaluation.
+
+EMA's Good Manufacturing Practice (GMP) / Good Distribution Practice (GDP) Inspectors Working Group is organising a two-day workshop to help shape a risk-based approach to the use of generative artificial intelligence (AI) in medicines manufacturing.
+
+These questions and answers address a number of questions on matters related to the quality of medicines.
+
+Each month, the European Medicines Agency publishes an overview listing all safety signals discussed during the latest Pharmacovigilance Risk Assessment Committee (PRAC) meeting and the recommendations given for each of them. The overview includes PRAC recommendations for centrally and nationally authorised medicines.
+
+Following the positive evaluation of a plasma master file (PMF) under the PMF certification scheme, the European Medicines Agency (EMA) issues a certificate of compliance with European legislation which is valid throughout the European Union. EMA publishes the list of all the issued PMF certificates.
+
+Product emergency hotline
+
+OUTSIDE WORKING HOURS
+
+European Medicines AgencyDomenico Scarlattilaan 61083 HS AmsterdamThe Netherlands
+
+Tel: +31 (0)88 781 6000
+
+How to find usPostal address and deliveriesBusiness hours and holidays
+
+=== ATTACHMENTS AND TRACKED LINKS ===
+LINK_TEXT: Skip to main content | TARGET_URL: #main-content
+LINK_TEXT: Find medicine | TARGET_URL: /en/medicines
+LINK_TEXT: Therapeutic areas: latest updates | TARGET_URL: /en/medicines/therapeutic-areas-latest-updates
+LINK_TEXT: Download medicine data | TARGET_URL: /en/medicines/download-medicine-data
+LINK_TEXT: What we publish on medicines and when | TARGET_URL: /en/medicines/what-we-publish-medicines-when
+LINK_TEXT: Medicines under evaluation | TARGET_URL: /en/medicines/medicines-human-use-under-evaluation
+LINK_TEXT: National registers | TARGET_URL: /en/medicines/national-registers-authorised-medicines
+LINK_TEXT: Human regulatory | TARGET_URL: /en/human-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/human-regulatory-overview/research-development
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/human-regulatory-overview/post-authorisation
+LINK_TEXT: Medical devices | TARGET_URL: /en/human-regulatory-overview/medical-devices
+LINK_TEXT: Herbal products | TARGET_URL: /en/human-regulatory-overview/herbal-medicinal-products
+LINK_TEXT: Veterinary regulatory | TARGET_URL: /en/veterinary-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/veterinary-regulatory-overview/research-development-veterinary-medicines
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines
+LINK_TEXT: How the committees work | TARGET_URL: /en/committees/how-committees-work
+LINK_TEXT: Working parties and other groups | TARGET_URL: /en/committees/working-parties-other-groups
+LINK_TEXT: News & events | TARGET_URL: /en/news-events
+LINK_TEXT: Committee highlights | TARGET_URL: /en/news-events/committee-highlights
+LINK_TEXT: Publications | TARGET_URL: /en/news-and-events/publications
+LINK_TEXT: Press and social media | TARGET_URL: /en/news-events/press-social-media
+LINK_TEXT: Podcast: Inside EMA | TARGET_URL: /en/news-events/podcast-inside-ema
+LINK_TEXT: EMA Campaigns | TARGET_URL: /en/news-events/ema-campaigns
+LINK_TEXT: Open consultations | TARGET_URL: /en/news-events/open-consultations
+LINK_TEXT: Partners & networks | TARGET_URL: /en/partners-networks
+LINK_TEXT: EU partners | TARGET_URL: /en/partners-networks/eu-partners
+LINK_TEXT: International activities | TARGET_URL: /en/partners-networks/international-activities
+LINK_TEXT: Patients and consumers | TARGET_URL: /en/partners-networks/patients-consumers
+LINK_TEXT: Healthcare professionals | TARGET_URL: /en/partners-networks/healthcare-professionals
+LINK_TEXT: Pharmaceutical industry | TARGET_URL: /en/partners-networks/pharmaceutical-industry
+LINK_TEXT: Health technology assessment bodies | TARGET_URL: /en/partners-networks/health-technology-assessment-bodies
+LINK_TEXT: One Health approach | TARGET_URL: /en/partners-networks/one-health-approach
+LINK_TEXT: Animal health practitioners | TARGET_URL: /en/partners-networks/animal-health-practitioners
+LINK_TEXT: One substance - one assessment | TARGET_URL: /en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data
+LINK_TEXT: How we work | TARGET_URL: /en/about-us/how-we-work
+LINK_TEXT: Support to SMEs | TARGET_URL: /en/about-us/support-smes
+LINK_TEXT: Annual reports and work programmes | TARGET_URL: /en/about-us/annual-reports-work-programmes
+LINK_TEXT: History of EMA | TARGET_URL: /en/about-us/history-ema
+LINK_TEXT: Procurement | TARGET_URL: /en/about-us/procurement-grants
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Data protection and privacy | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Website outages and upgrades | TARGET_URL: /en/about-us/about-website/website-outages-upgrades
+LINK_TEXT: download medicine data | TARGET_URL: /en/medicines/download-medicine-data
+LINK_TEXT: search tips | TARGET_URL: /en/about-us/about-website/search-tips
+LINK_TEXT: JSON data files | TARGET_URL: /en/about-us/about-website/download-website-data-json-data-format
+LINK_TEXT: Medicines and related procedures | TARGET_URL: /en/search?f%5B0%5D=ema_search_custom_entity_bundle%3A001_ema_medicines_and_related&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Events(132) | TARGET_URL: /en/search?f%5B0%5D=ema_search_custom_entity_bundle%3A003_ema_event&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Guidance and information(390) | TARGET_URL: /en/search?f%5B0%5D=ema_search_custom_entity_bundle%3A004_ema_guidance_and_info&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Corporate(30) | TARGET_URL: /en/search?f%5B0%5D=ema_search_categories%3A86&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Veterinary(135) | TARGET_URL: /en/search?f%5B0%5D=ema_search_categories%3A84&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Annex to CHMP highlights | TARGET_URL: /en/search?f%5B0%5D=document_type%3AAnnex%20to%20CHMP%20highlights&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Annual Report | TARGET_URL: /en/search?f%5B0%5D=document_type%3AAnnual%20Report&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Application withdrawal assessment report | TARGET_URL: /en/search?f%5B0%5D=document_type%3AApplication%20withdrawal%20assessment%20report&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Committee meeting report | TARGET_URL: /en/search?f%5B0%5D=document_type%3ACommittee%20meeting%20report&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: COVID-19 vaccine safety update | TARGET_URL: /en/search?f%5B0%5D=document_type%3ACOVID-19%20vaccine%20safety%20update&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Direct healthcare professional communication | TARGET_URL: /en/search?f%5B0%5D=document_type%3ADirect%20healthcare%20professional%20communication&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - All authorised presentations | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20All%20authorised%20presentations&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Amended Product Information | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Amended%20Product%20Information&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Assessment report - Variation | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Assessment%20report%20-%20Variation&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Assessment report on maintenance of orphan designation - Initial authorisation | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Assessment%20report%20on%20maintenance%20of%20orphan%20designation%20-%20Initial%20authorisation&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Assessment report on maintenance of orphan designation - Post-authorisation | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Assessment%20report%20on%20maintenance%20of%20orphan%20designation%20-%20Post-authorisation&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Conditions imposed on member states for safe and effective use | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Conditions%20imposed%20on%20member%20states%20for%20safe%20and%20effective%20use&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Overview | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Overview&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Paediatric investigation plan compliance statement | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Paediatric%20investigation%20plan%20compliance%20statement&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Procedural steps taken and scientific information after authorisation | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Procedural%20steps%20taken%20and%20scientific%20information%20after%20authorisation&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Procedural steps taken before authorisation | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Procedural%20steps%20taken%20before%20authorisation&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Product Information | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Product%20Information&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Product Information tracked changes | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Product%20Information%20tracked%20changes&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Public assessment report | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Public%20assessment%20report&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Risk-management-plan summary | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Risk-management-plan%20summary&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Risk management plan | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Risk%20management%20plan&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Scientific conclusion | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Scientific%20conclusion&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Scientific Discussion | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Scientific%20Discussion&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Scientific Discussion - Variation | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Scientific%20Discussion%20-%20Variation&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: EPAR - Steps taken after authorisation when a cutoff date has been used | TARGET_URL: /en/search?f%5B0%5D=document_type%3AEPAR%20-%20Steps%20taken%20after%20authorisation%20when%20a%20cutoff%20date%20has%20been%20used&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Herbal - Call for data | TARGET_URL: /en/search?f%5B0%5D=document_type%3AHerbal%20-%20Call%20for%20data&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Herbal - Herbal monograph | TARGET_URL: /en/search?f%5B0%5D=document_type%3AHerbal%20-%20Herbal%20monograph&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Herbal - HMPC assessment report | TARGET_URL: /en/search?f%5B0%5D=document_type%3AHerbal%20-%20HMPC%20assessment%20report&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Herbal - HMPC opinion on a European Union herbal monograph | TARGET_URL: /en/search?f%5B0%5D=document_type%3AHerbal%20-%20HMPC%20opinion%20on%20a%20European%20Union%20herbal%20monograph&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Herbal - List of references supporting the assessment report | TARGET_URL: /en/search?f%5B0%5D=document_type%3AHerbal%20-%20List%20of%20references%20supporting%20the%20assessment%20report&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Herbal - Overview of comments received during consultation | TARGET_URL: /en/search?f%5B0%5D=document_type%3AHerbal%20-%20Overview%20of%20comments%20received%20during%20consultation&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Herbal - Summary of assessment report for the public | TARGET_URL: /en/search?f%5B0%5D=document_type%3AHerbal%20-%20Summary%20of%20assessment%20report%20for%20the%20public&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Herbal – European Union herbal monograph | TARGET_URL: /en/search?f%5B0%5D=document_type%3AHerbal%20%E2%80%93%20European%20Union%20herbal%20monograph&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Herbal – European Union list entry | TARGET_URL: /en/search?f%5B0%5D=document_type%3AHerbal%20%E2%80%93%20European%20Union%20list%20entry&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Maximum Residue Limits - Divergent opinion | TARGET_URL: /en/search?f%5B0%5D=document_type%3AMaximum%20Residue%20Limits%20-%20Divergent%20opinion&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Maximum Residue Limits - Opinion | TARGET_URL: /en/search?f%5B0%5D=document_type%3AMaximum%20Residue%20Limits%20-%20Opinion&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Maximum Residue Limits - Report | TARGET_URL: /en/search?f%5B0%5D=document_type%3AMaximum%20Residue%20Limits%20-%20Report&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Maximum Residue Limits - Summary of opinion | TARGET_URL: /en/search?f%5B0%5D=document_type%3AMaximum%20Residue%20Limits%20-%20Summary%20of%20opinion&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Medicine QA | TARGET_URL: /en/search?f%5B0%5D=document_type%3AMedicine%20QA&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Medicines under additional monitoring | TARGET_URL: /en/search?f%5B0%5D=document_type%3AMedicines%20under%20additional%20monitoring&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Opinion on any scientific matter | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOpinion%20on%20any%20scientific%20matter&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Opinion outside EU - All presentations | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOpinion%20outside%20EU%20-%20All%20presentations&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Opinion outside EU - Assessment report - Variation | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOpinion%20outside%20EU%20-%20Assessment%20report%20-%20Variation&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Opinion outside EU - Medicine questions and answers | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOpinion%20outside%20EU%20-%20Medicine%20questions%20and%20answers&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Opinion outside EU - Procedural steps taken and scientific information after opinion | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOpinion%20outside%20EU%20-%20Procedural%20steps%20taken%20and%20scientific%20information%20after%20opinion&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Opinion outside EU - Procedural steps taken before opinion | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOpinion%20outside%20EU%20-%20Procedural%20steps%20taken%20before%20opinion&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Opinion outside EU - Product information | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOpinion%20outside%20EU%20-%20Product%20information&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Opinion outside EU - Public assessment report | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOpinion%20outside%20EU%20-%20Public%20assessment%20report&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Opinion outside EU - Risk-management-plan summary | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOpinion%20outside%20EU%20-%20Risk-management-plan%20summary&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Opinion outside EU - Scientific discussion | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOpinion%20outside%20EU%20-%20Scientific%20discussion&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Opinion outside EU - Summary for the public | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOpinion%20outside%20EU%20-%20Summary%20for%20the%20public&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Opinion outside EU - Summary of opinion | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOpinion%20outside%20EU%20-%20Summary%20of%20opinion&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Opinion outside EU - Summary of opinion - Initial authorisation | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOpinion%20outside%20EU%20-%20Summary%20of%20opinion%20-%20Initial%20authorisation&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Opinion outside EU - Withdrawal assessment report | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOpinion%20outside%20EU%20-%20Withdrawal%20assessment%20report&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Orphan designation | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOrphan%20designation&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Orphan review | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOrphan%20review&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Overview of comments | TARGET_URL: /en/search?f%5B0%5D=document_type%3AOverview%20of%20comments&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Periodic safety update single assessment | TARGET_URL: /en/search?f%5B0%5D=document_type%3APeriodic%20safety%20update%20single%20assessment&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: PIP - Notification of discontinuation of a paediatric development which is covered by an agreed PIP decision | TARGET_URL: /en/search?f%5B0%5D=document_type%3APIP%20-%20Notification%20of%20discontinuation%20of%20a%20paediatric%20development%20which%20is%20covered%20by%20an%20agreed%20PIP%20decision&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: PIP - Paediatric-investigation-plan summary | TARGET_URL: /en/search?f%5B0%5D=document_type%3APIP%20-%20Paediatric-investigation-plan%20summary&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: PIP decision | TARGET_URL: /en/search?f%5B0%5D=document_type%3APIP%20decision&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Position statement | TARGET_URL: /en/search?f%5B0%5D=document_type%3APosition%20statement&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: PRAC recommendation on signal | TARGET_URL: /en/search?f%5B0%5D=document_type%3APRAC%20recommendation%20on%20signal&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Presentation | TARGET_URL: /en/search?f%5B0%5D=document_type%3APresentation&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Press Release | TARGET_URL: /en/search?f%5B0%5D=document_type%3APress%20Release&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Procurement | TARGET_URL: /en/search?f%5B0%5D=document_type%3AProcurement&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Public Statement | TARGET_URL: /en/search?f%5B0%5D=document_type%3APublic%20Statement&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Recommendation on medication errors | TARGET_URL: /en/search?f%5B0%5D=document_type%3ARecommendation%20on%20medication%20errors&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Recruitment | TARGET_URL: /en/search?f%5B0%5D=document_type%3ARecruitment&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Referrals document | TARGET_URL: /en/search?f%5B0%5D=document_type%3AReferrals%20document&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Regulatory and procedural guideline | TARGET_URL: /en/search?f%5B0%5D=document_type%3ARegulatory%20and%20procedural%20guideline&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Scientific guideline | TARGET_URL: /en/search?f%5B0%5D=document_type%3AScientific%20guideline&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Standard Operating Procedure - SOP | TARGET_URL: /en/search?f%5B0%5D=document_type%3AStandard%20Operating%20Procedure%20-%20SOP&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Summary of opinion | TARGET_URL: /en/search?f%5B0%5D=document_type%3ASummary%20of%20opinion&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Summary of opinion - Initial authorisation | TARGET_URL: /en/search?f%5B0%5D=document_type%3ASummary%20of%20opinion%20-%20Initial%20authorisation&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Template or form | TARGET_URL: /en/search?f%5B0%5D=document_type%3ATemplate%20or%20form&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Withdrawal letter | TARGET_URL: /en/search?f%5B0%5D=document_type%3AWithdrawal%20letter&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Work Instruction - WIN | TARGET_URL: /en/search?f%5B0%5D=document_type%3AWork%20Instruction%20-%20WIN&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Work programme | TARGET_URL: /en/search?f%5B0%5D=document_type%3AWork%20programme&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Advanced therapies(414) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A42&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Antimicrobial resistance(53) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A43&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Biologicals(26) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A44&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Biosimilars(211) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A45&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Clinical trials(250) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A48&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Compassionate use(4) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A49&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Compliance and inspections(108) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A50&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Corporate(101) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A67969
+LINK_TEXT: COVID-19(478) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A61132
+LINK_TEXT: Data on medicines(245) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A51&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Early access(25) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A52&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Generic and hybrid medicines(419) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A54&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Governance(111) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A55&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Innovation(294) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A57
+LINK_TEXT: Maximum residue limit(549) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A58
+LINK_TEXT: Medical devices(46) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A105060
+LINK_TEXT: Medication error(8) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A59
+LINK_TEXT: Medicines(8607) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A61
+LINK_TEXT: Medicines for use outside the EU(39) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A62
+LINK_TEXT: Medicine shortages(278) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A60
+LINK_TEXT: Paediatrics(3549) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A65
+LINK_TEXT: Parallel distribution(6) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A66
+LINK_TEXT: Pharmacovigilance(3466) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A67
+LINK_TEXT: Procurement(11) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A68
+LINK_TEXT: Product information(81) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A69
+LINK_TEXT: Quality of medicines(108) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A70
+LINK_TEXT: Rare diseases(3633) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A64
+LINK_TEXT: Referrals(432) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A71
+LINK_TEXT: (-)Regulatory and procedural guidance(592) | TARGET_URL: /en/search
+LINK_TEXT: Research and development(238) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A72
+LINK_TEXT: Scientific advice(43) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A73
+LINK_TEXT: Scientific guidelines(1073) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A74
+LINK_TEXT: Vaccines(430) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A76
+LINK_TEXT: Veterinary limited markets(15) | TARGET_URL: /en/search?f%5B0%5D=ema_search_topics%3A56&f%5B1%5D=ema_search_topics%3A63
+LINK_TEXT: Management Board | TARGET_URL: /en/search?f%5B0%5D=ema_search_responsible_body%3A100008&f%5B1%5D=ema_search_topics%3A56
+LINK_TEXT: Regulatory and procedural guidance | TARGET_URL: /en/search
+LINK_TEXT: Scientific and technical recommendations: Veterinary Medicines Regulation | TARGET_URL: /en/veterinary-regulatory-overview/veterinary-medicinal-products-regulation/scientific-technical-recommendations-veterinary-medicines-regulation
+LINK_TEXT: Product-specific bioequivalence guidance | TARGET_URL: /en/human-regulatory-overview/research-development/scientific-guidelines/clinical-pharmacology-pharmacokinetics-guidelines/product-specific-bioequivalence-guidance
+LINK_TEXT: Parallel scientific advice and special development aspects or product types | TARGET_URL: /en/human-regulatory-overview/research-development/scientific-advice-protocol-assistance/parallel-scientific-advice-special-development-aspects-or-product-types
+LINK_TEXT: Other fees and charges for medicinal products for human use, veterinary medicinal products and consultations on medical devices | TARGET_URL: /en/about-us/fees-payable-european-medicines-agency/other-fees-charges-medicinal-products-human-use-veterinary-medicinal-products-consultations-medical-devices
+LINK_TEXT: PRIME: priority medicines | TARGET_URL: /en/human-regulatory-overview/research-development/prime-priority-medicines
+LINK_TEXT: Good manufacturing practice: Multistakeholder workshop on expert contributions to artificial intelligence guidance development (Annex 22) | TARGET_URL: /en/events/good-manufacturing-practice-multistakeholder-workshop-expert-contributions-artificial-intelligence-guidance-development-annex-22
+LINK_TEXT: Quality of medicines: questions and answers - Part 2 | TARGET_URL: /en/human-regulatory-overview/research-development/scientific-guidelines/quality-medicines-questions-answers-introduction/quality-medicines-questions-answers-part-2
+LINK_TEXT: PRAC recommendations on safety signals | TARGET_URL: /en/human-regulatory-overview/post-authorisation/pharmacovigilance-post-authorisation/signal-management/prac-recommendations-safety-signals
+LINK_TEXT: Plasma master file certificates | TARGET_URL: /en/human-regulatory-overview/plasma-master-file-pmf-certification/plasma-master-file-certificates
+LINK_TEXT: Back to top | TARGET_URL: #main-content
+LINK_TEXT: Product emergency hotlineOUTSIDE WORKING HOURS | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Committees & working parties | TARGET_URL: /en/committees
+LINK_TEXT: Regulatory network | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network
+LINK_TEXT: European experts | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network/european-experts
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Accessibility | TARGET_URL: /en/about-us/about-website/accessibility
+LINK_TEXT: Website data protection notice | TARGET_URL: /en/about-us/about-website/website-data-protection-notice
+LINK_TEXT: Data protection at EMA | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Frequently asked questions | TARGET_URL: /en/about-us/frequently-asked-questions
+LINK_TEXT: Search tips | TARGET_URL: /en/about-us/about-website/search-tips
+LINK_TEXT: Access to documents | TARGET_URL: /en/about-us/how-we-work/access-documents
+LINK_TEXT: Send a question | TARGET_URL: /en/about-us/contacts-european-medicines-agency/send-question-european-medicines-agency
+LINK_TEXT: EMA Service Desk (system support) | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Services and databases | TARGET_URL: /en/about-us/how-we-work/services-databases
+LINK_TEXT: How to find us | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us
+LINK_TEXT: Postal address and deliveries | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us#addresses-6923
+LINK_TEXT: Business hours and holidays | TARGET_URL: /about-us/contacts-european-medicines-agency/business-hours-holidays
+LINK_TEXT: BlueskyFollow EMA on Bluesky. Opens in a new window. | TARGET_URL: https://bsky.app/profile/ema.europa.eu
+LINK_TEXT: YouTubeFollow EMA on YouTube. Opens in a new window. | TARGET_URL: https://www.youtube.com/user/emainfo
+LINK_TEXT: LinkedInFollow EMA on LinkedIn. Opens in a new window. | TARGET_URL: https://www.linkedin.com/company/european-medicines-agency/
+LINK_TEXT: © 1995 - 2026 European Medicines Agency | TARGET_URL: https://www.ema.europa.eu/en/about-us/about-website/legal-notice
+LINK_TEXT: European Union agencies network | TARGET_URL: https://agencies-network.europa.eu/index_en
+LINK_TEXT: An agency of the European Union | TARGET_URL: https://european-union.europa.eu/
