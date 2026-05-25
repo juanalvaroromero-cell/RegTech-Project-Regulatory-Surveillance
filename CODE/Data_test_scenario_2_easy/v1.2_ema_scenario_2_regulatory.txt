@@ -1,0 +1,157 @@
+TITLE: Human regulatory: overview
+
+=== TEXT CONTENT ===
+Some regulatorytopics span the medicinal product lifecycle. This website offers an overview page for these topics, with links to relevant information in the product lifecycle stages.
+
+Regulatory information onherbal medicinesandmedical devicesis contained separately, as these products are regulated differently in Europe.
+
+For further information on EU legislation and procedures for the regulation of human medicines, see volumes 2-5 and 9-11 of therules governing medicinal products in the EU.
+
+EMA provides incentives and support for micro, small and medium-sized enterprises (SMEs) in order to promote innovation and the development of new medicines.
+
+Information about EMA's fees and how to pay
+
+NEW ANNEX: Modified Prohibited Substances list
+
+EMA has several websites and systems to support its work. Some of the information in these systems is available to all visitors, such as details about clinical trials in the EU, reports of suspected side effects, and other medicine-related data.
+
+Learn about the step-by-step evaluation process for new medicines via the centralised procedure, from initial assessment to possible re-examination.
+
+This process requires companies to complete a new form for critical drug traceability tracking.
+
+Product emergency hotline
+
+OUTSIDE WORKING HOURS
+
+European Medicines AgencyDomenico Scarlattilaan 61083 HS AmsterdamThe Netherlands
+
+Tel: +31 (0)88 781 6000
+
+How to find usPostal address and deliveriesBusiness hours and holidays
+
+=== ATTACHMENTS AND TRACKED LINKS ===
+LINK_TEXT: Skip to main content | TARGET_URL: #main-content
+LINK_TEXT: Find medicine | TARGET_URL: /en/medicines
+LINK_TEXT: Therapeutic areas: latest updates | TARGET_URL: /en/medicines/therapeutic-areas-latest-updates
+LINK_TEXT: Download medicine data | TARGET_URL: /en/medicines/download-medicine-data
+LINK_TEXT: What we publish on medicines and when | TARGET_URL: /en/medicines/what-we-publish-medicines-when
+LINK_TEXT: Medicines under evaluation | TARGET_URL: /en/medicines/medicines-human-use-under-evaluation
+LINK_TEXT: National registers | TARGET_URL: /en/medicines/national-registers-authorised-medicines
+LINK_TEXT: Human regulatory | TARGET_URL: /en/human-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/human-regulatory-overview/research-development
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/human-regulatory-overview/post-authorisation
+LINK_TEXT: Medical devices | TARGET_URL: /en/human-regulatory-overview/medical-devices
+LINK_TEXT: Herbal products | TARGET_URL: /en/human-regulatory-overview/herbal-medicinal-products
+LINK_TEXT: Veterinary regulatory | TARGET_URL: /en/veterinary-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/veterinary-regulatory-overview/research-development-veterinary-medicines
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines
+LINK_TEXT: How the committees work | TARGET_URL: /en/committees/how-committees-work
+LINK_TEXT: Working parties and other groups | TARGET_URL: /en/committees/working-parties-other-groups
+LINK_TEXT: News & events | TARGET_URL: /en/news-events
+LINK_TEXT: Committee highlights | TARGET_URL: /en/news-events/committee-highlights
+LINK_TEXT: Publications | TARGET_URL: /en/news-and-events/publications
+LINK_TEXT: Press and social media | TARGET_URL: /en/news-events/press-social-media
+LINK_TEXT: Podcast: Inside EMA | TARGET_URL: /en/news-events/podcast-inside-ema
+LINK_TEXT: EMA Campaigns | TARGET_URL: /en/news-events/ema-campaigns
+LINK_TEXT: Open consultations | TARGET_URL: /en/news-events/open-consultations
+LINK_TEXT: Partners & networks | TARGET_URL: /en/partners-networks
+LINK_TEXT: EU partners | TARGET_URL: /en/partners-networks/eu-partners
+LINK_TEXT: International activities | TARGET_URL: /en/partners-networks/international-activities
+LINK_TEXT: Patients and consumers | TARGET_URL: /en/partners-networks/patients-consumers
+LINK_TEXT: Healthcare professionals | TARGET_URL: /en/partners-networks/healthcare-professionals
+LINK_TEXT: Pharmaceutical industry | TARGET_URL: /en/partners-networks/pharmaceutical-industry
+LINK_TEXT: Health technology assessment bodies | TARGET_URL: /en/partners-networks/health-technology-assessment-bodies
+LINK_TEXT: One Health approach | TARGET_URL: /en/partners-networks/one-health-approach
+LINK_TEXT: Animal health practitioners | TARGET_URL: /en/partners-networks/animal-health-practitioners
+LINK_TEXT: One substance - one assessment | TARGET_URL: /en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data
+LINK_TEXT: How we work | TARGET_URL: /en/about-us/how-we-work
+LINK_TEXT: Support to SMEs | TARGET_URL: /en/about-us/support-smes
+LINK_TEXT: Annual reports and work programmes | TARGET_URL: /en/about-us/annual-reports-work-programmes
+LINK_TEXT: History of EMA | TARGET_URL: /en/about-us/history-ema
+LINK_TEXT: Procurement | TARGET_URL: /en/about-us/procurement-grants
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Data protection and privacy | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Research and development | TARGET_URL: /en/human-regulatory-overview/research-development
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/human-regulatory-overview/post-authorisation
+LINK_TEXT: Browse regulatory topics A-Z | TARGET_URL: /en/human-regulatory-overview#topics-a-z-38499
+LINK_TEXT: topics span the medicinal product lifecycle | TARGET_URL: /human-regulatory-overview#topics-that-span-the-product-lifecycle-38489
+LINK_TEXT: herbal medicines | TARGET_URL: /en/human-regulatory-overview/herbal-medicinal-products
+LINK_TEXT: medical devices | TARGET_URL: /en/human-regulatory-overview/medical-devices
+LINK_TEXT: rules governing medicinal products in the EU | TARGET_URL: http://ec.europa.eu/health/documents/eudralex/index_en.htm
+LINK_TEXT: Learn about SME support | TARGET_URL: /en/about-us/support-smes
+LINK_TEXT: View EMA's fees | TARGET_URL: /en/about-us/fees-payable-european-medicines-agency
+LINK_TEXT: Advanced therapies | TARGET_URL: /en/human-regulatory-overview/advanced-therapy-medicinal-products-overview
+LINK_TEXT: Biosimilars | TARGET_URL: /en/human-regulatory-overview/biosimilar-medicines-overview
+LINK_TEXT: Data on medicines (ISO IDMP standards) | TARGET_URL: /en/human-regulatory-overview/research-development/data-medicines-iso-idmp-standards-overview
+LINK_TEXT: Orphan designation | TARGET_URL: /en/human-regulatory-overview/orphan-designation-overview
+LINK_TEXT: Paediatric medicines | TARGET_URL: /en/human-regulatory-overview/paediatric-medicines-overview
+LINK_TEXT: Pharmacovigilance | TARGET_URL: /en/human-regulatory-overview/pharmacovigilance-overview
+LINK_TEXT: Plasma master file (PMF) certification | TARGET_URL: /en/human-regulatory-overview/plasma-master-file-pmf-certification
+LINK_TEXT: Public health threats | TARGET_URL: /en/human-regulatory-overview/public-health-threats
+LINK_TEXT: Support for early access | TARGET_URL: /en/human-regulatory-overview/support-early-access
+LINK_TEXT: Browse services and databases | TARGET_URL: /en/about-us/how-we-work/services-databases
+LINK_TEXT: See evaluation process | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/evaluation-medicines-step-step
+LINK_TEXT: Accelerated assessment | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/accelerated-assessment
+LINK_TEXT: Adaptive pathways | TARGET_URL: /en/human-regulatory-overview/research-development/adaptive-pathways
+LINK_TEXT: Advanced therapies | TARGET_URL: /en/human-regulatory-overview/advanced-therapy-medicinal-products-overview
+LINK_TEXT: Antimicrobial resistance in human medicine | TARGET_URL: /en/human-regulatory-overview/public-health-threats/antimicrobial-resistance/antimicrobial-resistance-human-medicine
+LINK_TEXT: Biosimilar medicines | TARGET_URL: /en/human-regulatory-overview/biosimilar-medicines-overview
+LINK_TEXT: Clinical data publication | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/clinical-data-publication
+LINK_TEXT: Compassionate use | TARGET_URL: /en/human-regulatory-overview/research-development/compassionate-use
+LINK_TEXT: Conditional marketing authorisation | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/conditional-marketing-authorisation
+LINK_TEXT: Coronavirus disease (COVID-19) | TARGET_URL: /en/human-regulatory-overview/public-health-threats/coronavirus-disease-covid-19
+LINK_TEXT: Data submission on authorised medicines (Article 57) | TARGET_URL: /en/human-regulatory-overview/post-authorisation/data-medicines-iso-idmp-standards-post-authorisation/data-submission-authorised-medicines-article-57
+LINK_TEXT: Ethical use of animals in medicine testing | TARGET_URL: /en/human-regulatory-overview/research-development/ethical-use-animals-medicine-testing
+LINK_TEXT: Falsified medicines | TARGET_URL: /en/human-regulatory-overview/public-health-threats/falsified-medicines-overview
+LINK_TEXT: Generic and hybrid applications | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/generic-hybrid-medicines/generic-hybrid-applications
+LINK_TEXT: Medical devices | TARGET_URL: /en/human-regulatory-overview/medical-devices
+LINK_TEXT: Medicines for older people | TARGET_URL: /en/human-regulatory-overview/research-development/medicines-older-people
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation
+LINK_TEXT: Medicine shortages and availability issues | TARGET_URL: /en/human-regulatory-overview/post-authorisation/medicine-shortages-availability-issues
+LINK_TEXT: Medicines for use outside the European Union | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/medicines-use-outside-european-union
+LINK_TEXT: Orphan designation: Overview | TARGET_URL: /en/human-regulatory-overview/orphan-designation-overview
+LINK_TEXT: Paediatric medicines: Overview | TARGET_URL: /en/human-regulatory-overview/paediatric-medicines-overview
+LINK_TEXT: Parallel distribution | TARGET_URL: /en/human-regulatory-overview/post-authorisation/parallel-distribution
+LINK_TEXT: Pharmacovigilance: Overview | TARGET_URL: /en/human-regulatory-overview/pharmacovigilance-overview
+LINK_TEXT: Plasma master file (PMF) certification | TARGET_URL: /en/human-regulatory-overview/plasma-master-file-pmf-certification
+LINK_TEXT: Pre-authorisation guidance | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/pre-authorisation-guidance
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/human-regulatory-overview/post-authorisation
+LINK_TEXT: PRIME: priority medicines | TARGET_URL: /en/human-regulatory-overview/research-development/prime-priority-medicines
+LINK_TEXT: Product-information requirements | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/product-information-requirements
+LINK_TEXT: Public health threats | TARGET_URL: /en/human-regulatory-overview/public-health-threats
+LINK_TEXT: Quality defects and recalls | TARGET_URL: /en/human-regulatory-overview/post-authorisation/compliance-post-authorisation/quality-defects-recalls
+LINK_TEXT: Referral procedures | TARGET_URL: /en/human-regulatory-overview/post-authorisation/referral-procedures-human-medicines
+LINK_TEXT: Scientific guidelines | TARGET_URL: /en/human-regulatory-overview/research-development/scientific-guidelines
+LINK_TEXT: Support for early access | TARGET_URL: /en/human-regulatory-overview/support-early-access
+LINK_TEXT: Support to SMEs | TARGET_URL: /en/about-us/support-smes
+LINK_TEXT: Procedural timetables | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/submission-dates/procedural-timetables
+LINK_TEXT: Templates for assessors | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/templates-assessors
+LINK_TEXT: Variations for human medicines | TARGET_URL: /en/human-regulatory-overview/post-authorisation/variations-including-extensions-marketing-authorisations
+LINK_TEXT: From lab to patient - Timeline | TARGET_URL: /en/from-lab-to-patient-timeline
+LINK_TEXT: Back to top | TARGET_URL: #main-content
+LINK_TEXT: Product emergency hotlineOUTSIDE WORKING HOURS | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Committees & working parties | TARGET_URL: /en/committees
+LINK_TEXT: Regulatory network | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network
+LINK_TEXT: European experts | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network/european-experts
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Accessibility | TARGET_URL: /en/about-us/about-website/accessibility
+LINK_TEXT: Website data protection notice | TARGET_URL: /en/about-us/about-website/website-data-protection-notice
+LINK_TEXT: Data protection at EMA | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Frequently asked questions | TARGET_URL: /en/about-us/frequently-asked-questions
+LINK_TEXT: Search tips | TARGET_URL: /en/about-us/about-website/search-tips
+LINK_TEXT: Access to documents | TARGET_URL: /en/about-us/how-we-work/access-documents
+LINK_TEXT: Send a question | TARGET_URL: /en/about-us/contacts-european-medicines-agency/send-question-european-medicines-agency
+LINK_TEXT: EMA Service Desk (system support) | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Services and databases | TARGET_URL: /en/about-us/how-we-work/services-databases
+LINK_TEXT: How to find us | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us
+LINK_TEXT: Postal address and deliveries | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us#addresses-6923
+LINK_TEXT: Business hours and holidays | TARGET_URL: /about-us/contacts-european-medicines-agency/business-hours-holidays
+LINK_TEXT: BlueskyFollow EMA on Bluesky. Opens in a new window. | TARGET_URL: https://bsky.app/profile/ema.europa.eu
+LINK_TEXT: YouTubeFollow EMA on YouTube. Opens in a new window. | TARGET_URL: https://www.youtube.com/user/emainfo
+LINK_TEXT: LinkedInFollow EMA on LinkedIn. Opens in a new window. | TARGET_URL: https://www.linkedin.com/company/european-medicines-agency/
+LINK_TEXT: © 1995 - 2026 European Medicines Agency | TARGET_URL: https://www.ema.europa.eu/en/about-us/about-website/legal-notice
+LINK_TEXT: European Union agencies network | TARGET_URL: https://agencies-network.europa.eu/index_en
+LINK_TEXT: An agency of the European Union | TARGET_URL: https://european-union.europa.eu/

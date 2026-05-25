@@ -1,0 +1,264 @@
+TITLE: Advanced therapy medicinal products: Overview
+
+=== TEXT CONTENT ===
+ATMPs can be classified into three main types:
+
+In addition, some ATMPs may contain      one or more medical devices as an integral part of the MEDICINE, which are referred to ascombined ATMPs. An example of this is cells embedded in a biodegradable matrix or scaffold.
+
+For more information, see:
+
+Unregulated advanced therapiesmay put patients at risk causing serious side effects without any proven benefits.
+
+These products are often sold on websites or through social media channels        as a last hope, EXploiting the worries of patients and their families.
+
+Authorities are clamping down on those supplying unregulated ATMPs and encourage patients and caregivers to report suspicious cases to their national authorities.
+
+To find the full list of EU NCAs, see:
+
+EMA'sCommittee for Advanced Therapies(CAT) and theHeads of Medicines Agencies(HMA) released a statement on the risks of unregulated advanced therapies.
+
+This statement follows reports of providers offering unregulateddendritic cell therapiesfor cancer treatments in EU.
+
+The statement      also covers practical advice for patients and caregivers on how to IDENTIFY unregulated advanced therapies.
+
+EMA and HMA published this joint statement in March       2025.
+
+Watch out for the warning signs described below that an advanced therapy may be unregulated and illegally supplied:
+
+EMA'sCommittee for Advanced Therapiesissued a similar statement in April 2020. Find the document below:
+
+EMA warns against uusing unproven cell-based therapies
+
+English (EN)(92.78 KB - PDF)
+
+All advanced therapy medicines areauthoRISED centrallyvia the European Medicines Agency (EMA). They benefit from asingle evaluation and authorisation procedure.
+
+As with all medicines, EMA continues to monitor thesafety and efficacyof advanced Therapy medicines after they are approved and marketed.
+
+EMA also givesscientific supportto developers to help them design pharmacovigilance and risk management systems used to monitor the safety of these medicines.
+
+In October 2017, theEuropean Commission and EMApublished a joint action plan on ATMPs, which aims to streamline proceduresss and better address the specific requirements of ATMP developers.
+
+European Commission-DG Health and Food Safety and European Medicines Agency action plan on advanced therapy medicinal products (ATMPs)
+
+English (EN)(148.48 KB - PDF)
+
+It contains several actions for the European Commission and EMA.
+
+In February 2018, as part of the joint action plan, EMA published:
+
+For more information, see:
+
+The action plan takes into account the ideas collected at an EMA-hostedmulti-stakeholder workshopto explore solutions to challenges in the development of ATMPs.
+
+Expand the headings for more information on ATMP development guidance.
+
+Academicandnon-profitorganisations involved in developing promisingadvanced therapy medicines (ATMPs)could apply for EMA's increased support in meetingregulatory requirements via a pilot launched in September 2022.
+
+The pilot provided dedicated assistance for ATMP developers targetingunmet clinical needs.The assistance included:
+
+The pilot aimed to assess the level of regulatory support needed to boost the number of advanced therapy medicines that reach patients in the EU and European Economic Area (EEA).
+
+Application form - ATMP academic development support pilot
+
+English (EN)(144.89 KB - DOCX)
+
+Questions and answers on EMA pilot offering enhanced support to academic and non- profit developers of Advanced Therapy Medicinal Products (ATMPs)
+
+English (EN)(152.07 KB - PDF)
+
+Decision of the Executive Director on fee incentives for scientific advice, marketing authorisation applications and pre-authorisation inspections in the ATMP support pilot for academia - No longer applicable
+
+English (EN)(195.49 KB - PDF)
+
+Onlinetraining modulesare available to help ATMP developers navigate the regulatory environment for these types of medicine.
+
+Developers can access these modules for free via theTransMed Academy(login required).
+
+The modules cover the following subjects:
+
+Recordedwebinarsare also available on Youtube:
+
+EMA has produced these training materials together withEATRISas part of theADVANCE EU training projecttargeting ATMP developers.
+
+The Agency'sCommittee for Advanced Therapies(CAT) plays a central role in thescientific assessmentof advanced therapy medicines. It provides the expertise that is needed to evaluate advanced therapy medicines.
+
+During the assessment procedure, the CAT prepares a draft opinion on the quality, safety and efficacy of the advanced therapy medicine. It sends this to theCommittee for Medicinal Products for Human Use (CHMP). Based on the CAT opinion, the CHMP adopts an opinion recommending or not the authorisation of the medicine by the European Commission. The European Commission makes its final decision on the basis of the CHMP opinion.
+
+Stem cells are naturally occurring cells in the body that have the ability to divide and produce arange of different cell types. Stem cells are important in the growth and development of the body, as well as in repair after injury.
+
+Stems cells are categorised as ATMPs when these cells undergo substantial manipulation or are used for a different essential function. They can be somatic-cell therapy products or tissue-engineered products, depending on how the medicine works in the body.
+
+EMA follows research into the use of stem cells in medicines very closely and is responsible for assessing marketing authorisation applications for medicines containing stem cells.
+
+The Agency has been advising developers of stem cell-based medicines for a number of years:
+
+In February 2011, EMA published a reflection paper on stem cell-based medicinal products. The paper stressed the fact that developers of stem-cell based medicines need to pay close attention to the way the medicines are manufactured, to ensure that the final medicine is asconsistent and reproducibleas possible. Pre-clinical and clinical testing also needs to take account of the cells' properties, ensuring that thepossible risksof tumour development and rejection by the body are studied adequately and balanced against theirbenefitsfor patients.
+
+The reflection paper was adopted by the CAT on 14 January 2011. This followed a public consultation between March and June 2010 and discussion at apublic workshop in May 2010involving 230 participants from academia, industry and regulatory authorities.
+
+For more information, see:
+
+Reflection paper on stem cell-based medicinal products
+
+English (EN)(113.08 KB - PDF)
+
+Overview of comments received on reflection paper on stem cell-based medicinal products
+
+English (EN)(841.13 KB - PDF)
+
+EMA tools available to medicine’s developers from the academic sector
+
+EMA tools available to medicine’s developers from the academic sector
+
+English (EN)(1.1 MB - PDF)
+
+Report from the CAT expert meeting on scientific and regulatory considerations for adeno-associated viral vector (AAV)-based gene therapy
+
+Scientific and regulatory considerations for adeno-associated viral vector (AAV)-based gene therapy
+
+English (EN)(138.6 KB - PDF)
+
+Outcomes of the workshop - Multi-stakeholder advanced therapy medicinal products (ATMPs) expert meeting: exploring solutions to foster ATMPs’ development and patient access in Europe
+
+Outcome of a multi-stakeholder meeting with experts and regulators held at EMA on Friday 27 May 2016
+
+English (EN)(165.6 KB - PDF)
+
+Product emergency hotline
+
+OUTSIDE WORKING HOURS
+
+European Medicines AgencyDomenico Scarlattilaan 61083 HS AmsterdamThe Netherlands
+
+Tel: +31 (0)88 781 6000
+
+How to find usPostal address and deliveriesBusiness hours and holidays
+
+=== ATTACHMENTS AND TRACKED LINKS ===
+LINK_TEXT: Skip to main content | TARGET_URL: #main-content
+LINK_TEXT: Find medicine | TARGET_URL: /en/medicines
+LINK_TEXT: Therapeutic areas: latest updates | TARGET_URL: /en/medicines/therapeutic-areas-latest-updates
+LINK_TEXT: Download medicine data | TARGET_URL: /en/medicines/download-medicine-data
+LINK_TEXT: What we publish on medicines and when | TARGET_URL: /en/medicines/what-we-publish-medicines-when
+LINK_TEXT: Medicines under evaluation | TARGET_URL: /en/medicines/medicines-human-use-under-evaluation
+LINK_TEXT: National registers | TARGET_URL: /en/medicines/national-registers-authorised-medicines
+LINK_TEXT: Human regulatory | TARGET_URL: /en/human-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/human-regulatory-overview/research-development
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/human-regulatory-overview/post-authorisation
+LINK_TEXT: Medical devices | TARGET_URL: /en/human-regulatory-overview/medical-devices
+LINK_TEXT: Herbal products | TARGET_URL: /en/human-regulatory-overview/herbal-medicinal-products
+LINK_TEXT: Veterinary regulatory | TARGET_URL: /en/veterinary-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/veterinary-regulatory-overview/research-development-veterinary-medicines
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines
+LINK_TEXT: How the committees work | TARGET_URL: /en/committees/how-committees-work
+LINK_TEXT: Working parties and other groups | TARGET_URL: /en/committees/working-parties-other-groups
+LINK_TEXT: News & events | TARGET_URL: /en/news-events
+LINK_TEXT: Committee highlights | TARGET_URL: /en/news-events/committee-highlights
+LINK_TEXT: Publications | TARGET_URL: /en/news-and-events/publications
+LINK_TEXT: Press and social media | TARGET_URL: /en/news-events/press-social-media
+LINK_TEXT: Podcast: Inside EMA | TARGET_URL: /en/news-events/podcast-inside-ema
+LINK_TEXT: EMA Campaigns | TARGET_URL: /en/news-events/ema-campaigns
+LINK_TEXT: Open consultations | TARGET_URL: /en/news-events/open-consultations
+LINK_TEXT: Partners & networks | TARGET_URL: /en/partners-networks
+LINK_TEXT: EU partners | TARGET_URL: /en/partners-networks/eu-partners
+LINK_TEXT: International activities | TARGET_URL: /en/partners-networks/international-activities
+LINK_TEXT: Patients and consumers | TARGET_URL: /en/partners-networks/patients-consumers
+LINK_TEXT: Healthcare professionals | TARGET_URL: /en/partners-networks/healthcare-professionals
+LINK_TEXT: Pharmaceutical industry | TARGET_URL: /en/partners-networks/pharmaceutical-industry
+LINK_TEXT: Health technology assessment bodies | TARGET_URL: /en/partners-networks/health-technology-assessment-bodies
+LINK_TEXT: One Health approach | TARGET_URL: /en/partners-networks/one-health-approach
+LINK_TEXT: Animal health practitioners | TARGET_URL: /en/partners-networks/animal-health-practitioners
+LINK_TEXT: One substance - one assessment | TARGET_URL: /en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data
+LINK_TEXT: How we work | TARGET_URL: /en/about-us/how-we-work
+LINK_TEXT: Support to SMEs | TARGET_URL: /en/about-us/support-smes
+LINK_TEXT: Annual reports and work programmes | TARGET_URL: /en/about-us/annual-reports-work-programmes
+LINK_TEXT: History of EMA | TARGET_URL: /en/about-us/history-ema
+LINK_TEXT: Procurement | TARGET_URL: /en/about-us/procurement-grants
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Data protection and privacy | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Human regulatory: overview | TARGET_URL: https://www.ema.europa.eu/en/human-regulatory-overview
+LINK_TEXT: Also on this topic | TARGET_URL: #also-on-this-topic-63073
+LINK_TEXT: Risks of unregulated advanced therapies | TARGET_URL: #risks-of-unregulated-advanced-therapies-74750
+LINK_TEXT: Advanced therapies in the product lifecycle | TARGET_URL: #advanced-therapies-in-the-product-lifecycle-63275
+LINK_TEXT: Action plan on ATMPs | TARGET_URL: #action-plan-on-atmps-12378
+LINK_TEXT: Guidance on ATMP development | TARGET_URL: #guidance-on-atmp-development-74724
+LINK_TEXT: ATMP pilot for academia and non-profit organisations | TARGET_URL: #atmp-pilot-for-academia-and-non-profit-organisations-12380
+LINK_TEXT: Training materials | TARGET_URL: #training-materials-12382
+LINK_TEXT: Committee for Advanced Therapies | TARGET_URL: #committee-for-advanced-therapies-12383
+LINK_TEXT: Contact point | TARGET_URL: #contact-point-18734
+LINK_TEXT: Related documents | TARGET_URL: #related-documents-18731
+LINK_TEXT: Related content | TARGET_URL: #related-content-18729
+LINK_TEXT: Publications | TARGET_URL: #publications-18733
+LINK_TEXT: Related EU legislation | TARGET_URL: #related-eu-legislation-18730
+LINK_TEXT: External links | TARGET_URL: #external-links-18732
+LINK_TEXT: Human regulatory: overview | TARGET_URL: /en/human-regulatory-overview
+LINK_TEXT: Legal framework: Advanced therapies | TARGET_URL: /en/human-regulatory-overview/advanced-therapy-medicinal-products-overview/legal-framework-advanced-therapies
+LINK_TEXT: Meetings with stakeholders and other organisations | TARGET_URL: /en/human-regulatory-overview/advanced-therapy-medicinal-products-overview/meetings-stakeholders-other-organisations
+LINK_TEXT: National competent authorities | TARGET_URL: https://www.ema.europa.eu/en/partners-networks/eu-partners/eu-member-states/national-competent-authorities-human
+LINK_TEXT: Read the full joint statement | TARGET_URL: https://www.ema.europa.eu/en/documents/public-statement/unregulated-advanced-therapy-medicinal-products-pose-serious-risks-health_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/public-statement/ema-warns-against-using-unproven-cell-based-therapies_en.pdf
+LINK_TEXT: Research and development | TARGET_URL: /en/human-regulatory-overview/advanced-therapy-medicinal-products-overview/advanced-therapies-research-development
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/advanced-therapies-marketing-authorisation
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/human-regulatory-overview/post-authorisation/advanced-therapies-post-authorisation
+LINK_TEXT: View | TARGET_URL: /en/documents/other/european-commission-dg-health-and-food-safety-and-european-medicines-agency-action-plan-advanced-therapy-medicinal-products-atmps_en.pdf
+LINK_TEXT: Marketing-authorisation procedures for advanced therapies | TARGET_URL: /en/human-regulatory/marketing-authorisation/advanced-therapies/marketing-authorisation-procedures-advanced-therapy-medicinal-products
+LINK_TEXT: Pharmacovigilance for advanced therapies | TARGET_URL: /en/human-regulatory/post-authorisation/advanced-therapies/pharmacovigilance-advanced-therapies
+LINK_TEXT: multi-stakeholder workshop | TARGET_URL: /en/events/multi-stakeholder-advanced-therapy-medicinal-products-atmps-expert-meeting-exploring-solutions
+LINK_TEXT: View | TARGET_URL: /en/documents/template-form/application-form-atmp-academic-development-support-pilot_en.docx
+LINK_TEXT: View | TARGET_URL: /en/documents/other/questions-answers-ema-pilot-offering-enhanced-support-academic-non-profit-developers-advanced-therapy-medicinal-products-atmps_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/decision-executive-director-fee-incentives-scientific-advice-marketing-authorisation-applications-pre-authorisation-inspections-atmp-support-pilot-academia-no-longer-applicable_en.pdf
+LINK_TEXT: TransMed Academy | TARGET_URL: https://eatris.eu/transmed-academy/
+LINK_TEXT: Navigating the regulatory requirements for ATMPs | TARGET_URL: https://www.youtube.com/watch?v=o-9l52XLWvc&list=PLt3sZpgW2qj7w0XT9UOvBwVdIJ8kEnr5I&index=10
+LINK_TEXT: Scientific advice for advanced therapy medicinal products: What and when to ask | TARGET_URL: https://www.youtube.com/watch?v=cMX3Vt8WiV8
+LINK_TEXT: Support for academic and non-profit ATMP developers | TARGET_URL: https://www.youtube.com/watch?v=tliKmJ_vtB8
+LINK_TEXT: ADVANCE EU training project | TARGET_URL: https://eatris.eu/projects/advance/
+LINK_TEXT: Committee for Advanced Therapies | TARGET_URL: /en/committees/committee-advanced-therapies-cat
+LINK_TEXT: Committee for Medicinal Products for Human Use (CHMP) | TARGET_URL: /en/committees/committee-medicinal-products-human-use-chmp
+LINK_TEXT: classification of advanced therapy medicines | TARGET_URL: /en/human-regulatory/marketing-authorisation/advanced-therapies/advanced-therapy-classification
+LINK_TEXT: certification of quality and non-clinical data for SMEs | TARGET_URL: /en/human-regulatory/research-development/advanced-therapies/advanced-therapy-development/certification-procedures-micro-small-medium-sized-enterprises-smes
+LINK_TEXT: scientific advice | TARGET_URL: /en/human-regulatory/research-development/scientific-advice-protocol-assistance
+LINK_TEXT: Scientific Advice Working Party | TARGET_URL: /committees/working-parties-other-groups/chmp-working-parties-other-groups/scientific-advice-working-party
+LINK_TEXT: Committee for Orphan Medicinal Products | TARGET_URL: /en/committees/committee-orphan-medicinal-products-comp
+LINK_TEXT: first ATMP containing stem cells | TARGET_URL: /en/news/first-stem-cell-therapy-recommended-approval-eu
+LINK_TEXT: public workshop in May 2010 | TARGET_URL: /en/events/european-medicines-agencys-workshop-stem-cell-based-therapies
+LINK_TEXT: View | TARGET_URL: /en/documents/scientific-guideline/reflection-paper-stem-cell-based-medicinal-products_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/overview-comments-received-reflection-paper-stem-cell-based-medicinal-products_en.pdf
+LINK_TEXT: advancedtherapies@ema.europa.eu | TARGET_URL: mailto: advancedtherapies@ema.europa.eu
+LINK_TEXT: View | TARGET_URL: /en/documents/leaflet/ema-tools-available-medicines-developers-academic-sector_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/report/report-cat-expert-meeting-scientific-and-regulatory-considerations-adeno-associated-viral-vector-aav-based-gene-therapy_en.pdf-0
+LINK_TEXT: View | TARGET_URL: /en/documents/report/outcomes-workshop-multi-stakeholder-advanced-therapy-medicinal-products-atmps-expert-meeting-exploring-solutions-foster-atmps-development-and-patient-access-europe_en.pdf
+LINK_TEXT: Committee for Advanced Therapies | TARGET_URL: /en/committees/committee-advanced-therapies-cat
+LINK_TEXT: Legal framework | TARGET_URL: /en/human-regulatory/overview/advanced-therapies/legal-framework
+LINK_TEXT: Meetings and workshops | TARGET_URL: /en/human-regulatory/overview/advanced-therapies/meetings-stakeholders-other-organisations
+LINK_TEXT: National competent authorities | TARGET_URL: https://www.ema.europa.eu/en/partners-networks/eu-partners/eu-member-states/national-competent-authorities-human
+LINK_TEXT: Randomised controlled trials versus real world evidence: neither magic nor myth | TARGET_URL: https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.2083
+LINK_TEXT: Regulation (EC) No 1394/2007 | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex:32007R1394
+LINK_TEXT: Directive 2001/83/EC | TARGET_URL: http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1410944582971&uri=CELEX:02001L0083-20121116
+LINK_TEXT: European Commission: advanced therapies | TARGET_URL: https://health.ec.europa.eu/medicinal-products/advanced-therapies_en
+LINK_TEXT: Back to top | TARGET_URL: #main-content
+LINK_TEXT: Product emergency hotlineOUTSIDE WORKING HOURS | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Committees & working parties | TARGET_URL: /en/committees
+LINK_TEXT: Regulatory network | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network
+LINK_TEXT: European experts | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network/european-experts
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Accessibility | TARGET_URL: /en/about-us/about-website/accessibility
+LINK_TEXT: Website data protection notice | TARGET_URL: /en/about-us/about-website/website-data-protection-notice
+LINK_TEXT: Data protection at EMA | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Frequently asked questions | TARGET_URL: /en/about-us/frequently-asked-questions
+LINK_TEXT: Search tips | TARGET_URL: /en/about-us/about-website/search-tips
+LINK_TEXT: Access to documents | TARGET_URL: /en/about-us/how-we-work/access-documents
+LINK_TEXT: Send a question | TARGET_URL: /en/about-us/contacts-european-medicines-agency/send-question-european-medicines-agency
+LINK_TEXT: EMA Service Desk (system support) | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Services and databases | TARGET_URL: /en/about-us/how-we-work/services-databases
+LINK_TEXT: How to find us | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us
+LINK_TEXT: Postal address and deliveries | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us#addresses-6923
+LINK_TEXT: Business hours and holidays | TARGET_URL: /about-us/contacts-european-medicines-agency/business-hours-holidays
+LINK_TEXT: BlueskyFollow EMA on Bluesky. Opens in a new window. | TARGET_URL: https://bsky.app/profile/ema.europa.eu
+LINK_TEXT: YouTubeFollow EMA on YouTube. Opens in a new window. | TARGET_URL: https://www.youtube.com/user/emainfo
+LINK_TEXT: LinkedInFollow EMA on LinkedIn. Opens in a new window. | TARGET_URL: https://www.linkedin.com/company/european-medicines-agency/
+LINK_TEXT: © 1995 - 2026 European Medicines Agency | TARGET_URL: https://www.ema.europa.eu/en/about-us/about-website/legal-notice
+LINK_TEXT: European Union agencies network | TARGET_URL: https://agencies-network.europa.eu/index_en
+LINK_TEXT: An agency of the European Union | TARGET_URL: https://european-union.europa.eu/

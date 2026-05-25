@@ -1,0 +1,233 @@
+TITLE: Good manufacturing practice
+
+=== TEXT CONTENT ===
+This content applies to human and veterinary medicines.
+
+Anymanufacturerofmedicinesintended for the EU market must comply with EU good manufacturing practice (GMP) no matter where in the world they are located.
+
+GMP requires that medicines:
+
+EMA, the European Commission and the Heads of Medicines Agencies (HMA) have phased out the extraordinaryregulatoryflexibilities for medicines that applied during theCOVID-19 pandemic. These flexibilities helped address regulatory andsupply challengesarising from the pandemic.This follows the end of the COVID-19public health emergency, in line with the World Health Organisation's (WHO) declaration from May 2023.The GMP / GDP Inspectors Working Group extended the validity ofGMP certificatesas a temporary regulatory flexibility in 2021. The working group prolonged this extension until the end of 2024. From 2025, this extension no longer applies.
+
+When making this decision, the working group took into account that national competent authorities (NCAs) had resumed regularon-site inspections. It also considered that NCAs are using other methods to gather compliance information, such asdistant assessmentsand inspections thatinternational partnerscarry out. These methods enabled decisions on certificate validity. They also helped reduce inspection backlogs, which are expected to be resolved in 2025.
+
+NCAs will decide on a case-by-case basis whether any additional extension to a GMP certificate is needed.
+
+Any questions about GMP certificates and their validity should be addressed to the competent authority that issued the certificate.
+
+For more information, see:
+
+The Agency has a coordinating role for GMP inspections of manufacturing sites for medicines whose marketing authorisation in the EU is submitted through thecentralised procedureor as part of a referral procedure.
+
+The Agency also plays a key role in coordinating andharmonisingGMP activities at an EU level. It is involved in:
+
+Marketing authorisation holders and applicants need to use EMA'sIRIS systemto communicate with EMA onGMP inspectionsrequested by the Agency’s scientific committees.
+
+Using IRIS for GMP inspections improves efficiency by harmonising and automating processes and re-using master data held by EMA. It also simplifies retrieving and reporting data.
+
+More information on the use of EMA's IRIS system:
+
+Guidance for applicants/MAHs involved in GMP, GCP and GVP inspections coordinated by EMA
+
+English (EN)(246.38 KB - PDF)
+
+IRIS guide for applicants - How to create, submit and manage IRIS applications, for industry and individual applicants
+
+English (EN)(5.67 MB - PDF)
+
+These legal instruments lay down the principles and guidelines of GMP in the EU:
+
+TheEU GMP guidelinesprovide interpretation of these principles and guidelines, supplemented by a series of annexes that modify or augment the detailed guidelines for certain types of product, or provide more specific guidance on a particular topic.
+
+TheGMP / Good Distribution Practice (GDP) Inspectors Working Groupprovides additional interpretation of the EU GMP guidelines in the form ofquestions and answers (Q&As).
+
+Annex 1: Manufacture of Sterile Medicinal Productswas revised in August 2022. It comes into operation on 25 August 2023 except for point 8.123 which is postponed until 25 August 2024.
+
+Manufacturers and importers located in the European Economic Area (EEA) must hold an authorisation issued by the national competent authority of the Member State where they carry out these activities.
+
+They must comply with EU GMP to obtain a manufacturing or import authorisation. They can ensure that they meet all their legal obligations by following the EU GMP guidelines.
+
+Importers are responsible to ensure that the third country manufacturer they are importing from comply with GMP.
+
+Marketing authorisation applicants are responsible to ensure that the proposed manufacturing sites included in the marketing authorisation application comply with GMP. For more information, see section 5.2 Inspections of thePre-authorisation guidance.
+
+Manufacturers of active substances intended for the manufacture of human medicines for the EU market must register with the national competent authority of the Member State where they are located.
+
+Active substance manufacturers must comply with GMP. In addition, the manufacturer of the finished product is obliged to ensure that the active substances they use have been manufactured in compliance with GMP.
+
+Importers of active substances intended for the EU market are also required to register. In addition, each consignment needs to be accompanied by a confirmation by the competent authority of the country where it is produced that it conforms to GMP standards equivalent to those in the EU, unless a waiver applies.
+
+In the EU, national competent authorities are responsible for inspecting manufacturing sites located within their own territories.
+
+Manufacturing sites outside the EU are inspected by the national competent authority of the Member State where the EU importer is located, unless amutual recognition agreement(MRA) is in place between the EU and the country concerned. If an MRA applies, the authorities mutually rely on each other's inspections.
+
+If products are imported directly into more than one Member State from a manufacturing site outside the EU, there may be more than one national competent authority responsible for inspecting it. EMA facilitates cooperation between the authorities concerned in supervising the site.
+
+EU competent authorities plan routine inspections following a risk-based approach, or if there is suspicion of non-compliance.
+
+EudraGMDPis a publicly accessible EU database which contains manufacturing and import authorisations, registration of active substance manufacturers, GMP certificates and non-compliance statements.
+
+After inspecting a manufacturing site, EU competent authorities issue a GMP certificate or a non-compliance statement, which is entered in the EudraGMDP database.
+
+EMA chairs and provides the secretariat for theGMP/GDP Inspectors Working Groupof senior inspectors appointed by all the EEA competent authorities. It meets at EMA four times a year.
+
+TheEuropean Commissionand observers from EU accession countries, mutual recognition partner authorities, theEuropean Directorate for the Quality of Medicines and HealthCareand theWorld Health Organizationalso attend the working group's meetings.
+
+The group provides a forum for harmonisation and discussion of common issues, such as:
+
+EMA maintains a compilation of GMP and good distribution practice (GDP) inspection-relatedprocedures and formsagreed by all Member States. This facilitates cooperation between EU Member States and supports harmonisation and exchange of inspection-related information.
+
+It covers the basis for national procedures that form part of the national inspectorates' quality systems:
+
+For products derived from blood or blood plasma, EMA is responsible for coordinating inspections of the blood establishments in which collection, testing, processing, storage and distribution is carried out under the PMF certification procedure.
+
+For more information on the PMF certification procedure, seePlasma master files.
+
+EMA is responsible for coordinating inspections of vaccine antigen manufacturing sites under the VAMF certification procedure.
+
+For more information on the VAMF certification procedure, seeVaccine antigens.
+
+The EU has signedmutual recognition agreementson GMP inspections with regulatory authorities outside the EU. This allows EU authorities and their counterparts to:
+
+Product emergency hotline
+
+OUTSIDE WORKING HOURS
+
+European Medicines AgencyDomenico Scarlattilaan 61083 HS AmsterdamThe Netherlands
+
+Tel: +31 (0)88 781 6000
+
+How to find usPostal address and deliveriesBusiness hours and holidays
+
+=== ATTACHMENTS AND TRACKED LINKS ===
+LINK_TEXT: Skip to main content | TARGET_URL: #main-content
+LINK_TEXT: Find medicine | TARGET_URL: /en/medicines
+LINK_TEXT: Therapeutic areas: latest updates | TARGET_URL: /en/medicines/therapeutic-areas-latest-updates
+LINK_TEXT: Download medicine data | TARGET_URL: /en/medicines/download-medicine-data
+LINK_TEXT: What we publish on medicines and when | TARGET_URL: /en/medicines/what-we-publish-medicines-when
+LINK_TEXT: Medicines under evaluation | TARGET_URL: /en/medicines/medicines-human-use-under-evaluation
+LINK_TEXT: National registers | TARGET_URL: /en/medicines/national-registers-authorised-medicines
+LINK_TEXT: Human regulatory | TARGET_URL: /en/human-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/human-regulatory-overview/research-development
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/human-regulatory-overview/post-authorisation
+LINK_TEXT: Medical devices | TARGET_URL: /en/human-regulatory-overview/medical-devices
+LINK_TEXT: Herbal products | TARGET_URL: /en/human-regulatory-overview/herbal-medicinal-products
+LINK_TEXT: Veterinary regulatory | TARGET_URL: /en/veterinary-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/veterinary-regulatory-overview/research-development-veterinary-medicines
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines
+LINK_TEXT: How the committees work | TARGET_URL: /en/committees/how-committees-work
+LINK_TEXT: Working parties and other groups | TARGET_URL: /en/committees/working-parties-other-groups
+LINK_TEXT: News & events | TARGET_URL: /en/news-events
+LINK_TEXT: Committee highlights | TARGET_URL: /en/news-events/committee-highlights
+LINK_TEXT: Publications | TARGET_URL: /en/news-and-events/publications
+LINK_TEXT: Press and social media | TARGET_URL: /en/news-events/press-social-media
+LINK_TEXT: Podcast: Inside EMA | TARGET_URL: /en/news-events/podcast-inside-ema
+LINK_TEXT: EMA Campaigns | TARGET_URL: /en/news-events/ema-campaigns
+LINK_TEXT: Open consultations | TARGET_URL: /en/news-events/open-consultations
+LINK_TEXT: Partners & networks | TARGET_URL: /en/partners-networks
+LINK_TEXT: EU partners | TARGET_URL: /en/partners-networks/eu-partners
+LINK_TEXT: International activities | TARGET_URL: /en/partners-networks/international-activities
+LINK_TEXT: Patients and consumers | TARGET_URL: /en/partners-networks/patients-consumers
+LINK_TEXT: Healthcare professionals | TARGET_URL: /en/partners-networks/healthcare-professionals
+LINK_TEXT: Pharmaceutical industry | TARGET_URL: /en/partners-networks/pharmaceutical-industry
+LINK_TEXT: Health technology assessment bodies | TARGET_URL: /en/partners-networks/health-technology-assessment-bodies
+LINK_TEXT: One Health approach | TARGET_URL: /en/partners-networks/one-health-approach
+LINK_TEXT: Animal health practitioners | TARGET_URL: /en/partners-networks/animal-health-practitioners
+LINK_TEXT: One substance - one assessment | TARGET_URL: /en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data
+LINK_TEXT: How we work | TARGET_URL: /en/about-us/how-we-work
+LINK_TEXT: Support to SMEs | TARGET_URL: /en/about-us/support-smes
+LINK_TEXT: Annual reports and work programmes | TARGET_URL: /en/about-us/annual-reports-work-programmes
+LINK_TEXT: History of EMA | TARGET_URL: /en/about-us/history-ema
+LINK_TEXT: Procurement | TARGET_URL: /en/about-us/procurement-grants
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Data protection and privacy | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Human regulatory: overview | TARGET_URL: https://www.ema.europa.eu/en/human-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: https://www.ema.europa.eu/en/human-regulatory-overview/research-development
+LINK_TEXT: Compliance: research and development | TARGET_URL: https://www.ema.europa.eu/en/human-regulatory-overview/research-development/compliance-research-development
+LINK_TEXT: Also on this topic | TARGET_URL: #also-on-this-topic-62979
+LINK_TEXT: Regulatory expectations and certificates following COVID-19 public health emergency | TARGET_URL: #regulatory-expectations-and-certificates-following-covid-19-public-health-emergency-10391
+LINK_TEXT: Legal framework and guidance | TARGET_URL: #legal-framework-and-guidance-10393
+LINK_TEXT: Manufacturing authorisation | TARGET_URL: #manufacturing-authorisation-10394
+LINK_TEXT: Registration of manufacturers of active substances | TARGET_URL: #registration-of-manufacturers-of-active-substances-10395
+LINK_TEXT: Responsibility for inspections | TARGET_URL: #responsibility-for-inspections-10396
+LINK_TEXT: EudraGMDP database | TARGET_URL: #eudragmdp-database-10397
+LINK_TEXT: GMP/GDP Inspectors Working Group | TARGET_URL: #gmpgdp-inspectors-working-group-10398
+LINK_TEXT: Compilation of Union procedures | TARGET_URL: #compilation-of-union-procedures-10399
+LINK_TEXT: Inspections for pharmaceutical starting materials | TARGET_URL: #inspections-for-pharmaceutical-starting-materials-10401
+LINK_TEXT: Mutual recognition agreements | TARGET_URL: #mutual-recognition-agreements-10402
+LINK_TEXT: Related content | TARGET_URL: #related-content-74499
+LINK_TEXT: Related EU legislation | TARGET_URL: #related-eu-legislation-74502
+LINK_TEXT: Publications | TARGET_URL: #publications-74505
+LINK_TEXT: Contact point | TARGET_URL: #contact-point-17366
+LINK_TEXT: EudraGMDP database | TARGET_URL: /en/human-regulatory-overview/research-development/compliance-research-development/good-manufacturing-practice/eudragmdp-database
+LINK_TEXT: Guidance on good manufacturing practice and good distribution practice: Questions and answers | TARGET_URL: /en/human-regulatory-overview/research-development/compliance-research-development/good-manufacturing-practice/guidance-good-manufacturing-practice-good-distribution-practice-questions-answers
+LINK_TEXT: GMP/GDP Inspectors Working Group | TARGET_URL: /en/human-regulatory-overview/research-development/compliance-research-development/good-manufacturing-practice/good-manufacturing-practice-gmp-good-distribution-practice-gdp-inspectors-working-group
+LINK_TEXT: Compilation of Union procedures on inspections and exchange of information | TARGET_URL: /en/human-regulatory-overview/research-development/compliance-research-development/good-manufacturing-practice/compilation-union-procedures-inspections-exchange-information
+LINK_TEXT: Mutual recognition agreements (MRA) | TARGET_URL: /en/human-regulatory-overview/research-development/compliance-research-development/good-manufacturing-practice/mutual-recognition-agreements-mra
+LINK_TEXT: International collaboration on GMP inspections | TARGET_URL: /en/human-regulatory-overview/research-and-development/compliance-research-and-development/good-manufacturing-practice/international-collaboration-gmp-inspections
+LINK_TEXT: Joint Audit Programme | TARGET_URL: /en/human-regulatory-overview/research-and-development/compliance-research-and-development/good-manufacturing-practice/joint-audit-programme
+LINK_TEXT: Pharmaceutical quality system (PQS) effectiveness pilot project | TARGET_URL: /en/human-regulatory-overview/research-development/compliance-research-development/good-manufacturing-practice/pharmaceutical-quality-system-pqs-effectiveness-pilot-project
+LINK_TEXT: WHO chief declares end to COVID-19 as a global health emergency (05/05/2023) | TARGET_URL: https://news.un.org/en/story/2023/05/1136367
+LINK_TEXT: Good Manufacturing Practice (GMP) / Distribution Practice Practice (GDP) Inspectors Working Group | TARGET_URL: /en/human-regulatory-overview/research-development/compliance-research-development/good-manufacturing-practice/good-manufacturing-practice-gmp-good-distribution-practice-gdp-inspectors-working-group
+LINK_TEXT: centralised procedure | TARGET_URL: /en/about-us/what-we-do/authorisation-medicines
+LINK_TEXT: IRIS system | TARGET_URL: https://iris.ema.europa.eu/
+LINK_TEXT: IRIS system | TARGET_URL: https://iris.ema.europa.eu/
+LINK_TEXT: View | TARGET_URL: /en/documents/regulatory-procedural-guideline/guidance-applicantsmahs-involved-gmp-gcp-and-gvp-inspections-coordinated-ema_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/regulatory-procedural-guideline/iris-guide-applicants-how-create-submit-scientific-applications-industry-individual-applicants_en.pdf
+LINK_TEXT: Regulation No. 1252/2014 | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R1252
+LINK_TEXT: Directive 2001/83/EC | TARGET_URL: https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32001L0083
+LINK_TEXT: Directive (EU) 2017/1572 | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017L1572&qid=1699899866530
+LINK_TEXT: Directive 91/412/EEC | TARGET_URL: http://ec.europa.eu/health//sites/health/files/files/eudralex/vol-5/dir_1991_412/dir_1991_412_en.pdf
+LINK_TEXT: Regulation (EU) 2019/6 | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019R0006&qid=1699899927298
+LINK_TEXT: Directive 2001/20/EC | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32001L0020&qid=1699900151771
+LINK_TEXT: Regulation (EU) 536/2014 | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32014R0536&qid=1699900023497
+LINK_TEXT: EU GMP guidelines | TARGET_URL: https://ec.europa.eu/health/documents/eudralex/vol-4_en
+LINK_TEXT: GMP / Good Distribution Practice (GDP) Inspectors Working Group | TARGET_URL: /en/human-regulatory/research-development/compliance/good-manufacturing-practice/gmpgdp-inspectors-working-group
+LINK_TEXT: questions and answers (Q&As) | TARGET_URL: /en/human-regulatory/research-development/compliance/good-manufacturing-practice/guidance-good-manufacturing-practice-good-distribution-practice-questions-answers
+LINK_TEXT: Annex 1: Manufacture of Sterile Medicinal Products | TARGET_URL: http://health.ec.europa.eu/medicinal-products/eudralex/eudralex-volume-4_en#annexes
+LINK_TEXT: Pre-authorisation guidance | TARGET_URL: /en/human-regulatory/marketing-authorisation/pre-authorisation-guidance
+LINK_TEXT: mutual recognition agreement | TARGET_URL: /en/human-regulatory/research-development/compliance/good-manufacturing-practice/mutual-recognition-agreements-mra
+LINK_TEXT: GMP/GDP Inspectors Working Group | TARGET_URL: /en/human-regulatory/research-development/compliance/good-manufacturing-practice/gmpgdp-inspectors-working-group
+LINK_TEXT: European Commission | TARGET_URL: https://ec.europa.eu/commission/index_en
+LINK_TEXT: European Directorate for the Quality of Medicines and HealthCare | TARGET_URL: /en/partners-networks/international-activities/multilateral-organisations-initiatives/european-directorate-quality-medicines-healthcare-edqm-council-europe
+LINK_TEXT: World Health Organization | TARGET_URL: /en/partners-networks/international-activities/multilateral-organisations-initiatives/world-health-organization-who
+LINK_TEXT: Compilation of Union procedures on inspections and exchange of information | TARGET_URL: /en/human-regulatory-overview/research-development/compliance-research-development/good-manufacturing-practice/compilation-union-procedures-inspections-exchange-information
+LINK_TEXT: Plasma master files | TARGET_URL: /en/human-regulatory/research-development/non-pharmaceutical-products/plasma-master-files
+LINK_TEXT: Vaccine antigens | TARGET_URL: /en/human-regulatory/research-development/non-pharmaceutical-products/vaccine-antigens
+LINK_TEXT: mutual recognition agreements | TARGET_URL: /en/human-regulatory/research-development/compliance/good-manufacturing-practice/mutual-recognition-agreements-mra
+LINK_TEXT: EudraGMDP database | TARGET_URL: /en/human-regulatory-overview/research-development/compliance-research-development/good-manufacturing-practice/eudragmdp-database
+LINK_TEXT: Guidance on good manufacturing practice and good distribution practice: Questions and answers | TARGET_URL: /en/human-regulatory-overview/research-development/compliance-research-development/good-manufacturing-practice/guidance-good-manufacturing-practice-good-distribution-practice-questions-answers
+LINK_TEXT: International collaboration on GMP inspections | TARGET_URL: /en/human-regulatory-overview/research-and-development/compliance-research-and-development/good-manufacturing-practice/international-collaboration-gmp-inspections
+LINK_TEXT: Good distribution practice | TARGET_URL: /en/human-regulatory-overview/post-authorisation/compliance-post-authorisation/good-distribution-practice
+LINK_TEXT: Medicine shortages and availability issues | TARGET_URL: /en/human-regulatory-overview/post-authorisation/medicine-shortages-availability-issues
+LINK_TEXT: Regulation No. 1252/2014 | TARGET_URL: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R1252
+LINK_TEXT: Directive 2003/94/EC | TARGET_URL: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:262:0022:0026:en:PDF
+LINK_TEXT: Directive 91/412/EEC | TARGET_URL: http://ec.europa.eu/health//sites/health/files/files/eudralex/vol-5/dir_1991_412/dir_1991_412_en.pdf
+LINK_TEXT: PDA Journal: GMP oversight of medicines manufacturers in the EU | TARGET_URL: https://www.pda.org/pda-letter-portal/home/full-article/gmp-oversight-of-medicines-manufacturers-in-the-european-union
+LINK_TEXT: Regulatory and procedural guidance | TARGET_URL: https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A56
+LINK_TEXT: Back to top | TARGET_URL: #main-content
+LINK_TEXT: Product emergency hotlineOUTSIDE WORKING HOURS | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Committees & working parties | TARGET_URL: /en/committees
+LINK_TEXT: Regulatory network | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network
+LINK_TEXT: European experts | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network/european-experts
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Accessibility | TARGET_URL: /en/about-us/about-website/accessibility
+LINK_TEXT: Website data protection notice | TARGET_URL: /en/about-us/about-website/website-data-protection-notice
+LINK_TEXT: Data protection at EMA | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Frequently asked questions | TARGET_URL: /en/about-us/frequently-asked-questions
+LINK_TEXT: Search tips | TARGET_URL: /en/about-us/about-website/search-tips
+LINK_TEXT: Access to documents | TARGET_URL: /en/about-us/how-we-work/access-documents
+LINK_TEXT: Send a question | TARGET_URL: /en/about-us/contacts-european-medicines-agency/send-question-european-medicines-agency
+LINK_TEXT: EMA Service Desk (system support) | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Services and databases | TARGET_URL: /en/about-us/how-we-work/services-databases
+LINK_TEXT: How to find us | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us
+LINK_TEXT: Postal address and deliveries | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us#addresses-6923
+LINK_TEXT: Business hours and holidays | TARGET_URL: /about-us/contacts-european-medicines-agency/business-hours-holidays
+LINK_TEXT: BlueskyFollow EMA on Bluesky. Opens in a new window. | TARGET_URL: https://bsky.app/profile/ema.europa.eu
+LINK_TEXT: YouTubeFollow EMA on YouTube. Opens in a new window. | TARGET_URL: https://www.youtube.com/user/emainfo
+LINK_TEXT: LinkedInFollow EMA on LinkedIn. Opens in a new window. | TARGET_URL: https://www.linkedin.com/company/european-medicines-agency/
+LINK_TEXT: © 1995 - 2026 European Medicines Agency | TARGET_URL: https://www.ema.europa.eu/en/about-us/about-website/legal-notice
+LINK_TEXT: European Union agencies network | TARGET_URL: https://agencies-network.europa.eu/index_en
+LINK_TEXT: An agency of the European Union | TARGET_URL: https://european-union.europa.eu/

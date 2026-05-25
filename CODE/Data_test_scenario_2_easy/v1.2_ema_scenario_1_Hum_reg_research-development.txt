@@ -1,0 +1,318 @@
+TITLE: Research and development
+
+=== TEXT CONTENT ===
+EMA has developed aconsolidated list of available guidance and opportunities for interactionin the development phase of a medicinal product.
+
+EMA offers medicine developers several opportunities for early dialogue and consultation before submitting a marketing authorisation application. This is intended to provideregulatory and scientific supportto facilitate the preparation of applications and enable a smooth validation and assessment procedure.
+
+In addition to making use of these services, medicine developers can also:
+
+User guide for micro, small and medium-sized enterprises
+
+English (EN)(1.07 MB - PDF)
+
+Scientific adviceis advice to a medicine developer on the appropriate tests and studies in the development of a medicine.Protocol assistanceis a special form of scientific advice, reserved for medicines with orphan designation.
+
+For more information, see:
+
+Procedural advicefor requesting scientific advice and protocol assistance.
+
+For more information, see:
+
+Parallel EMA-FDA scientific adviceshould focus primarily on important breakthrough drugs or important safety issues.
+
+For more information, see:
+
+Parallel consultationwith regulators and health technology assessment bodies, provides feedback from regulators and HTA bodies at the same time, at any point in the developmental lifecycle of medicines.
+
+For more information, see:
+
+Definitions, links to submission templates and deadline, and further information on paediatric procedures.
+
+For more information, see:
+
+Guideline from the European Commissionon the format and content of applications for agreement or modification of a paediatric investigation plan (PIP)/waiver/modification
+
+Procedural advice for PIP/waiver/modification submissions.
+
+For more information, see:
+
+How to apply, prevalence considerations, medical plausibility and significant benefit guidance.
+
+For more information, see:
+
+For more information, see:
+
+PRIME provides enhanced support for the development of medicines that target an unmet medical need, that may offer a major therapeutic advantage over existing treatments, or benefit patients without treatment options.
+
+For more information, see:
+
+EMA guidance on the scope and features of PRIME.
+
+For more information, see:
+
+Guidance on how to apply for an ITF briefing meeting for human or veterinary development, and information onadvanced therapy classification.
+
+For more information, see:
+
+Scientific advice to support the qualification of innovative development methods (rather than a specific product) for a specific intended use in the context of research and development into pharmaceuticals.
+
+For more information, see:
+
+For more information, see:
+
+Regulatory and administrative assistance by phone, email or teleconference, including SME office briefing meetings to discuss the regulatory strategy of a human or veterinary medicinal product and navigate the range of procedures and incentives. Quarterly newsletters, info days and training.
+
+For more information, see:
+
+Provides an overview of procedures to support research and development activities and regulatory requirements to obtain a marketing authorisation.
+
+For more information, see:
+
+Includes the SME declaration form and guidance for enterprises applying for SME status before requesting financial or administrative assistance from the Agency.
+
+For more information, see:
+
+Aim: to facilitate validation and discuss the proposed questions. It's possible to request a meeting when submitting an application for scientific advice and protocol assistance via IRIS.
+
+Aim: to ensure smooth validation. Submit your regulatory/administrative questions at least two months prior to PIP/waiver submission via the eSubmission Gateway.
+
+See also point 1.10 in regulatory Q&A:
+
+Aim: to clarify any details of the PDCO’s requests for modification during clock-stop, contact the assigned Paediatric Coordinator. See also point 1.10 in: regulatory Q&A.
+
+For more information, see:
+
+Aim: to ensure smooth validation. Request a pre-submission meeting via theIRIS portal, at least two months prior to submission of the orphan designation application
+
+Send a request form to itfsecretariat@ema.europa.eu for human medicines (or itfvet@ema.europa.eu for veterinary medicines)
+
+For more information, see:
+
+PRIME provides enhanced support for the development of medicines that target an unmet medical need, that may offer a major therapeutic advantage over existing treatments, or benefit patients without treatment options.
+
+For more information, see:
+
+EMA offerspre-submission supportto any applicant planning a PRIME application, including a virtual pre-submission meeting to discuss PRIME eligibility. Applicants can submit these requests via IRIS.
+
+Queries prior to submission of PRIME eligibility requests can be sent toprime@ema.europa.eu.
+
+Request a preparatory meeting when submitting an application for Qualification via IRIS.
+
+Aim: to discuss the regulatory strategy of a product and navigate the range of procedures and incentives available to support development and authorisation. Contact the SME office on +31 (0)88 781 8787 orsme@ema.europa.eu
+
+EMA tools available to medicine’s developers from the academic sector
+
+This booklet describes the journey of a medicine for human use authorised via EMA, from initial research to discussions on patient access to medicines across the EU. This includes how EMA supports medicine development by providing scientific advice and how it assesses a medicine’s benefits and risks once it receives an application for marketing authorisation.
+
+From laboratory to patient: the journey of a centrally authorised medicine
+
+English (EN)(1.76 MB - PDF)
+
+български (BG)(4.64 MB - PDF)
+
+español (ES)(4.79 MB - PDF)
+
+čeština (CS)(4.61 MB - PDF)
+
+dansk (DA)(4.66 MB - PDF)
+
+Deutsch (DE)(4.93 MB - PDF)
+
+eesti keel (ET)(4.75 MB - PDF)
+
+ελληνικά (EL)(4.65 MB - PDF)
+
+français (FR)(4.87 MB - PDF)
+
+hrvatski (HR)(4.8 MB - PDF)
+
+italiano (IT)(4.86 MB - PDF)
+
+latviešu valoda (LV)(4.88 MB - PDF)
+
+lietuvių kalba (LT)(4.68 MB - PDF)
+
+magyar (HU)(4.69 MB - PDF)
+
+Nederlands (NL)(4.65 MB - PDF)
+
+polski (PL)(4.92 MB - PDF)
+
+português (PT)(4.65 MB - PDF)
+
+română (RO)(4.81 MB - PDF)
+
+slovenčina (SK)(4.79 MB - PDF)
+
+slovenščina (SL)(4.8 MB - PDF)
+
+Suomi (FI)(4.75 MB - PDF)
+
+svenska (SV)(4.62 MB - PDF)
+
+Product emergency hotline
+
+OUTSIDE WORKING HOURS
+
+European Medicines AgencyDomenico Scarlattilaan 61083 HS AmsterdamThe Netherlands
+
+Tel: +31 (0)88 781 6000
+
+How to find usPostal address and deliveriesBusiness hours and holidays
+
+=== ATTACHMENTS AND TRACKED LINKS ===
+LINK_TEXT: Skip to main content | TARGET_URL: #main-content
+LINK_TEXT: Find medicine | TARGET_URL: /en/medicines
+LINK_TEXT: Therapeutic areas: latest updates | TARGET_URL: /en/medicines/therapeutic-areas-latest-updates
+LINK_TEXT: Download medicine data | TARGET_URL: /en/medicines/download-medicine-data
+LINK_TEXT: What we publish on medicines and when | TARGET_URL: /en/medicines/what-we-publish-medicines-when
+LINK_TEXT: Medicines under evaluation | TARGET_URL: /en/medicines/medicines-human-use-under-evaluation
+LINK_TEXT: National registers | TARGET_URL: /en/medicines/national-registers-authorised-medicines
+LINK_TEXT: Human regulatory | TARGET_URL: /en/human-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/human-regulatory-overview/research-development
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/human-regulatory-overview/post-authorisation
+LINK_TEXT: Medical devices | TARGET_URL: /en/human-regulatory-overview/medical-devices
+LINK_TEXT: Herbal products | TARGET_URL: /en/human-regulatory-overview/herbal-medicinal-products
+LINK_TEXT: Veterinary regulatory | TARGET_URL: /en/veterinary-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/veterinary-regulatory-overview/research-development-veterinary-medicines
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines
+LINK_TEXT: How the committees work | TARGET_URL: /en/committees/how-committees-work
+LINK_TEXT: Working parties and other groups | TARGET_URL: /en/committees/working-parties-other-groups
+LINK_TEXT: News & events | TARGET_URL: /en/news-events
+LINK_TEXT: Committee highlights | TARGET_URL: /en/news-events/committee-highlights
+LINK_TEXT: Publications | TARGET_URL: /en/news-and-events/publications
+LINK_TEXT: Press and social media | TARGET_URL: /en/news-events/press-social-media
+LINK_TEXT: Podcast: Inside EMA | TARGET_URL: /en/news-events/podcast-inside-ema
+LINK_TEXT: EMA Campaigns | TARGET_URL: /en/news-events/ema-campaigns
+LINK_TEXT: Open consultations | TARGET_URL: /en/news-events/open-consultations
+LINK_TEXT: Partners & networks | TARGET_URL: /en/partners-networks
+LINK_TEXT: EU partners | TARGET_URL: /en/partners-networks/eu-partners
+LINK_TEXT: International activities | TARGET_URL: /en/partners-networks/international-activities
+LINK_TEXT: Patients and consumers | TARGET_URL: /en/partners-networks/patients-consumers
+LINK_TEXT: Healthcare professionals | TARGET_URL: /en/partners-networks/healthcare-professionals
+LINK_TEXT: Pharmaceutical industry | TARGET_URL: /en/partners-networks/pharmaceutical-industry
+LINK_TEXT: Health technology assessment bodies | TARGET_URL: /en/partners-networks/health-technology-assessment-bodies
+LINK_TEXT: One Health approach | TARGET_URL: /en/partners-networks/one-health-approach
+LINK_TEXT: Animal health practitioners | TARGET_URL: /en/partners-networks/animal-health-practitioners
+LINK_TEXT: One substance - one assessment | TARGET_URL: /en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data
+LINK_TEXT: How we work | TARGET_URL: /en/about-us/how-we-work
+LINK_TEXT: Support to SMEs | TARGET_URL: /en/about-us/support-smes
+LINK_TEXT: Annual reports and work programmes | TARGET_URL: /en/about-us/annual-reports-work-programmes
+LINK_TEXT: History of EMA | TARGET_URL: /en/about-us/history-ema
+LINK_TEXT: Procurement | TARGET_URL: /en/about-us/procurement-grants
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Data protection and privacy | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Human regulatory: overview | TARGET_URL: https://www.ema.europa.eu/en/human-regulatory-overview
+LINK_TEXT: In this section | TARGET_URL: #in-this-section-38733
+LINK_TEXT: Early development advice services | TARGET_URL: #early-development-advice-services-38734
+LINK_TEXT: Main procedural advice and guidance for medicine development | TARGET_URL: #main-procedural-advice-and-guidance-for-medicine-development-38735
+LINK_TEXT: Opportunities to interact with EMA during the development of a medicine | TARGET_URL: #opportunities-to-interact-with-ema-during-the-development-of-a-medicine-38736
+LINK_TEXT: Related content | TARGET_URL: #related-content-18529
+LINK_TEXT: Infosheet: Supporting medicine developers | TARGET_URL: #infosheet-supporting-medicine-developers-18530
+LINK_TEXT: From lab to patient: the journey of a centrally authorised medicine | TARGET_URL: #from-lab-to-patient-the-journey-of-a-centrally-authorised-medicine-18531
+LINK_TEXT: Adaptive pathways | TARGET_URL: /en/human-regulatory/research-development/adaptive-pathways
+LINK_TEXT: Advanced therapy medicines | TARGET_URL: /en/human-regulatory/overview/advanced-therapy-medicinal-products
+LINK_TEXT: Cancer medicines | TARGET_URL: /en/human-regulatory-overview/research-development/cancer-medicines
+LINK_TEXT: Clinical trials | TARGET_URL: /en/human-regulatory/research-development/clinical-trials-human-medicines
+LINK_TEXT: Compassionate use | TARGET_URL: /en/human-regulatory/research-development/compassionate-use
+LINK_TEXT: Data on medicines (ISO IDMP standards) | TARGET_URL: /en/human-regulatory/research-development/data-medicines-iso-idmp-standards-research-development
+LINK_TEXT: Ethical use of animals in medicine testing | TARGET_URL: /en/human-regulatory/research-development/ethical-use-animals-medicine-testing
+LINK_TEXT: Innovation Task Force briefing meetings | TARGET_URL: /en/human-regulatory-overview/research-development/innovation-task-force-briefing-meetings
+LINK_TEXT: Medicines during pregnancy and breastfeeding | TARGET_URL: /en/human-regulatory-overview/research-development/medicines-during-pregnancy-breastfeeding
+LINK_TEXT: Medicines for older people | TARGET_URL: /en/human-regulatory/research-development/medicines-older-people
+LINK_TEXT: Non-pharmaceutical products | TARGET_URL: /en/human-regulatory/research-development/non-pharmaceutical-products
+LINK_TEXT: Orphan designation: research and development | TARGET_URL: /en/human-regulatory/research-development/orphan-designation-research-development
+LINK_TEXT: Paediatric medicines: research and development | TARGET_URL: /en/human-regulatory/research-development/paediatric-medicines-research-development
+LINK_TEXT: Pharmacovigilance | TARGET_URL: /en/human-regulatory/research-development/pharmacovigilance-research-development
+LINK_TEXT: Portfolio and technology meetings | TARGET_URL: /en/human-regulatory-overview/research-development/portfolio-technology-meetings
+LINK_TEXT: Quality by design | TARGET_URL: /en/human-regulatory/research-development/quality-design
+LINK_TEXT: Scientific advice and protocol assistance | TARGET_URL: /en/human-regulatory/research-development/scientific-advice-protocol-assistance
+LINK_TEXT: Scientific guidelines | TARGET_URL: /en/human-regulatory/research-development/scientific-guidelines
+LINK_TEXT: Supporting innovation | TARGET_URL: /en/human-regulatory/research-development/innovation-medicines
+LINK_TEXT: Supporting SMEs | TARGET_URL: /en/human-regulatory/overview/supporting-smes
+LINK_TEXT: Support for early access | TARGET_URL: /en/human-regulatory/overview/support-early-access
+LINK_TEXT: online enquiry form | TARGET_URL: /en/about-us/contacts-european-medicines-agency/send-question-european-medicines-agency
+LINK_TEXT: View | TARGET_URL: /en/documents/regulatory-procedural-guideline/user-guide-micro-small-medium-sized-enterprises_en.pdf
+LINK_TEXT: Scientific advice and protocol assistance | TARGET_URL: /en/human-regulatory-overview/research-development/scientific-advice-protocol-assistance
+LINK_TEXT: Requesting scientific advice or protocol assistance from EMA | TARGET_URL: /en/human-regulatory-overview/research-development/scientific-advice-protocol-assistance/requesting-scientific-advice-or-protocol-assistance-ema
+LINK_TEXT: General principles: European Medicines Agency-Food and Drug Administration parallel scientific advice | TARGET_URL: /en/documents/other/general-principles-european-medicines-agency-food-and-drug-administration-parallel-scientific-advice_en.pdf
+LINK_TEXT: Guidance on parallel EMA / EUnetHTA 21 Joint Scientific Consultation | TARGET_URL: /en/documents/regulatory-procedural-guideline/guidance-parallel-ema-eunethta-21-joint-scientific-consultation_en.pdf
+LINK_TEXT: Paediatric investigation plans | TARGET_URL: /en/human-regulatory-overview/research-development/paediatric-medicines-research-development/paediatric-investigation-plans
+LINK_TEXT: Guideline from the European Commission | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:JOC_2014_338_R_0001&from=EN
+LINK_TEXT: Paediatric investigation plans: questions and answers | TARGET_URL: /en/human-regulatory-overview/research-development/paediatric-medicines-research-development/paediatric-investigation-plans/paediatric-investigation-plans-questions-answers
+LINK_TEXT: Applying for orphan designation | TARGET_URL: /en/human-regulatory-overview/research-development/orphan-designation-research-development/applying-orphan-designation
+LINK_TEXT: Guideline on the format and content of applications for designation as orphan medicinal products and on the transfer of designations from one sponsor to another | TARGET_URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2022.440.01.0002.01.ENG
+LINK_TEXT: PRIME: priority medicines | TARGET_URL: /en/human-regulatory-overview/research-development/prime-priority-medicines
+LINK_TEXT: European Medicines Agency Guidance for applicants seeking access to PRIME scheme | TARGET_URL: /en/documents/other/european-medicines-agency-guidance-applicants-seeking-access-prime-scheme_en.pdf
+LINK_TEXT: advanced therapy classification | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/advanced-therapies-marketing-authorisation/advanced-therapy-classification
+LINK_TEXT: Innovation Task Force briefing meetings | TARGET_URL: /en/human-regulatory-overview/research-development/innovation-task-force-briefing-meetings
+LINK_TEXT: Mandate of the European Medicines Agency Innovation Task Force (ITF) | TARGET_URL: /en/documents/other/mandate-european-medicines-agency-innovation-task-force-itf_en.pdf
+LINK_TEXT: Opinions and letters of support on the qualification of novel methodologies for medicine development | TARGET_URL: /en/human-regulatory-overview/research-development/scientific-advice-protocol-assistance/opinions-letters-support-qualification-novel-methodologies-medicine-development
+LINK_TEXT: Qualification of novel methodologies for drug development: guidance to applicants | TARGET_URL: /en/documents/regulatory-procedural-guideline/qualification-novel-methodologies-drug-development-guidance-applicants_en.pdf
+LINK_TEXT: Support to SMEs | TARGET_URL: /en/about-us/support-smes
+LINK_TEXT: User guide for micro, small and medium-sized enterprises | TARGET_URL: /en/documents/regulatory-procedural-guideline/user-guide-micro-small-medium-sized-enterprises_en.pdf
+LINK_TEXT: Applying for SME status | TARGET_URL: /en/about-us/support-smes/applying-sme-status
+LINK_TEXT: Paediatric investigation plans: questions and answers | TARGET_URL: /en/human-regulatory-overview/research-development/paediatric-medicines-research-development/paediatric-investigation-plans/paediatric-investigation-plans-questions-answers
+LINK_TEXT: Paediatric investigation plans: questions and answers | TARGET_URL: /en/human-regulatory-overview/research-development/paediatric-medicines-research-development/paediatric-investigation-plans/paediatric-investigation-plans-questions-answers
+LINK_TEXT: IRIS portal | TARGET_URL: https://iris.ema.europa.eu/
+LINK_TEXT: Innovation Task Force briefing meetings | TARGET_URL: /en/human-regulatory-overview/research-development/innovation-task-force-briefing-meetings
+LINK_TEXT: Innovation Task Force (ITF) briefing meeting request form | TARGET_URL: /en/documents/template-form/innovation-task-force-itf-briefing-meeting-request-form_en.docx
+LINK_TEXT: PRIME: priority medicines | TARGET_URL: /en/human-regulatory-overview/research-development/prime-priority-medicines
+LINK_TEXT: prime@ema.europa | TARGET_URL: mailto:prime@ema.europa
+LINK_TEXT: sme@ema.europa.eu | TARGET_URL: mailto:sme@ema.europa.eu
+LINK_TEXT: Human medicines: regulatory information | TARGET_URL: /en/human-regulatory-overview
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/human-regulatory/marketing-authorisation
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/human-regulatory/post-authorisation
+LINK_TEXT: Brexit-related guidance for companies | TARGET_URL: /en/about-us/history-ema/brexit-united-kingdoms-withdrawal-european-union/brexit-related-guidance-companies
+LINK_TEXT: EMA tools available to medicine’s developers from the academic sector | TARGET_URL: /en/documents/leaflet/ema-tools-available-medicines-developers-academic-sector_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/other/laboratory-patient-journey-centrally-authorised-medicine_en.pdf
+LINK_TEXT: Other languages (21) | TARGET_URL: #file-language-dropdown-302
+LINK_TEXT: View | TARGET_URL: /bg/documents/other/laboratory-patient-journey-centrally-authorised-medicine_bg.pdf
+LINK_TEXT: View | TARGET_URL: /es/documents/other/laboratory-patient-journey-centrally-authorised-medicine_es.pdf
+LINK_TEXT: View | TARGET_URL: /cs/documents/other/laboratory-patient-journey-centrally-authorised-medicine_cs.pdf
+LINK_TEXT: View | TARGET_URL: /da/documents/other/laboratory-patient-journey-centrally-authorised-medicine_da.pdf
+LINK_TEXT: View | TARGET_URL: /de/documents/other/laboratory-patient-journey-centrally-authorised-medicine_de.pdf
+LINK_TEXT: View | TARGET_URL: /et/documents/other/laboratory-patient-journey-centrally-authorised-medicine_et.pdf
+LINK_TEXT: View | TARGET_URL: /el/documents/other/laboratory-patient-journey-centrally-authorised-medicine_el.pdf
+LINK_TEXT: View | TARGET_URL: /fr/documents/other/laboratory-patient-journey-centrally-authorised-medicine_fr.pdf
+LINK_TEXT: View | TARGET_URL: /hr/documents/other/laboratory-patient-journey-centrally-authorised-medicine_hr.pdf
+LINK_TEXT: View | TARGET_URL: /it/documents/other/laboratory-patient-journey-centrally-authorised-medicine_it.pdf
+LINK_TEXT: View | TARGET_URL: /lv/documents/other/laboratory-patient-journey-centrally-authorised-medicine_lv.pdf
+LINK_TEXT: View | TARGET_URL: /lt/documents/other/laboratory-patient-journey-centrally-authorised-medicine_lt.pdf
+LINK_TEXT: View | TARGET_URL: /hu/documents/other/laboratory-patient-journey-centrally-authorised-medicine_hu.pdf
+LINK_TEXT: View | TARGET_URL: /nl/documents/other/laboratory-patient-journey-centrally-authorised-medicine_nl.pdf
+LINK_TEXT: View | TARGET_URL: /pl/documents/other/laboratory-patient-journey-centrally-authorised-medicine_pl.pdf
+LINK_TEXT: View | TARGET_URL: /pt/documents/other/laboratory-patient-journey-centrally-authorised-medicine_pt.pdf
+LINK_TEXT: View | TARGET_URL: /ro/documents/other/laboratory-patient-journey-centrally-authorised-medicine_ro.pdf
+LINK_TEXT: View | TARGET_URL: /sk/documents/other/laboratory-patient-journey-centrally-authorised-medicine_sk.pdf
+LINK_TEXT: View | TARGET_URL: /sl/documents/other/laboratory-patient-journey-centrally-authorised-medicine_sl.pdf
+LINK_TEXT: View | TARGET_URL: /fi/documents/other/laboratory-patient-journey-centrally-authorised-medicine_fi.pdf
+LINK_TEXT: View | TARGET_URL: /sv/documents/other/laboratory-patient-journey-centrally-authorised-medicine_sv.pdf
+LINK_TEXT: Research and development | TARGET_URL: https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A72
+LINK_TEXT: Back to top | TARGET_URL: #main-content
+LINK_TEXT: Product emergency hotlineOUTSIDE WORKING HOURS | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Committees & working parties | TARGET_URL: /en/committees
+LINK_TEXT: Regulatory network | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network
+LINK_TEXT: European experts | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network/european-experts
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Accessibility | TARGET_URL: /en/about-us/about-website/accessibility
+LINK_TEXT: Website data protection notice | TARGET_URL: /en/about-us/about-website/website-data-protection-notice
+LINK_TEXT: Data protection at EMA | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Frequently asked questions | TARGET_URL: /en/about-us/frequently-asked-questions
+LINK_TEXT: Search tips | TARGET_URL: /en/about-us/about-website/search-tips
+LINK_TEXT: Access to documents | TARGET_URL: /en/about-us/how-we-work/access-documents
+LINK_TEXT: Send a question | TARGET_URL: /en/about-us/contacts-european-medicines-agency/send-question-european-medicines-agency
+LINK_TEXT: EMA Service Desk (system support) | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Services and databases | TARGET_URL: /en/about-us/how-we-work/services-databases
+LINK_TEXT: How to find us | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us
+LINK_TEXT: Postal address and deliveries | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us#addresses-6923
+LINK_TEXT: Business hours and holidays | TARGET_URL: /about-us/contacts-european-medicines-agency/business-hours-holidays
+LINK_TEXT: BlueskyFollow EMA on Bluesky. Opens in a new window. | TARGET_URL: https://bsky.app/profile/ema.europa.eu
+LINK_TEXT: YouTubeFollow EMA on YouTube. Opens in a new window. | TARGET_URL: https://www.youtube.com/user/emainfo
+LINK_TEXT: LinkedInFollow EMA on LinkedIn. Opens in a new window. | TARGET_URL: https://www.linkedin.com/company/european-medicines-agency/
+LINK_TEXT: © 1995 - 2026 European Medicines Agency | TARGET_URL: https://www.ema.europa.eu/en/about-us/about-website/legal-notice
+LINK_TEXT: European Union agencies network | TARGET_URL: https://agencies-network.europa.eu/index_en
+LINK_TEXT: An agency of the European Union | TARGET_URL: https://european-union.europa.eu/
