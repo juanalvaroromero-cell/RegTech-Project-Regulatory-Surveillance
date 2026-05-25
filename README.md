@@ -1,4 +1,4 @@
-> **Nota:** Esta es una versión Beta provisional del documento. La arquitectura, especificaciones y tecnologías del proyecto están actualmente en fase de desarrollo activo.
+> **Note:** : This is a provisional beta version of the document. The project's architecture, specifications, and technologies are currently under active development.
 
 # Project Summary: RegTech Platform for Regulatory Surveillance
 
