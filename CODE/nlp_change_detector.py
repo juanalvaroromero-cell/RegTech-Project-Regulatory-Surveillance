@@ -1,113 +1,126 @@
 # nlp_change_detector.py
-
-import difflib
 import re
-from sentence_transformers import SentenceTransformer, util
+from sentence_transformers import util
 
-# ==========================================
-# NLP MODEL INITIALIZATION
-# ==========================================
-# We load the lightweight model for semantic comparison.
-# 'all-MiniLM-L6-v2' is highly efficient and runs locally without needing a GPU.
-print("Loading NLP Model (SentenceTransformers)... Please wait.")
-nlp_model = SentenceTransformer('all-MiniLM-L6-v2')
-print("Model loaded successfully.\n")
-
-# (Make sure nlp_model is initialized at the top of your file as usual)
-
-def hybrid_change_detector(old_text, new_text, semantic_threshold=0.95):
+def extract_text_content(filepath):
     """
-    Compares two regulatory texts using a hybrid approach:
-    Layer 1: Structural comparison (difflib)
-    Layer 2: Semantic comparison (Cosine Similarity)
-    Layer 3: Advanced Entity Override (Regex for digits, words-numbers, months, emails)
+    Simula la extracción de texto leyendo desde un archivo local,
+    aísla únicamente el contenido normativo limpio.
     """
-    old_paragraphs = [p.strip() for p in old_text.split('\n\n') if len(p.strip()) > 10]
-    new_paragraphs = [p.strip() for p in new_text.split('\n\n') if len(p.strip()) > 10]
-    
+    with open(filepath, 'r', encoding='utf-8') as file:
+        raw_content = file.read()
+        
+    if "=== TEXT CONTENT ===" in raw_content:
+        text_block = raw_content.split("=== TEXT CONTENT ===")[1]
+    else:
+        text_block = raw_content
+        
+    if "=== ATTACHMENTS AND TRACKED LINKS ===" in text_block:
+        text_block = text_block.split("=== ATTACHMENTS AND TRACKED LINKS ===")[0]
+        
+    return text_block.strip()
+
+def hybrid_change_detector(old_paragraphs, new_paragraphs, model):
     relevant_changes = []
     
-    # Precompiled Regex patterns to search within the text
-    month_pattern = r'\b(January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\b'
-    word_num_pattern = r'\b(one|two|three|four|five|six|seven|eight|nine|ten|first|second|third)\b'
-    email_pattern = r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
-    
-    for new_p in new_paragraphs:
-        # 1. EXACT MATCH FILTER (difflib layer)
-        if new_p in old_paragraphs:
-            continue
-            
-        # 2. FIND CLOSEST MATCH
-        matches = difflib.get_close_matches(new_p, old_paragraphs, n=1, cutoff=0.3)
+    if not old_paragraphs or not new_paragraphs:
+        return relevant_changes 
         
-        if matches:
-            old_p = matches[0]
+    old_embeddings = model.encode(old_paragraphs, convert_to_tensor=True)
+    new_embeddings = model.encode(new_paragraphs, convert_to_tensor=True)
+    
+    # Matriz de similitud
+    cos_scores = util.cos_sim(old_embeddings, new_embeddings).tolist()
+    
+    # ==============================================================
+    # 1. ALGORITMO DE ASIGNACIÓN EXCLUSIVA (Greedy Matching)
+    # ==============================================================
+    pairs = []
+    for i in range(len(old_paragraphs)):
+        for j in range(len(new_paragraphs)):
+            pairs.append((i, j, cos_scores[i][j]))
             
-            # --- SEMANTIC LAYER ---
-            embedding_old = nlp_model.encode(old_p, convert_to_tensor=True)
-            embedding_new = nlp_model.encode(new_p, convert_to_tensor=True)
-            similarity_score = util.cos_sim(embedding_old, embedding_new).item()
-            
-            # --- ENTITY EXTRACTION LAYER (The Radar) ---
-            # 1. Extract digits (0-9)
-            digits_old = re.findall(r'\d+', old_p)
-            digits_new = re.findall(r'\d+', new_p)
-            
-            # 2. Extract months (ignoring case)
-            months_old = re.findall(month_pattern, old_p, re.IGNORECASE)
-            months_new = re.findall(month_pattern, new_p, re.IGNORECASE)
-            
-            # 3. Extract numbers in text format (one, two...)
-            word_nums_old = re.findall(word_num_pattern, old_p, re.IGNORECASE)
-            word_nums_new = re.findall(word_num_pattern, new_p, re.IGNORECASE)
-            
-            # 4. Extract Emails
-            emails_old = re.findall(email_pattern, old_p)
-            emails_new = re.findall(email_pattern, new_p)
-            
-            # Trigger checks
-            numbers_changed = (digits_old != digits_new) or (word_nums_old != word_nums_new)
-            months_changed = (months_old != months_new)
-            emails_changed = (emails_old != emails_new)
-            
-            # --- FINAL EVALUATION ---
-            if similarity_score < semantic_threshold or numbers_changed or months_changed or emails_changed:
+    # Ordenamos de mayor a menor similitud
+    pairs.sort(key=lambda x: x[2], reverse=True)
+    
+    matched_old = set()
+    matched_new = set()
+    final_matches = []
+    
+    for old_idx, new_idx, score in pairs:
+        if old_idx not in matched_old and new_idx not in matched_new:
+            # Solo emparejamos si la similitud es mínimamente razonable (> 0.50)
+            if score >= 0.50:
+                matched_old.add(old_idx)
+                matched_new.add(new_idx)
+                final_matches.append((old_idx, new_idx, score))
                 
-                # Intelligent classification of the change type
-                if emails_changed:
-                    change_type = "MODIFIED (Email Address Changed)"
-                elif months_changed or numbers_changed:
-                    change_type = "MODIFIED (Critical Dates/Numbers)"
-                else:
-                    change_type = "MODIFIED (Semantic Change)"
-                
-                relevant_changes.append({
-                    "type": change_type,
-                    "similarity": round(similarity_score, 4),
-                    "old_text": old_p,
-                    "new_text": new_p
-                })
-        else:
-            # If no close match is found structurally, it is a completely new paragraph
+    # ==============================================================
+    # 2. DETECCIÓN DE PÁRRAFOS BORRADOS (DELETED)
+    # ==============================================================
+    for i, old_p in enumerate(old_paragraphs):
+        if i not in matched_old:
+            relevant_changes.append({
+                "type": "DELETED",
+                "similarity": 0.0,
+                "old_text": old_p,
+                "new_text": "[PARAGRAPH COMPLETELY REMOVED FROM REGULATION]"
+            })
+
+    # ==============================================================
+    # 3. DETECCIÓN DE AÑADIDOS, MODIFICADOS Y DESCARTES
+    # ==============================================================
+    for j, new_p in enumerate(new_paragraphs):
+        if j not in matched_new:
             relevant_changes.append({
                 "type": "ADDED",
                 "similarity": 0.0,
-                "old_text": None,
+                "old_text": "[NEW PARAGRAPH DETECTED]",
                 "new_text": new_p
             })
+        else:
+            # Recuperamos su pareja asignada
+            old_idx, score = next((o, s) for o, n, s in final_matches if n == j)
+            best_old_p = old_paragraphs[old_idx]
+            best_match_score = score
             
+            if best_match_score < 0.999:
+                
+                # 1. REGEX FILTER 1: Critical Legal Subtlety
+                legal_regex = r'\b(may|must|shall|should|will|cannot|can|required|optional)\b'
+                old_legal = set(re.findall(legal_regex, best_old_p.lower()))
+                new_legal = set(re.findall(legal_regex, new_p.lower()))
+                
+                # REGLA ESTRICTA: Debe superar el 0.90 de similitud matemática para que el Regex actúe
+                has_legal_change = (old_legal != new_legal) and (best_match_score > 0.90)
+                
+                # 2. REGEX FILTER 2: Dates and Numbers
+                num_regex = r'\b(\d+|one|two|three|four|five|six|seven|eight|nine|ten|january|february|march|april|june|july|august|september|october|november|december)\b'
+                old_nums = set(re.findall(num_regex, best_old_p.lower()))
+                new_nums = set(re.findall(num_regex, new_p.lower()))
+                
+                has_num_change = (old_nums != new_nums) and (best_match_score > 0.80)
+                
+                change_type = None
+                
+                if has_legal_change:
+                    change_type = "MODIFIED (Critical Legal Modality)"
+                elif has_num_change:
+                    change_type = "MODIFIED (Critical Dates/Numbers)"
+                else:
+                    length_ratio = min(len(best_old_p), len(new_p)) / max(len(best_old_p), len(new_p))
+                    
+                    if best_match_score >= 0.60 and length_ratio > 0.80:
+                        # TRAMPA SEMÁNTICA DESCARTADA
+                        continue 
+                    else:
+                        change_type = "MODIFIED (Semantic Change)"
+                
+                relevant_changes.append({
+                    "type": change_type,
+                    "similarity": round(best_match_score, 4),
+                    "old_text": best_old_p,
+                    "new_text": new_p
+                })
+                
     return relevant_changes
-
-def extract_text_content(filepath):
-    """Helper function to extract only the '=== TEXT CONTENT ===' part from a file."""
-    try:
-        with open(filepath, 'r', encoding='utf-8') as f:
-            content = f.read()
-            if "=== TEXT CONTENT ===" in content and "=== ATTACHMENTS AND TRACKED LINKS ===" in content:
-                return content.split("=== TEXT CONTENT ===")[1].split("=== ATTACHMENTS AND TRACKED LINKS ===")[0].strip()
-            return content # Fallback if structure is missing
-    except Exception as e:
-        print(f"Error reading file {filepath}: {e}")
-        return ""
-          
-    

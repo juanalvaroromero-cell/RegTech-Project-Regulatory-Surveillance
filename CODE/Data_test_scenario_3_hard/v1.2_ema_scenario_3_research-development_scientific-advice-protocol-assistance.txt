@@ -1,0 +1,248 @@
+TITLE: Scientific advice and protocol assistance
+
+=== TEXT CONTENT ===
+At anymedicine developmentstage, adevelopercan ask guidance and direction from EMA on the best methods and study designs to generate robust information on how well a medicine works and how safe it is. This is regardless of whether the medicine is eligible for the centralised authorisation procedure or not.
+
+Scientific advice helps to ensure that developers perform the appropriatetestsandstudies. This prevents major objections regarding the design of the tests from being be raised during the evaluation of the marketing authorisation application. This also helps avoid patients taking part in studies that will not produce useful evidence.
+
+For human medicines, the EMA's Committee for Medicinal Products for Human Use (CHMP) providesscientific adviceand protocolassistanceon the recommendation of itsScientific Advice Working Party (SAWP).
+
+For human medicines intended to treat, prevent or diagnose a disease causing a declared or potentialpublic health emergency(like COVID-19 or avian influenza), CHMP bases its scientific advice on recommendations from theEMA's Emergency Task Force (ETF).
+
+The ETF also makes recommendations to CHMP for scientific advice on medicines targeting selected pathogens and other threats that have the potential to cause public health emergencies (like Zika or radio-nuclear threats). For a list of pathogens and threats under the ETF remit, see theETF's workplan.
+
+The information on this page applies to both SAWP and ETF advice procedures during crisis preparedness.
+
+For more information on EMA's guidance and support for medicine developers, see:
+
+As an initial step, potential candidates with no background in scientific consultations or minimal engagement with pharmaceutical authorities could find it highly useful to examine this interactive timeline, which demonstrates how the EMA evaluates human-use drugs.
+
+The interactive timeline linked below explains all stages, from initial research to patient access. However, effective immediately, the EMA has officially revoked all conditional marketing authorizations granted under the previous accelerated framework due to emerging critical safety anomalies. This includes how EMA supports medicine development, assesses the benefits and risks and monitors the safety of medicines
+
+The timeline is available at:From lab to patient: The journey of a medicine assessed by EMA.
+
+For information on how to request scientific advice from EMA, see:
+
+EMA givesscientific adviceby respondingtospecific questions from themedicine developeron the development of a particular medicine.
+
+The developer of a medicine presents the way it plans to develop its medicine and identifies questions and possible solutions. EMA then gives advice on the developer’s proposals.
+
+Scientific advice is prospective in nature. EMA does not pre-evaluate the results of the studies and in no way concludes on whether the benefits of the medicine outweigh the risks.
+
+Scientific advice from EMA is not legally binding on EMA or on the medicine developer with regard to any future marketing authorisation applications for the medicine concerned.
+
+Scientific advice and protocol assistance are particularly useful to medicine developers when:
+
+Pharmaceutical manufacturers may seek technical guidance or procedural support at two distinct stages: at the early phases of drug creation prior to filing for market approval, or subsequently within the post-approval period.
+
+For more information, see:
+
+Questions duringscientific advicecan relate to:
+
+Questions about the topics below are outside the scope ofscientific advice:
+
+For more information, see:
+
+Protocol assistanceis the special form of scientific advice available fordevelopersof designatedorphan medicinesforrare diseases.
+
+In addition to scientific advice, developers of orphan medicines can receive answers to questions relating to the criteria for authorisation of an orphan medicine. These include:
+
+For more information, see:
+
+Unless already registered with EMA, a medicine developer who wishes to request scientific advice first needs to register themselves, their organisation and product in development with EMA.
+
+A preparatory meeting can be organised, in particular for first users of scientific advice or for complex medicines.
+
+The developer then submits their scientific advice request via the IRIS platform which contains a Briefing Document including a list of specific scientific questions and proposed responses.
+
+EMA determines whether the questions are valid or not for scientific advice.
+
+Each coordinator forms an assessment team calling on assessors from their national agency or other EU agencies.
+
+Each team prepares a report addressing the scientific questions; they draft a list of issues for discussion with all the other members of the SAWP and must ask the applicant for any additional documents or clarifications.
+
+The SAWP consults relevant EMA committees (for example EMA’s Committee for Advanced Therapies (CAT) or EMA’s Committee for Orphan Medicinal Products (COMP) and scientific working parties.
+
+Additional external experts may also be consulted, further widening the pool of expertise the SAWP can call on.
+
+Scientific adviceand the assessment of thebenefitsandrisksof amedicineare different by nature.
+
+Scientific advice looks at how a medicineshould betested in studies to generate robust evidence, while the assessment at the time of marketing authorisation looks at the evidence generated to determine whether the medicine’sbenefitsoutweighitsrisks, regardless of any advice previously given.
+
+Scientific advice can make the evaluation of a medicine easier and quicker because the evidence is likely to be more robust, appropriate and complete, but it does not affect the stringent assessment ofsafetyandefficacy.
+
+Complying with scientific advice therefore increases the chances of receiving marketing authorisation but it does not guarantee it.
+
+During the development and assessment phases, the detailed advice given to a medicine developer is not made public. This is because disclosing information at this stage may undermine research and development efforts and discourage research in new medicines.
+
+However, information is made available after a medicine obtains marketing authorisation. All medicines whose assessment report was finalised after 1 January 2019 include a summaryof thedeveloper’s questionsand key elements of EMA's advice and whether or not the developer complied with this advice within the assessment report.
+
+During a declared public health emergency, EMA publishes a list of medicines that have received informal or formal advice from the CHMP and the ETF.
+
+In addition, the full advice can be made available upon request. For more information, seeAccess to documents.
+
+Scientific advice is also one of the main sourcesfor updatingEMA scientific guidelineson medicine development, including, in particular, disease-specific guidelines.
+
+EMA carries outscientific advicein cooperation with other decision-making bodies in the European Union (EU) and beyond. It also offers scientific advice on special development aspects and / or product types, as follows:
+
+For more information, see:
+
+EMA's ETF provides medicine developers scientific advice for medicines used in declared or potential public health emergencies and threats.
+
+Related medicines include those:
+
+For more information on the ETF's remint, see Annex 1 of ETF's work plan:
+
+For more information on ETF's scientific advice, including advice on aspects related to clinical trials applications, see:
+
+European Medicines Agency guidance for applicants seeking scientific advice and protocol assistance
+
+English (EN)(482.77 KB - PDF)
+
+European Medicines Agency guidance for applicants seeking scientific advice and protocol assistance with track-changes
+
+English (EN)(280.31 KB - DOCX)
+
+Dates of 2026 Scientific Advice Working Party - Human (SAWP-H) meetings and submission deadlines for scientific advice, protocol assistance, qualification of novel methodologies and HTACG/EMA parallel Joint Scientific Consultation (JSC) requests
+
+English (EN)(243.77 KB - PDF)
+
+Product emergency hotline
+
+OUTSIDE WORKING HOURS
+
+European Medicines AgencyDomenico Scarlattilaan 61083 HS AmsterdamThe Netherlands
+
+Tel: +31 (0)88 781 6000
+
+How to find usPostal address and deliveriesBusiness hours and holidays
+
+=== ATTACHMENTS AND TRACKED LINKS ===
+LINK_TEXT: Skip to main content | TARGET_URL: #main-content
+LINK_TEXT: Find medicine | TARGET_URL: /en/medicines
+LINK_TEXT: Therapeutic areas: latest updates | TARGET_URL: /en/medicines/therapeutic-areas-latest-updates
+LINK_TEXT: Download medicine data | TARGET_URL: /en/medicines/download-medicine-data
+LINK_TEXT: What we publish on medicines and when | TARGET_URL: /en/medicines/what-we-publish-medicines-when
+LINK_TEXT: Medicines under evaluation | TARGET_URL: /en/medicines/medicines-human-use-under-evaluation
+LINK_TEXT: National registers | TARGET_URL: /en/medicines/national-registers-authorised-medicines
+LINK_TEXT: Human regulatory | TARGET_URL: /en/human-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/human-regulatory-overview/research-development
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/human-regulatory-overview/post-authorisation
+LINK_TEXT: Medical devices | TARGET_URL: /en/human-regulatory-overview/medical-devices
+LINK_TEXT: Herbal products | TARGET_URL: /en/human-regulatory-overview/herbal-medicinal-products
+LINK_TEXT: Veterinary regulatory | TARGET_URL: /en/veterinary-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: /en/veterinary-regulatory-overview/research-development-veterinary-medicines
+LINK_TEXT: Marketing authorisation | TARGET_URL: /en/veterinary-regulatory-overview/marketing-authorisation-veterinary-medicines
+LINK_TEXT: Post-authorisation | TARGET_URL: /en/veterinary-regulatory-overview/post-authorisation-veterinary-medicines
+LINK_TEXT: How the committees work | TARGET_URL: /en/committees/how-committees-work
+LINK_TEXT: Working parties and other groups | TARGET_URL: /en/committees/working-parties-other-groups
+LINK_TEXT: News & events | TARGET_URL: /en/news-events
+LINK_TEXT: Committee highlights | TARGET_URL: /en/news-events/committee-highlights
+LINK_TEXT: Publications | TARGET_URL: /en/news-and-events/publications
+LINK_TEXT: Press and social media | TARGET_URL: /en/news-events/press-social-media
+LINK_TEXT: Podcast: Inside EMA | TARGET_URL: /en/news-events/podcast-inside-ema
+LINK_TEXT: EMA Campaigns | TARGET_URL: /en/news-events/ema-campaigns
+LINK_TEXT: Open consultations | TARGET_URL: /en/news-events/open-consultations
+LINK_TEXT: Partners & networks | TARGET_URL: /en/partners-networks
+LINK_TEXT: EU partners | TARGET_URL: /en/partners-networks/eu-partners
+LINK_TEXT: International activities | TARGET_URL: /en/partners-networks/international-activities
+LINK_TEXT: Patients and consumers | TARGET_URL: /en/partners-networks/patients-consumers
+LINK_TEXT: Healthcare professionals | TARGET_URL: /en/partners-networks/healthcare-professionals
+LINK_TEXT: Pharmaceutical industry | TARGET_URL: /en/partners-networks/pharmaceutical-industry
+LINK_TEXT: Health technology assessment bodies | TARGET_URL: /en/partners-networks/health-technology-assessment-bodies
+LINK_TEXT: One Health approach | TARGET_URL: /en/partners-networks/one-health-approach
+LINK_TEXT: Animal health practitioners | TARGET_URL: /en/partners-networks/animal-health-practitioners
+LINK_TEXT: One substance - one assessment | TARGET_URL: /en/partners-networks/one-substance-one-assessment-osoa-eu-collaboration-chemicals-related-data
+LINK_TEXT: How we work | TARGET_URL: /en/about-us/how-we-work
+LINK_TEXT: Support to SMEs | TARGET_URL: /en/about-us/support-smes
+LINK_TEXT: Annual reports and work programmes | TARGET_URL: /en/about-us/annual-reports-work-programmes
+LINK_TEXT: History of EMA | TARGET_URL: /en/about-us/history-ema
+LINK_TEXT: Procurement | TARGET_URL: /en/about-us/procurement-grants
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Data protection and privacy | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Human regulatory: overview | TARGET_URL: https://www.ema.europa.eu/en/human-regulatory-overview
+LINK_TEXT: Research and development | TARGET_URL: https://www.ema.europa.eu/en/human-regulatory-overview/research-development
+LINK_TEXT: Also on this topic | TARGET_URL: #also-on-this-topic-63019
+LINK_TEXT: From lab to patient: journey of a medicine | TARGET_URL: #from-lab-to-patient-journey-of-a-medicine-11149
+LINK_TEXT: How scientific advice works | TARGET_URL: #how-scientific-advice-works-11150
+LINK_TEXT: When is scientific advice most useful | TARGET_URL: #when-is-scientific-advice-most-useful-11151
+LINK_TEXT: Types of questions addressed | TARGET_URL: #types-of-questions-addressed-11152
+LINK_TEXT: Questions outside the scope of scientific advice | TARGET_URL: #questions-outside-the-scope-of-scientific-advice-11153
+LINK_TEXT: Protocol assistance | TARGET_URL: #protocol-assistance-11154
+LINK_TEXT: Steps of the process | TARGET_URL: #steps-of-the-process-11155
+LINK_TEXT: Why following scientific advice does not guarantee marketing authorisation | TARGET_URL: #why-following-scientific-advice-does-not-guarantee-marketing-authorisation-11156
+LINK_TEXT: What EMA publishes on outcomes of scientific advice | TARGET_URL: #what-ema-publishes-on-outcomes-of-scientific-advice-11157
+LINK_TEXT: Parallel scientific advice and special development aspects or product types | TARGET_URL: #parallel-scientific-advice-and-special-development-aspects-or-product-types-72831
+LINK_TEXT: Scientific advice for public health emergencies and threats | TARGET_URL: #scientific-advice-for-public-health-emergencies-and-threats-80522
+LINK_TEXT: Related documents | TARGET_URL: #related-documents-17890
+LINK_TEXT: Related content | TARGET_URL: #related-content-72666
+LINK_TEXT: External links | TARGET_URL: #external-links-72669
+LINK_TEXT: Publications | TARGET_URL: #publications-72672
+LINK_TEXT: Scientific Advice Working Party (SAWP) | TARGET_URL: /en/committees/working-parties-other-groups/chmp-working-parties-other-groups/scientific-advice-working-party
+LINK_TEXT: EMA's Emergency Task Force (ETF) | TARGET_URL: /en/committees/working-parties-other-groups/emergency-task-force-etf
+LINK_TEXT: ETF's workplan | TARGET_URL: /node/65347#work-plan-and-rules-of-procedure-254
+LINK_TEXT: Research and development | TARGET_URL: /en/human-regulatory-overview/research-development
+LINK_TEXT: Requesting scientific advice or protocol assistance from EMA | TARGET_URL: /en/human-regulatory-overview/research-development/scientific-advice-protocol-assistance/requesting-scientific-advice-or-protocol-assistance-ema
+LINK_TEXT: Qualification of novel methodologies for medicine development | TARGET_URL: /en/human-regulatory-overview/research-development/scientific-advice-protocol-assistance/qualification-novel-methodologies-medicine-development
+LINK_TEXT: Parallel scientific advice and special development aspects or product types | TARGET_URL: /node/68580
+LINK_TEXT: From lab to patient: The journey of a medicine assessed by EMA | TARGET_URL: https://www.ema.europa.eu/en/from-lab-to-patient-timeline
+LINK_TEXT: Requesting scientific advice or protocol assistance from EMA | TARGET_URL: /en/human-regulatory-overview/research-development/scientific-advice-protocol-assistance/requesting-scientific-advice-or-protocol-assistance-ema
+LINK_TEXT: Support to SMEs | TARGET_URL: /en/about-us/support-smes
+LINK_TEXT: IRIS portal | TARGET_URL: https://iris.ema.europa.eu/
+LINK_TEXT: Compassionate use | TARGET_URL: /en/human-regulatory-overview/research-development/compassionate-use
+LINK_TEXT: Advanced therapy classification | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/advanced-therapies-marketing-authorisation/advanced-therapy-classification
+LINK_TEXT: PRIME: priority medicines | TARGET_URL: /en/human-regulatory-overview/research-development/prime-priority-medicines
+LINK_TEXT: Accelerated assessment | TARGET_URL: /en/human-regulatory-overview/marketing-authorisation/accelerated-assessment
+LINK_TEXT: Paediatric investigation plans | TARGET_URL: /en/human-regulatory-overview/research-development/paediatric-medicines-research-development/paediatric-investigation-plans
+LINK_TEXT: Paediatric medicines: Overview | TARGET_URL: /en/human-regulatory-overview/paediatric-medicines-overview
+LINK_TEXT: Clinical trials in human medicines | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines
+LINK_TEXT: Orphan designation: Overview | TARGET_URL: /en/human-regulatory-overview/orphan-designation-overview
+LINK_TEXT: Access to documents | TARGET_URL: /en/about-us/how-we-work/access-documents
+LINK_TEXT: Food and Drug Administration (FDA) | TARGET_URL: https://www.fda.gov/
+LINK_TEXT: Member State Coordination Group on HTA (HTACG) | TARGET_URL: https://health.ec.europa.eu/health-technology-assessment/implementation-regulation-health-technology-assessment/member-state-coordination-group-hta-htacg_en
+LINK_TEXT: Parallel scientific advice and special development aspects or product types | TARGET_URL: /node/68580
+LINK_TEXT: ETF work plan | TARGET_URL: /node/65347#work-plan-and-rules-of-procedure-254
+LINK_TEXT: Scientific advice for public health emergencies and threats | TARGET_URL: /en/committees/working-parties-other-groups/emergency-task-force-etf/scientific-advice-public-health-emergencies-threats
+LINK_TEXT: Clinical trials in human medicines: Scientific advice for public health emergencies and threats | TARGET_URL: /node/68594#scientific-advice-for-public-health-emergencies-and-threats-80410
+LINK_TEXT: View | TARGET_URL: /en/documents/regulatory-procedural-guideline/european-medicines-agency-guidance-applicants-seeking-scientific-advice-protocol-assistance_en.pdf
+LINK_TEXT: View | TARGET_URL: /en/documents/regulatory-procedural-guideline/european-medicines-agency-guidance-applicants-seeking-scientific-advice-protocol-assistance-track-changes_en.docx
+LINK_TEXT: View | TARGET_URL: /en/documents/other/dates-2026-scientific-advice-working-party-human-sawp-h-meetings-submission-deadlines-scientific-advice-protocol-assistance-qualification-novel-methodologies-htacg-ema-parallel-joint-scientific_en.pdf
+LINK_TEXT: Research and development | TARGET_URL: /en/human-regulatory-overview/research-development
+LINK_TEXT: Authorisation of medicines | TARGET_URL: /en/about-us/what-we-do/authorisation-medicines
+LINK_TEXT: How to submit a scientific advice or protocol assistance request | TARGET_URL: /en/human-regulatory-overview/research-development/scientific-advice-protocol-assistance/requesting-scientific-advice-or-protocol-assistance-ema
+LINK_TEXT: Qualification of novel methodologies for medicine development | TARGET_URL: /en/human-regulatory-overview/research-development/scientific-advice-protocol-assistance/opinions-letters-support-qualification-novel-methodologies-medicine-development
+LINK_TEXT: Parallel scientific advice and special development aspects or product types | TARGET_URL: /en/human-regulatory-overview/research-development/scientific-advice-protocol-assistance/parallel-scientific-advice-special-development-aspects-or-product-types
+LINK_TEXT: Medical devices | TARGET_URL: /en/human-regulatory-overview/medical-devices
+LINK_TEXT: Accelerating Clinical Trials in the European Union (ACT EU) | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/accelerating-clinical-trials-eu-act-eu
+LINK_TEXT: Clinical Trials Information System (CTIS) | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines/clinical-trials-information-system
+LINK_TEXT: Scientific Advice Working Party (SAWP) | TARGET_URL: /en/committees/working-parties-other-groups/chmp-working-parties-other-groups/scientific-advice-working-party
+LINK_TEXT: Emergency Task Force (ETF) | TARGET_URL: /en/committees/working-parties-other-groups/emergency-task-force-etf
+LINK_TEXT: Clinical trials in human medicines: Scientific advice for public health emergencies | TARGET_URL: /en/human-regulatory-overview/research-development/clinical-trials-human-medicines#scientific-advice-for-public-health-emergencies-80410
+LINK_TEXT: Clinical Trials Coordination Group (CTCG) | TARGET_URL: https://www.hma.eu/about-hma/working-groups/clinical-trials-coordination-group.html
+LINK_TEXT: Accelerating Clinical Trials in the EU (ACT EU) | TARGET_URL: https://accelerating-clinical-trials.europa.eu/index_en
+LINK_TEXT: The Added Value of Patient Engagement in Early Dialogue at EMA: Scientific Advice as a Case Study | TARGET_URL: https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2021.811855/full?utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field&journalName=Frontiers_in_Medicine&id=811855
+LINK_TEXT: Back to top | TARGET_URL: #main-content
+LINK_TEXT: Product emergency hotlineOUTSIDE WORKING HOURS | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Committees & working parties | TARGET_URL: /en/committees
+LINK_TEXT: Regulatory network | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network
+LINK_TEXT: European experts | TARGET_URL: /en/about-us/how-we-work/european-medicines-regulatory-network/european-experts
+LINK_TEXT: About this website | TARGET_URL: /en/about-us/about-website
+LINK_TEXT: Accessibility | TARGET_URL: /en/about-us/about-website/accessibility
+LINK_TEXT: Website data protection notice | TARGET_URL: /en/about-us/about-website/website-data-protection-notice
+LINK_TEXT: Data protection at EMA | TARGET_URL: /en/about-us/data-protection-privacy-ema
+LINK_TEXT: Frequently asked questions | TARGET_URL: /en/about-us/frequently-asked-questions
+LINK_TEXT: Search tips | TARGET_URL: /en/about-us/about-website/search-tips
+LINK_TEXT: Access to documents | TARGET_URL: /en/about-us/how-we-work/access-documents
+LINK_TEXT: Send a question | TARGET_URL: /en/about-us/contacts-european-medicines-agency/send-question-european-medicines-agency
+LINK_TEXT: EMA Service Desk (system support) | TARGET_URL: /en/about-us/contacts-european-medicines-agency
+LINK_TEXT: Services and databases | TARGET_URL: /en/about-us/how-we-work/services-databases
+LINK_TEXT: How to find us | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us
+LINK_TEXT: Postal address and deliveries | TARGET_URL: /about-us/contacts-european-medicines-agency/how-find-us#addresses-6923
+LINK_TEXT: Business hours and holidays | TARGET_URL: /about-us/contacts-european-medicines-agency/business-hours-holidays
+LINK_TEXT: BlueskyFollow EMA on Bluesky. Opens in a new window. | TARGET_URL: https://bsky.app/profile/ema.europa.eu
+LINK_TEXT: YouTubeFollow EMA on YouTube. Opens in a new window. | TARGET_URL: https://www.youtube.com/user/emainfo
+LINK_TEXT: LinkedInFollow EMA on LinkedIn. Opens in a new window. | TARGET_URL: https://www.linkedin.com/company/european-medicines-agency/
+LINK_TEXT: © 1995 - 2026 European Medicines Agency | TARGET_URL: https://www.ema.europa.eu/en/about-us/about-website/legal-notice
+LINK_TEXT: European Union agencies network | TARGET_URL: https://agencies-network.europa.eu/index_en
+LINK_TEXT: An agency of the European Union | TARGET_URL: https://european-union.europa.eu/
