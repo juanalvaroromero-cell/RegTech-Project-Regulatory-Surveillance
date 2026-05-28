@@ -113,7 +113,7 @@ Open your command terminal in your workspace directory and execute:
 git clone <repository-url>
 cd RegTech-Platform-Regulatory-Surveillance
 pip install -r requirements.txt
-
+```
 ### 2. Configure Environment Secrets
 Create a file named .env in the root directory of the project to protect your keys:
 ```bash
