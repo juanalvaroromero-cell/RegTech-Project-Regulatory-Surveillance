@@ -139,4 +139,4 @@ I will miss the afternoon icebreakers.😜
 
 To my **Ironhack Classmates:** Thank you for the shared hours of code, intense technical debates, late-night debugging sessions, and for building an unmatched collaborative environment. Your constant support and exchange of ideas turned this academic challenge into an unforgettable, shared journey. This final project carries a piece of the great energy of this entire cohort❤️💪.
 
-💊🇪🇦 Developed with pride by Juan Álvaro Romero | Final Project Big Data & Machine Learning MVP | © 2026 🇪🇦💊
+💊 Developed with pride by Juan Álvaro Romero | Final Project Big Data & Machine Learning MVP | © 2026 💊
