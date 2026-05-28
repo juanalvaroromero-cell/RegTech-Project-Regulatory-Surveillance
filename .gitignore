@@ -1,0 +1,10 @@
+# Ignorar archivos con variables de entorno o contraseñas
+.env
+# Ignorar archivos compilados o logs
+*.log
+__pycache__/
+# Ignorar archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+# Ignorar dependencias
+node_modules/
