@@ -8,3 +8,5 @@ __pycache__/
 Thumbs.db
 # Ignorar dependencias
 node_modules/
+# Ignorar Mailing list
+mailing_lists.json

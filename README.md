@@ -86,7 +86,7 @@ The user interface abstracts the backend data complexity into an elegant, intera
 ├── BD/
 │   └── regtech_data.db        # Relational SQLite Database (Snapshots & Executive Reports)
 ├── logs/
-│   └── pipeline_run_*.log     # Chronological technical logging files
+│   └── pipeline_run_*.log     # Chronological technical logging files **CREATED ON THE FLY**
 ├── Data_test_scenario_2_easy/ # Scenario 2 Local test files (Happy Path verification)
 ├── Data_test_scenario_3_hard/ # Scenario 3 Local test files (Corner Cases verification)
 ├── app.py                     # Main Streamlit Executive Frontend & Dashboard UI

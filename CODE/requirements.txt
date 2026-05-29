@@ -1,0 +1,23 @@
+# --- RegTech Platform Dependencies ---
+
+# Web Scraping & API
+requests
+beautifulsoup4
+
+# NLP & Machine Learning
+sentence-transformers
+
+# Database & ORM
+SQLAlchemy
+
+# Environment Variables
+python-dotenv
+
+# Frontend Dashboard (UI)
+streamlit
+pandas
+Pillow
+
+# PDF & Formatting
+reportlab
+Markdown
